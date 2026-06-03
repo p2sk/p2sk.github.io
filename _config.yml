@@ -1,0 +1,39 @@
+# Jekyll-Konfiguration für GitHub Pages
+# Diese Datei gehört ins Wurzelverzeichnis des veröffentlichten Repos.
+
+title: Tennis-Training
+lang: de
+
+# Markdown-Engine: GitHub-Flavored Markdown (Tabellen, etc.)
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Plugins (alle auf der GitHub-Pages-Whitelist)
+plugins:
+  - jekyll-relative-links     # macht aus [x](foo.md) automatisch foo.html
+
+# Relative .md-Links auch in Collections umschreiben (hier nicht zwingend nötig)
+relative_links:
+  enabled: true
+  collections: false
+
+# Layout-Default: jede Seite bekommt das markdown-body-Template
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Nicht veröffentlichen (Jekyll-Maschinerie, Skripte, Rohdaten)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - "*.py"
+  - "*.ods"
+  - "*.xlsx"
+  - .sass-cache
+  - .jekyll-cache

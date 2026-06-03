@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }}{% else %}{{ page.name | remove: '.md' | remove: '.html' }}{% endif %}</title>
+<link rel="stylesheet" href="{{ '/assets/css/markdown.css' | relative_url }}">
+</head>
+<body data-theme="auto">
+<article class="markdown-body">
+{{ content }}
+</article>
+</body>
+</html>
