@@ -188,7 +188,6 @@
 | Ben Waschkau | G1 / Charlize | Rot Einsteiger |
 | Hagen Zapp | G1 / Charlize | Rot Einsteiger |
 | Jonas Bräutigam | G1 / Charlize | Rot Einsteiger |
-| Maimuna Ousrhir | G1 / Charlize | Rot Einsteiger |
 | Nora Akrach | G1 / Charlize | Rot Einsteiger |
 | Aaron Pagitsch | G2 / Jessalyn | Rot Einsteiger |
 | Arthur Franzen | G2 / Jessalyn | Rot Einsteiger |
