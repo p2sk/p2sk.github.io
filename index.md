@@ -82,7 +82,7 @@
 | Fr, 29.05.2026 | [zur Übersicht](./5-29/index.md) |
 | Sa, 30.05.2026 | [zur Übersicht](./5-30/index.md) |
 | Fr, 05.06.2026 | [zur Übersicht](./6-5/index.md) |
-
+| Sa, 06.06.2026 | [zur Übersicht](./6-6/index.md) |
 ---
 
 ## Längerer Verbleib in der Stufe (≥ 2 Saisons)
@@ -92,6 +92,7 @@
 Mehrere Gruppen wechseln Trainer; in Phase 3 verstärkt selbstständiges Spielen mit Zählen und Regeln, taktische Elemente vor dem Spiel einüben und im Spiel anwenden. Siehe `../Referenz/Methodik-Prinzipien.md`.
 
 ## Cluster-Verteilung (Übersicht)
+
 | Cluster | Anzahl Gruppen |
 |---|---|
 | A – Blau | 1 |
