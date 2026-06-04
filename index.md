@@ -62,7 +62,7 @@
 |---|---|---|---|---|
 | 10:00 | [10-3-O](./saison/Saisonplan_10-3-O.md) 🔴→🟠 | [10-1-R](./saison/Saisonplan_10-1-R.md) 🔴 | [10-2-O](./saison/Saisonplan_10-2-O.md) 🔴→🟠 | [10-1-R](./saison/Saisonplan_10-1-R.md) 🔴 |
 | 11:00 | Elterntraining | [11-2-O](./saison/Saisonplan_11-2-O.md) 🔴→🟠 | [11-1-R](./saison/Saisonplan_11-1-R.md) 🔴 | [11-1-R](./saison/Saisonplan_11-1-R.md) 🔴 |
-| 12:00 | [12-2-G](./saison/Saisonplan_12-2-G.md) 🟠→🟢 · [12-E-O](./saison/Saisonplan_12-E-O.md) 🟠→🟢 | [12-1-O](./saison/Saisonplan_12-1-O.md) 🟠 | — | [12-1-O](./saison/Saisonplan_12-1-O.md) 🟠 |
+| 12:00 | [12-E-O](./saison/Saisonplan_12-E-O.md) 🟠→🟢 | [12-1-O](./saison/Saisonplan_12-1-O.md) 🟠 | [12-2-G](./saison/Saisonplan_12-2-G.md) 🟠→🟢  | [12-1-O](./saison/Saisonplan_12-1-O.md) 🟠 |
 | 13:00 | [13-1-G](./saison/Saisonplan_13-1-G.md) 🟢 | [13-B-Selbst](./saison/Saisonplan_13-B-Selbst.md) 🔵 | [13-1-G](./saison/Saisonplan_13-1-G.md) 🟢 | [13-B-Selbst](./saison/Saisonplan_13-B-Selbst.md) 🔵 |
 
 
