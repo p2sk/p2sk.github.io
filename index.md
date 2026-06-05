@@ -70,7 +70,6 @@
 
 ## Verfügbare Trainingseinheiten
 
-### Fr, 08.05.2026
 
 | Datum | Datei |
 |---|---|

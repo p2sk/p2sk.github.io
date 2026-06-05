@@ -4,9 +4,9 @@
 **Gruppe:** 12-2-G | **Dauer:** 60 min | **Feld:** Großfeld | **Ball:** Grünball
 _TE · Reihe: RH beidhändig Grundlagen & Verbesserung · `AW-10 → GS-G10 (TE·F) → GS-G11 (TE·F (Steig.)) → GS-G12 (TA·S)`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 12-2-G | Pascal | 4 | 12:00 | Sa 06.06. (T4) |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 12-2-G | Pascal | 4 | 12:00 | Sa 06.06. (T4) | Greta Philipps, Lina Hochmuth, Lou Spindler, Milla Weber |
 
 > ⚠️ **Eigener Track:** 12-2-G wurde mitten in der Saison neu eingestuft (T1+T2 als Cluster F gespielt). T3 war Topspin **VH** Großfeld. Heute dieselbe Bewegungslogik auf die **Rückhand**: beidhändig, linke Hand zieht durch, auf längere Distanz übertragen (großzügiger Ausschwung, tiefer ansetzen).
 

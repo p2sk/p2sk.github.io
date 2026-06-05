@@ -4,10 +4,10 @@
 **Gruppe:** 17-1-O · 17-2-O | **Dauer:** 60 min | **Feld:** Großfeld | **Ball:** Grünball
 _Taktikstunde · `AW-10 (Ampel) → TT-GL01 (TA·S) → GL-A09 (TA·S) → offenes Einzel + Ampel-Zählung`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 17-1-O | Pascal | 4 | 17:00 | Fr 05.06. (T5) · gem. Platz mit 17-2-O |
-| 17-2-O | Ben | 2 | 17:00 | Fr 05.06. (T5) · gem. Platz mit 17-1-O |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 17-1-O | Pascal | 4 | 17:00 | Fr 05.06. (T5) · gem. Platz mit 17-2-O | Elias Ayas, Jakob Machura, Henry Plier, Finn Bagdu |
+| 17-2-O | Ben | 2 | 17:00 | Fr 05.06. (T5) · gem. Platz mit 17-1-O | Jonathan Röhm, Noam Nebel |
 
 > T4 war Cross-/Longline-Steuerung (Schulterachse). Die Schläge sind steuerbar – heute **Taktik**: erkennen, ob meine Situation **defensiv / neutral / offensiv** ist, und passend handeln (inkl. Übergang ans Netz). Keine Technikkorrektur im Punktverlauf, Rückmeldung erst nach dem Punkt.
 

@@ -4,13 +4,13 @@
 **Gruppe:** 15-2-RO · 15-3-RO · 16-2-O · 18-2-O · 18-3-O | **Dauer:** 60 min | **Feld:** Midcourt (18 × 6,4 m) | **Ball:** Orangeball
 _Spielregel-/Spielform-Stunde · `AW-05 → Anspiel von unten (KT-R25 angepasst) + Regelkunde → Einzel-Match (Tie-Break)`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 15-2-RO | Pascal | 5 | 15:00 | Fr 05.06. (T5) |
-| 15-3-RO | Ben | 4 | 15:00 | Fr 05.06. (T5) |
-| 16-2-O | Ben | 5 | 16:00 | Fr 05.06. (T5) |
-| 18-2-O | Pascal | 4 | 18:00 | Fr 05.06. (T5) · gem. Platz mit 18-3-O |
-| 18-3-O | Ben | 3 | 18:00 | Fr 05.06. (T5) · gem. Platz mit 18-2-O |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 15-2-RO | Pascal | 5 | 15:00 | Fr 05.06. (T5) | Anna De Silva, Marlene Ehring, Marlis Umbach, Mathilda Moskopp, Sophie Trojan |
+| 15-3-RO | Ben | 4 | 15:00 | Fr 05.06. (T5) | Ege Yöndem, Louis Herok, Jan Demant, Mona Hochmuth |
+| 16-2-O | Ben | 5 | 16:00 | Fr 05.06. (T5) | Aaron Akdagcik, Fabian Störmann, Linja Rübsteck, Louis Akdagcik, Phileas Asholt |
+| 18-2-O | Pascal | 4 | 18:00 | Fr 05.06. (T5) · gem. Platz mit 18-3-O | Anouk Weber, Julia Schneider, Anna Böcker, Jana Günther |
+| 18-3-O | Ben | 3 | 18:00 | Fr 05.06. (T5) · gem. Platz mit 18-2-O | Emiliya Siamenava, Leila Dahmoun |
 
 > T4 war Volley + Netzposition. Ball läuft auf Midcourt. Heute Schwerpunkt **Selbstständigkeit**: den Punkt selbst eröffnen (Anspiel) und nach Regeln zählen.
 

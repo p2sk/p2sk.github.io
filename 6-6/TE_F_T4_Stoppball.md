@@ -4,9 +4,9 @@
 **Gruppe:** 13-1-G | **Dauer:** 60 min | **Feld:** Großfeld | **Ball:** Grünball
 _TE → TA · Reihe: Stoppball · `BW-01 → GL-T06 (TE·F/S) → GL-T04 (TE·F) → GL-T05 (TA·S)`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 13-1-G | Pascal + Charlize | 3 | 13:00 | Sa 06.06. (T4) |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 13-1-G | Pascal + Charlize | 3 | 13:00 | Sa 06.06. (T4) | Finn Bagdu, Finn Hanrieder, Louis Köneke |
 
 > T3 war Slice in der Rallye (Topspin ↔ Slice situativ). Heute baut der **Stoppball** auf der Slice-Bewegung auf – gleiche Ausholbewegung, aber **kürzer und langsamer**: den Ball „einschläfern", kurz hinter das Netz.
 

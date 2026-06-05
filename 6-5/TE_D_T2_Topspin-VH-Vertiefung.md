@@ -4,9 +4,9 @@
 **Gruppe:** 16-3-Gr | **Dauer:** 60 min | **Feld:** Großfeld · Grüne Bälle
 _TE · Reihe O-1/O-4 (angepasst) · `TS-02 (Topspin-Coop) → GS-O02 (TE·G (Steig.)) → GS-O09 (TE·G) → GS-O03 (TA·S)`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 16-3-Gr | Charlize | 5 | 16:00 | Fr 05.06. (T5 · Inhalt Cluster D T2) |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 16-3-Gr | Charlize | 5 | 16:00 | Fr 05.06. (T5 · Inhalt Cluster D T2) | Greta Philipps, Lina Hochmuth, Marie Spicker, Lou Spindler, Julia Spicker |
 
 > **Materialhinweis:** Reihe O-1/O-4 ist für Midcourt + Orangeball konzipiert. Diese Gruppe spielt auf **Großfeld mit grünen Bällen** (körperlich geeignet, technisch Orange-Niveau). Anpassungen: Standorte nach hinten verschoben, Zielfelder größer markieren.
 >

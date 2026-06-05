@@ -4,10 +4,12 @@
 **Gruppe:** 17-3-R · 18-1-R | **Dauer:** 60 min | **Feld:** Minifeld (12 × 6 m) | **Ball:** Rotball
 _TE · Reihe: RH beidhändig Grundlagen · `AW-11 → KT-R19 (TE·G) → KT-R20 (TE·G (Steig.)) → KT-R21 (TA)`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 17-3-R | Charlize (G1) + Jessalyn (G2) | 9 | 17:00 | Fr 05.06. (T3) |
-| 18-1-R | Charlize (G1) + Jessalyn (G2) | 9 | 18:00 | Fr 05.06. (T3) |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 17-3-R | Charlize (G1) + Jessalyn (G2) | 9 | 17:00 | Fr 05.06. (T3) | G1: Lara Becker, Ronja Kröber, Sarah Melis, Sofia Melis · G2: Lewin Pütz, Samuel Schulze |
+| 18-1-R | Charlize (G1) + Jessalyn (G2) | 9 | 18:00 | Fr 05.06. (T3) | G1: Ben Waschkau, Hagen Zapp, Jonas Bräutigam, Maimuna Ousrhir, Nora Akrach · G2: Aaron Pagitsch, Arthur Franzen, Boxiu Wang, Leo Böcker |
+| 10-1-R | Ben + Jessalyn | 7 | 10:00 | Sa 06.06. (T3) | Charlotte Nelleßen, Juna Mooren, Leonard Mauer, Leonie Hebisch, Lily Ava Propheter, Luke Rotter, Nelío Neuburger |
+| 11-1-R | Charlize (G1) + Jessalyn (G2) | 9 | 11:00 | Sa 06.06. (T3) | G1: Amy Zeneli, Frederik Ansorge, Morana Maric · G2: Aaron Pagitsch, Leo Böcker, Lewin Pütz, Malin Mooren, Mona Hochmuth, Paul Rinker |
 
 > T2 war Vorhand Grundschlag – Griff, Treffpunkt vorne, Schritt sitzen. Heute: die **Rückhand beidhändig** – gleicher Treffpunkt-Gedanke, aber zwei Hände am Griff.
 

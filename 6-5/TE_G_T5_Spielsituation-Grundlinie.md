@@ -4,10 +4,10 @@
 **Gruppe:** 16-1-G · 19-2-Gr | **Dauer:** 60 min | **Feld:** Großfeld | **Ball:** Gelb
 _Taktikstunde · `AW-09 (Farbcodes) → TT-GL01 (TA·S) → GL-A03 (TA·S) → GL-M02 + Mini-Druck`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 16-1-G | Pascal | 4 | 16:00 | Fr 05.06. (T5) |
-| 19-2-Gr | Charlize | 4 | 19:00 | Fr 05.06. (T5) |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 16-1-G | Pascal | 4 | 16:00 | Fr 05.06. (T5) | Viktor Franzen, Louis Köneke, Louis Ayas, Finn Hanrieder |
+| 19-2-Gr | Charlize | 4 | 19:00 | Fr 05.06. (T5) | Elisa Manfredini, Marlene Grubert, Anne Butterweck, Milla Weber |
 
 > T4 war Returnspiel aktiv. Heute **Taktik Grundlinie**: neutral / offensiv / defensiv erkennen und passend entscheiden. Rückmeldung erst nach dem Punkt – keine Technikkorrektur im Lauf.
 

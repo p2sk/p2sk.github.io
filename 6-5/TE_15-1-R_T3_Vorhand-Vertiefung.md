@@ -4,9 +4,9 @@
 **Gruppe:** 15-1-R | **Dauer:** 60 min | **Feld:** Minifeld (12 × 6 m) | **Ball:** Rotball
 _TE · Reihe: VH Vertiefung & erstes Zuspiel · `AW-04 → KT-R12 (TE·G (Steig.)) → KT-R15 (TA·F→S) → KT-R18 (TA·S)`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 15-1-R | Charlize | 7 | 15:00 | Fr 05.06. (T3) |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 15-1-R | Charlize | 7 | 15:00 | Fr 05.06. (T3) | Alma Zapp, Charlotte Nelleßen, Ela Özdemir, Lily Ava Propheter, Lina Waschkau, Rieke Marie Röhm, Mila Zub |
 
 > **Sonderfall Taktung:** 15-1-R läuft langsamer als 17-3-R/18-1-R (2× Vorhand, mind. 2 Saisons in Rot). Heute **nicht** Rückhand, sondern Vorhand-Vertiefung: Wiederholung Treffpunkt + erste Zuspiele aus der Hand.
 

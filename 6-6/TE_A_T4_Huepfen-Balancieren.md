@@ -4,9 +4,9 @@
 **Gruppe:** 13-B-Selbst | **Dauer:** 60 min | **Feld:** Halle oder Platz | **Ball:** Schaumstoff / Low-T / Tennisball
 _Phase 1 T4 – Koordination, ohne Schläger · `Stationen: Balancieren → Hüpfen/Parcours → kooperatives Abschluss-Spiel`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 13-B-Selbst | Ben + Jessalyn | 5 | 13:00 | Sa 06.06. (T4) |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 13-B-Selbst | Ben + Jessalyn | 5 | 13:00 | Sa 06.06. (T4) | Emilia Mauer, Enno Riese, Miriam Pagitsch, Nathan Arun, Zoé Louise Propheter |
 
 > T3 war Rollen & Prellen. Heute: **Gleichgewicht und Hüpfen** – Koordinationsparcours mit Hütchen und Reifen. Kurze Blöcke, viel Bildsprache, alle gleichzeitig aktiv (GJ 2020–21).
 

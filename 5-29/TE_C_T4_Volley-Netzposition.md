@@ -4,13 +4,16 @@
 **Gruppe:** 15-2-RO · 15-3-RO · 16-2-O · 18-2-O · 18-3-O | **Dauer:** 60 min | **Feld:** Midcourt (18 × 6,4 m) | **Ball:** Orangeball
 _TE · Reihe: Volley Grundlagen Orange · `AW-06 → GS-O12 (TE·G→F) → GS-O13 (TA)`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 15-2-RO | Pascal | 5 | 15:00 | Fr 29.05. (T4) |
-| 15-3-RO | Ben | 3 | 15:00 | Fr 29.05. (T4) |
-| 16-2-O | Ben | 5 | 16:00 | Fr 29.05. (T4) |
-| 18-2-O | Pascal | 4 | 18:00 | Fr 29.05. (T4) · gem. Platz mit 18-3-O |
-| 18-3-O | Ben | 2 | 18:00 | Fr 29.05. (T4) · gem. Platz mit 18-2-O |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 15-2-RO | Pascal | 5 | 15:00 | Fr 29.05. (T4) | — |
+| 15-3-RO | Ben | 3 | 15:00 | Fr 29.05. (T4) | — |
+| 16-2-O | Ben | 5 | 16:00 | Fr 29.05. (T4) | — |
+| 18-2-O | Pascal | 4 | 18:00 | Fr 29.05. (T4) · gem. Platz mit 18-3-O | — |
+| 18-3-O | Ben | 2 | 18:00 | Fr 29.05. (T4) · gem. Platz mit 18-2-O | — |
+| 10-2-O | Charlize | 4 | 10:00 | Sa 06.06. (T4) | Änni Kaczmarek, Ava Rupp, Farina Püttbach, Lavin Büyükbas |
+| 10-3-O | Pascal | 4 | 10:00 | Sa 06.06. (T4) | Janno Kaczmarek, Louis Herok, Malia Breuer, Max Willem Thal |
+| 11-2-O | Ben | 4 | 11:00 | Sa 06.06. (T4) | Anna De Silva, Melija Stonkute, Paula Moral, Smilla Machura |
 
 > T3 war Cooperation-Rallye mit Partner auf Midcourt. Ball läuft gut. Jetzt: Ball aus der Luft spielen – Übergang Grundlinie → Netz, Block-Bewegung, Netzposition.
 

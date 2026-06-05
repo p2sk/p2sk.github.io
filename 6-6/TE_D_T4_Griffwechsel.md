@@ -4,9 +4,9 @@
 **Gruppe:** 12-1-O | **Dauer:** 60 min | **Feld:** Midcourt (18 × 6,4 m) | **Ball:** Orangeball
 _TE · Reihe: Griffwechsel VH↔RH · `AW-07 → Griffwechsel-Hinführung (TE·G) → GS-O07 (TE·G) → GS-O08 (TA·S)`_
 
-| Gruppe | Trainer | TN | Zeit | Datum |
-|---|---|---|---|---|
-| 12-1-O | Ben + Jessalyn | 5 | 12:00 | Sa 06.06. (T4) |
+| Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
+|---|---|---|---|---|---|
+| 12-1-O | Ben + Jessalyn | 5 | 12:00 | Sa 06.06. (T4) | Anna Böcker, Anouk Weber, Emiliya Siamenava, Luna Huseni, Marie Böcker |
 
 > T3 war Rückhand Topspin (li. Hand zieht durch). VH- und RH-Topspin sind eingeführt. Heute: **bewusst zwischen den Griffen wechseln** – nach jedem Schlag zurück in die neutrale Bereitschaft, dann früh auf VH (Eastern/Semi-Western) bzw. RH (beidhändig) umgreifen.
 
