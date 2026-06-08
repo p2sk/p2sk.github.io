@@ -1,7 +1,7 @@
 ---
 ---
 # Saisonplan – 12-E-O (Samstag, 12:00 Uhr)
-**Cluster:** E – Orange/Grün Übergang | **Stufe:** 🟠→🟢 (Orange/Grün ++)
+**Cluster:** F – Grün | **Stufe:** 🟠→🟢 (Orange/Grün ++)
 **Trainer:** Pascal (bis Sommer) | **Gruppengröße:** 1 (Henry Plier, Einzeltraining-ähnlich)
 **Saisonstart:** 16.05.2026 | **Termine:** 15 | **Puffer:** Sa 10.10., 17.10., 24.10.
 

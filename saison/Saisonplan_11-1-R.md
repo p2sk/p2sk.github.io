@@ -3,64 +3,78 @@
 # Saisonplan – 11-1-R (Samstag, 11:00 Uhr)
 **Cluster:** B – Rot Einsteiger | **Stufe:** 🔴 Rot
 **Trainer:** Charlize / Jessalyn (T1–T9) → Ben / Jessalyn (T10–T15) | **Gruppengröße:** 8
-**Saisonstart:** 23.05.2026 | **Termine:** 15 | **Puffer:** Sa 17.10., 24.10.
+**Saisonstart:** 23.05.2026 | **Termine:** ~15 | **Puffer:** Sa 17.10., 24.10.
 
 ## Einordnung
-- Große Gruppe (8 Kinder) – Stationsbetrieb mit paarweiser Übungsstruktur nötig
-- **Mind. 2 Saisons in Rot** – Basisaufbau Phase 1–2, Phase 3 als Abschluss
-- Ben übernimmt nach Sommerferien; ab T10 verstärkt Spielformen mit Zählen
-- Trainerwechsel transparent kommunizieren, Zählung und Regeln ab T10 eigenes Thema
+- Große Gruppe (8 Kinder) → **Stationsbetrieb mit paarweiser Übungsstruktur** nötig
+- Zwei Untergruppen: **G1 (Charlize→Ben):** Amy Zeneli, Frederik Ansorge, Morana Maric · **G2 (Jessalyn):** Aaron Pagitsch, Leo Böcker, Lewin Pütz, Malin Mooren, Paul Rinker
+- **Mind. 2 Saisons in Rot** – Basisaufbau
+- Ben übernimmt nach Sommerferien; ab T10 verstärkt Spielformen mit Zählen (Trainerwechsel transparent kommunizieren)
+- Play&Stay-orientiert
 
-## Kinder
+## Standortbestimmung (Saisonstart)
+> Phasen: G Grobform · F Feinform · S Stabilisierung · (→) im Übergang · – noch kein Thema. Richtwert: Lernphasen-Karte in `Übungen/_Index.md`.
+> Status: **noch zu erheben** – alle Felder „–", werden von Charlize (G1) / Jessalyn (G2) nachgetragen.
 
-| Name | Gruppe |
-|---|---|
-| Amy Zeneli | G1 / Charlize |
-| Frederik Ansorge | G1 / Charlize |
-| Morana Maric | G1 / Charlize |
-| Aaron Pagitsch | G2 / Jessalyn |
-| Leo Böcker | G2 / Jessalyn |
-| Lewin Pütz | G2 / Jessalyn |
-| Malin Mooren | G2 / Jessalyn |
-| Paul Rinker | G2 / Jessalyn |
+**Erhoben:** <nachzutragen> · **Methode:** Freies Spiel + Beobachtung
+
+| Kind | Vorhand | Rückhand (beidh.) | Volley | Anspiel v. unten | Abgeleiteter Schwerpunkt |
+|---|---|---|---|---|---|
+| Amy Zeneli (G1) | – | – | – | – | – |
+| Frederik Ansorge (G1) | – | – | – | – | – |
+| Morana Maric (G1) | – | – | – | – | – |
+| Aaron Pagitsch (G2) | – | – | – | – | – |
+| Leo Böcker (G2) | – | – | – | – | – |
+| Lewin Pütz (G2) | – | – | – | – | – |
+| Malin Mooren (G2) | – | – | – | – | – |
+| Paul Rinker (G2) | – | – | – | – | – |
+
+**→ Saison-Schwerpunkt:** noch offen (Standortbestimmung nachzutragen) → bis dahin Cluster-B-Reihenfolge als Fallback.
 
 ## Saison-Schwerpunkt
-Phase 1 (T1–T6): Aufbau Grundschläge Vor-/Rückhand, Anspiel, Volley.
-Phase 2 (T7–T9): Cooperation-Rallye, Netzspiel, Aufschlagfeld – vor Sommer abschließen.
-Phase 3 (T10–T15): Spielregeln, Steuerung, Mini-Match, Turnierform.
+> Standortbestimmung noch offen → Schwerpunkt folgt dem Cluster-B-Grobform-Aufbau (Fallback). In Rot unkritisch, da die Cluster-Reihenfolge ein sinnvoller Default ist. Nach Erhebung verdichten.
 
-## Themenfolge (15 Termine)
+- **Ballgewöhnung/Koordination + Basisgriff** als Dauerbasis (Cluster B · Reihe A / KT-B)
+- **VH-Grobform** aufbauen (Cluster B · Reihe B)
+- **RH-Grobform beidhändig** aufbauen (Cluster B · Reihe D)
+- **Volley + Anspiel von unten** in Grobform anbahnen (Cluster B · Reihe E / F)
+- zum Saisonende: **Cooperation-Rallye, Spielregeln, erstes Mini-Match** (Tie-Break bis 9)
+- **G1 (Charlize) lernt schneller** → zügiger + Steigerungsformen
 
-| # | Datum | Thema | Schwerpunktziel |
-|---|---|---|---|
-| 1 | Sa 23.05. | Ballgewöhnung & Schlägerhandling | Ballgefühl, Freude, Gruppe kennenlernen |
-| 2 | Sa 30.05. | Vorhand Grundschlag | Treffpunkt seitlich vorne, Basisgriff |
-| 3 | Sa 06.06. | Rückhand Grundschlag | Beidhändig, Treffpunkt seitlich vorne |
-| 4 | Sa 13.06. | Vor-/Rückhand-Wechsel | Reaktion auf Zuspielrichtung |
-| 5 | Sa 20.06. | Anspiel von unten | Selbstständiges Eröffnen |
-| 6 | Sa 27.06. | Volley | Ball direkt aus der Luft, kurzer Schlag am Netz |
-| 7 | Sa 04.07. | Cooperation-Rallye mit Trainer | Möglichst langer Ballwechsel |
-| 8 | Sa 11.07. | Cooperation-Rallye mit Partner | Erste Partner-Rallyes, paarweise |
-| 9 | Sa 18.07. | Netzspiel + Aufschlag/Return Grundprinzip | Position am Netz, Aufschlagfeld kennen |
-| — | *Sommerferien* | — | — |
-| 10 | Sa 05.09. | Spielregeln Einzel | Aufschlagseite, Aus, Punktende — *Ben übernimmt* |
-| 11 | Sa 12.09. | Richtungssteuerung Vorhand | Cross vs. Longline, einfache Zielzonen |
-| 12 | Sa 19.09. | Netzspiel vertieft | Volley platziert, Lob als Gegenmittel |
-| 13 | Sa 26.09. | Mini-Match Tie-Break bis 9 | Zählweise erleben, Spielform |
-| 14 | Sa 03.10. | Spielform Doppel/Cross | Cross-Punkt, Positionen am Netz |
-| 15 | Sa 10.10. | Saisonabschluss Turnierform | Freies Spiel mit Coaching |
+## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> Themen fix, Termin-Zuordnung rollierend über den Entwicklungslog. Reihenfolge über Priorität + Voraussetzung, nicht über Datum. **Fallback (Standort offen, kein Log T1–T3):** nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung.
+
+| Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
+|---|---|---|---|---|---|
+| 🔴 | Ballgewöhnung & Schlägerhandling | Ballgefühl, Griff, Treffpunkt spüren | B · Reihe A (KT-R14/15), KT-B | — | läuft (Dauerbasis, T1) |
+| 🔴 | Vorhand Grundschlag | Treffpunkt seitlich vorne, Basisgriff, Ball ins Feld | B · Reihe B (KT-R11/12/13) | Ballgewöhnung + Griff | läuft (T2) |
+| 🔴 | Rückhand Grundschlag (beidh.) | seitlich vorne treffen, Schläger unten→oben | B · Reihe D (KT-R19/20/21) | Ballgewöhnung + Griff | läuft (T3) |
+| 🟠 | VH/RH-Wechsel + Richtung | auf Zuspielrichtung reagieren, Cross/Longline grob | B · Reihe C (KT-R16/17/18) / Reihe G | VH + RH-Grobform | offen |
+| 🟠 | Volley | Ball aus der Luft am Netz kurz spielen | B · Reihe E (KT-R22/23/24) | Ballgewöhnung + Griff | offen |
+| 🟠 | Anspiel von unten | Punkt selbstständig eröffnen | B · Reihe F (KT-R25/26) | VH-Grobform | offen |
+| 🟢 | Cooperation-Rallye Trainer + Partner | lange Ballwechsel halten (Stationsbetrieb) | B · KT-R13 / KT-R18 | VH + RH-Grobform | offen |
+| 🟢 | Spielregeln + Tie-Break bis 9 | Aufschlagseite, Aus, Punktende, selbst zählen | B · KT-R26 / KT-R18 | Ballwechsel halten | offen |
+| 🟢 | Mini-Match / Spielform Doppel-Cross | Punkt cross gewinnen, einfache Doppelregel | B · DP-R1 (DP-T01/A01) | Ballwechsel halten | läuft (Pflichtschluss) |
 
 ## Korrekturgrundsatz Saison
-Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung bis zum Treffpunkt
+Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung bis zum Treffpunkt · zuerst Selbstkorrektur (Zeit lassen)
 
-## Differenzierungshinweis
-- **G1 (Charlize: Amy Zeneli, Frederik Ansorge, Morana Maric) lernt schneller** – Themen zügiger durchlaufen, mit Steigerungsformen anreichern
+## Differenzierungshinweise
+- **G1 (Charlize: Amy, Frederik, Morana) lernt schneller** – Themen zügiger durchlaufen, mit Steigerungsformen anreichern; früh als Übungspartner einsetzen
+- **G2 (Jessalyn):** eigene Station, Grundtempo
 - Bei 8 Kindern: Stationsbetrieb mit zwei Feldern / Werferpositionen rotieren
-- Schnellere Kinder früh als Übungspartner einsetzen
-- Ältere/fortgeschrittenere Kinder können Reihenfolge T5/T6 ggf. früher beginnen
+- Schnellere Kinder können VH/RH-Wechsel + Anspiel früher beginnen
+
+## Entwicklungslog (laufend) — Steuerinstrument
+> T1–T3 nachgetragen (gelaufene Themen), **ohne Beobachtung** (Charlize/Jessalyn tragen nach) → bis zum ersten beobachteten Eintrag greift der Fallback (Cluster-B-Reihenfolge).
+
+- T1 23.05. – Ballgewöhnung & Schlägerhandling · keine Beobachtung dokumentiert
+- T2 30.05. – Vorhand Grundschlag · keine Beobachtung dokumentiert
+- T3 06.06. – Rückhand Grundschlag · keine Beobachtung dokumentiert
+- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)
-Cluster-B Phase 2 + 3 vollständig: Steuerung, Aufschlag/Return, Spielregeln Vertiefung, Mini-Match-Formen.
+Cluster-B vollständig: Steuerung (VH/RH-Richtung), Anspiel/Volley festigen, Cooperation-Rallye, Spielregeln-Vertiefung, Mini-Match-Formen. Reife-Indikatoren Richtung Cluster D (Materialwechsel Orange/Midcourt).
 
 ## Reflexion (nach Saisonende)
 - **Was lief gut?** ...

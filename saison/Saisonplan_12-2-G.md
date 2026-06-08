@@ -1,55 +1,80 @@
 ---
 ---
 # Saisonplan – 12-2-G (Samstag, 12:00 Uhr)
-**Cluster:** E – Orange/Grün Übergang | **Stufe:** 🟠→🟢
-**Trainer:** Charlize (Pascal nach den Sommerferien) | **Gruppengröße:** 4
-**Saisonstart:** 16.05.2026 | **Termine:** 15 | **Puffer:** Sa 10.10., 17.10., 24.10.
+**Cluster:** F – Grün (Einstieg aus Orange) | **Stufe:** 🟠→🟢 (Großfeld/grün, Technik in Feinform-Anbahnung)
+**Trainer:** Charlize → Pascal (nach Sommer) | **Gruppengröße:** 4 (Greta Philipps, Lina Hochmuth, Lou Spindler, Milla Weber)
+**Saisonstart:** 16.05.2026 | **Termine:** ~15 | **Puffer:** Sa 10.10., 17.10., 24.10.
 
 ## Einordnung
-- Neueinstufung ab T3 (30.05.) – T1+T2 nach altem Cluster-F-Plan gespielt
-- Cluster E: Topspin VH+RH auf Großfeld übertragen, Aufschlag festigen, Return einführen, erste Taktik
-- Gruppe bereits auf Großfeld mit grünen Bällen – Materialwechsel vollzogen
-- Phase 3 (nach Sommerferien): Slice RH, taktische Spielmuster, Match-Fokus
+- Etabliert auf Großfeld mit grünen Bällen – Materialwechsel vollzogen; Topspin VH+RH auf Großfeld übertragen, Aufschlag festigen, Return + Slice einführen, erste Taktik
+- **Im Gegensatz zu 16-3-Gr kann diese Gruppe mehr technisch (explizit) geschult werden** – gezielte Technik-Häppchen neben Spielformen, nicht rein implizit/motivationsgetrieben
+- **Neueinstufung ab T3 (30.05.)** – T1+T2 nach altem Cluster-F-Plan (Slice) gespielt
+- Greta + Lina + Lou trainieren zusätzlich freitags in **16-3-Gr** → Standorte von dort; **Milla Weber** aus **19-2-Gr** (solide Grün) → am weitesten
+- Pascal übernimmt nach Sommerferien → Match-Fokus (Spielmuster, Wettkampfformen)
 
-## Kinder
+## Standortbestimmung (Saisonstart)
+> Phasen: G Grobform · F Feinform · S Stabilisierung · (→) im Übergang · – noch kein Thema. Richtwert: Lernphasen-Karte in `Übungen/_Index.md`.
 
-- Greta Philipps
-- Lina Hochmuth
-- Lou Spindler
-- Milla Weber
+**Erhoben:** T3, 30.05.2026 (Neueinstufung) · **Methode:** Freies Spiel + Beobachtung · Greta/Lina/Lou aus 16-3-Gr, Milla aus 19-2-Gr übernommen
+
+| Kind | Topspin VH (Großfeld) | Topspin RH | Aufschlag v. oben | Return | Beinarbeit/Recovery | Slice RH | Abgeleiteter Schwerpunkt |
+|---|---|---|---|---|---|---|---|
+| Milla Weber | G(→F) | G(→F) | G | (→) | G | – | aus 19-2-Gr; am weitesten (solide Grün) → Verfeinerung/Steuerung/erste Taktik fordern, Vorbild |
+| Lina Hochmuth | G(→F) | G | G | – | – | – | stabilste der Sa-Gruppe, **linkshändig**, bewegungsfaul → über Beinarbeit/Taktik fordern; RH festigen |
+| Greta Philipps | G | – | G | – | – | – | motiviert, oft abwesend → spiralig wiederholen; VH festigen, RH anbahnen |
+| Lou Spindler | G | – | G | – | – | – | wechselhaft/abgelenkt → kurze klare Aufgaben; VH festigen, RH anbahnen |
+
+**→ Saison-Schwerpunkt:** Topspin VH+RH auf Großfeld übertragen + verfeinern (Feinform-Anbahnung, explizite Technikarbeit möglich); Cross/Longline-Steuerung; Aufschlag festigen + Return einführen; Großfeld-Beinarbeit/Recovery; Slice RH einführen; erste taktische Spielmuster + Match.
 
 ## Saison-Schwerpunkt
-T1–T2: Slice RH + VH (Cluster-F-Inhalte, vor Neueinstufung).
-Mitnehmen aus D (T3–T7): Topspin VH+RH Großfeld, Cross/Longline, Aufschlag, Spielsituation Grundlinie.
-Neu einführen (T8–T10): Großfeld-Beinarbeit, Return, Vor-Sommerferien-Match.
-Ausblick Cluster F (T11–T15): Taktische Spielmuster, Slice RH, Match-Formen, Saisonabschluss.
+> Abgeleitet aus der Standortbestimmung; Anker in Cluster F (Grün, Einstieg aus Orange). Technik explizit (technischer als 16-3-Gr), Spielform/Match in jeder Stunde.
 
-## Themenfolge (15 Termine)
+- **Topspin VH/RH auf Großfeld übertragen + verfeinern** (Feinform-Anbahnung) (Cluster F · G-1/G-2 VH, G-4 RH) – Milla/Lina G(→F); Greta/Lou VH festigen + RH anbahnen
+- **Großfeld-Beinarbeit/Recovery + Open Stance** (Cluster F · G-3/G-5) – alle „–" außer Milla, längere Wege Großfeld
+- **Cross/Longline + Richtungssteuerung** (Cluster F · G-7, GL-A)
+- **Aufschlag von oben festigen + erster Platzierungsansatz** (Cluster F · AS-T/AS-A) – alle G
+- **Return als bewusster Schlag einführen** (Cluster F · TR-T01/T02)
+- **Slice RH einführen** (Cluster F · G-8) + Slice VH/Stoppball (Cluster F · *F-06 offen* / GL-T06)
+- **Erste taktische Spielmuster + Match** (Cluster F · G-7 🎯, GL-A, GL-M, DP-G1/G2) – nach Sommer Match-Fokus
 
-| # | Datum | Thema | Schwerpunktziel |
-|---|---|---|---|
-| 1 | Sa 16.05. | Slice Rückhand | Hoch-Niedrig-Schwung, „Messer durch Butter", Rückwärtsdrall |
-| 2 | Sa 23.05. | Slice Vorhand | Verteidigung, Übergang zum Netz |
-| 3 | Sa 30.05. | Topspin VH Großfeld | Niedrig-Hoch-Bewegung auf längere Distanz übertragen |
-| 4 | Sa 06.06. | Topspin RH Großfeld | Beidhändig, gleiche Bewegungslogik, Großfeld |
-| 5 | Sa 13.06. | Cross/Longline VH + RH | Zielzonen mit Hütchen, Richtungssteuerung |
-| 6 | Sa 20.06. | Aufschlag Festigung | Konstanz auf Großfeld, erster Platzierungsansatz |
-| 7 | Sa 27.06. | Spielsituation Grundlinie | Neutral / offensiv / defensiv erkennen und handeln |
-| 8 | Sa 04.07. | Großfeld-Beinarbeit + Open Stance | Recovery, längere Wege, offene Stellung VH |
-| 9 | Sa 11.07. | Return als bewusster Schlag | Treffpunkt, kurzes Ausholen, cross/longline steuern |
-| 10 | Sa 18.07. | Vor-Sommerferien-Match | Freies Spiel mit Zählen, Einzel/Doppel kombiniert |
-| — | *Sommerferien* | — | — |
-| 11 | Sa 05.09. | Erste taktische Spielmuster | Punktaufbau über mehrere Schläge, Spielzug-Ansatz |
-| 12 | Sa 12.09. | Slice RH Hinführung | Hoch-Niedrig-Schwung, „Messer durch Butter", Rückwärtsdrall |
-| 13 | Sa 19.09. | Slice VH + Stoppball Einführung | Defensiv + Situationserkennung |
-| 14 | Sa 26.09. | Match-Form Großfeld | Tie-Break, Aufschlag- und Returnsätze |
-| 15 | Sa 03.10. | Saisonabschluss | Turnierform Einzel/Doppel mit Coaching-Impulsen |
+## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> Themen fix, Termin-Zuordnung rollierend über den Entwicklungslog. Reihenfolge über Priorität + Voraussetzung, nicht über Datum. **Fallback (kein Log-Eintrag):** nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung.
+
+| Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
+|---|---|---|---|---|---|
+| 🔴 | Topspin VH Großfeld festigen/verfeinern | Niedrig-Hoch auf längere Distanz, Höhe als Druckmittel | F · G-1/G-2 | Topspin-Grobform (Orange) | läuft T3 (alle G; Milla/Lina →F) |
+| 🔴 | Topspin RH Großfeld (beidhändig) | gleiche Bewegungslogik, Großfeld-Distanz | F · G-4 | RH-Topspin-Grobform | läuft T4 (Milla/Lina G; Greta/Lou anbahnen) |
+| 🔴 | Großfeld-Beinarbeit/Recovery + Open Stance | längere Wege, Recovery nach jedem Schlag, offene Stellung VH | F · G-3/G-5 (+ SN/AU) | — | offen (alle „–", Milla G) |
+| 🟠 | Cross/Longline VH+RH steuern | Zielzonen mit Hütchen, Richtungssteuerung | F · G-7, GL-A | Topspin-Grobform | offen |
+| 🟠 | Aufschlag festigen + Platzierungsansatz | Konstanz auf Großfeld, erster T/Body/Außen, Wurf konstant | F · AS-T/AS-A | Aufschlag-Grobform (Orange) | offen (alle G) |
+| 🟠 | Return als bewusster Schlag | Treffpunkt, kurzes Ausholen, cross/longline steuern | F · TR-T01/T02 | Grundschläge | offen |
+| 🟠 | Spielsituation Grundlinie | neutral / offensiv / defensiv erkennen und handeln | F · GL-A | Topspin + Steuerung | offen |
+| 🟢 | Slice RH einführen | Hoch-Niedrig, „Messer durch Butter", Rückwärtsdrall | F · G-8 | Grundschläge | läuft (T1 angetestet) |
+| 🟢 | Slice VH + Stoppball Einführung | Verteidigung/Übergang + Situationserkennung | F · *F-06 offen* / GL-T06 | Slice-Grobform | offen (T2 angetestet) |
+| 🟢 | Erste taktische Spielmuster | Punktaufbau über mehrere Schläge, Spielzug-Ansatz (Jakubec-Trichter) | F · G-7 🎯, GL-A | Steuerung | offen |
+| 🟢 | Match-Formen Großfeld + Doppel | Tie-Break, AS-/Returnsätze, Einzel/Doppel mit Zählen | F · GL-M, DP-G1/G2 | Aufschlag + Return | läuft (Pflichtschluss, Saisonabschluss Turnierform) |
 
 ## Korrekturgrundsatz Saison
-Beinarbeit vor jedem Schlag (längere Wege auf Großfeld) · Ausschwung großzügiger · Aufschlag-Wurf konstant halten
+Beinarbeit/Recovery vor jedem Schlag (längere Wege Großfeld) · Ausschwung großzügiger · Aufschlag-Wurf konstant halten · Topspin: Schlägerkopf unter dem Ball / Treffhöhe als Druckmittel · funktionale Korrektur am Ziel in Anwendung/Taktik
 
-## Hinweis Übergang Cluster F
-Wenn Topspin VH+RH stabil auf Großfeld, Aufschlag ins Feld konstant, erste Richtungssteuerung erkennbar → Reife für Cluster F (Slice, Stoppball, Wettkampfformat) prüfen.
+## Differenzierungshinweise
+- **Milla Weber (aus 19-2-Gr, am weitesten):** solide Grün (→Feinform) → Verfeinerung/Steuerung/erste Taktik fordern; als Zuspielpartnerin/Vorbild
+- **Lina Hochmuth (stabilste Sa):** **linkshändig** (bei Doppel/Zuspiel beachten), bewegungsfaul → über Beinarbeit + taktische Aufgaben fordern; RH G festigen
+- **Greta Philipps (motiviert, oft abwesend):** spiralig wiederholen, Themen absenz-robust; VH festigen, RH anbahnen
+- **Lou Spindler (wechselhaft/abgelenkt):** kurze klare Aufgaben, hohe Aktivität, wenig Wartezeit; VH festigen, RH anbahnen
+- **Gruppe insgesamt:** technischer schulbar als 16-3-Gr → gezielte Technik-Häppchen (explizit) neben Spielformen; bei leidender Rallye-Qualität Feld zonieren
+
+## Entwicklungslog (laufend) — Steuerinstrument
+> Neueinstufung + Standortbestimmung T3 (30.05.). T1–T4 nachgetragen; T1+T2 nach altem Cluster-F-Plan (Slice). Detailbeobachtungen je Termin nachzutragen. Fehlt ein Eintrag → Fallback: nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung.
+
+- T1 16.05. – Slice Rückhand (alter Cluster-F-Plan, vor Neueinstufung)
+- T2 23.05. – Slice Vorhand (alter Plan; Verteidigung/Übergang Netz)
+- T3 30.05. – Neueinstufung (Standortbestimmung); Topspin VH Großfeld (Niedrig-Hoch auf längere Distanz)
+- T4 06.06. – Topspin RH Großfeld (beidhändig, gleiche Bewegungslogik)
+- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+
+## Ausblick Saison 2 / Cluster H
+Wenn Topspin VH+RH (Feinform) trägt, Aufschlag ins Feld konstant + erste Platzierung, Slice + Richtungssteuerung stabil und taktischer Spielaufbau erkennbar → Reife für Wechsel Gelb-Ball / Wettkampfformate (Cluster H, Einstieg aus Grün). Slice VH/Stoppball vertiefen, Netzangriff/Passierball, Doppel.
 
 ## Reflexion (nach Saisonende)
 - **Was lief gut?** ...
