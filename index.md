@@ -73,16 +73,8 @@
 
 | Datum | Datei |
 |---|---|
-| Fr, 08.05.2026 | [zur Übersicht](./5-8/index.md) |
-| Fr, 15.05.2026 | [zur Übersicht](./5-15/index.md) |
-| Sa, 16.05.2026 | [zur Übersicht](./5-16/index.md) |
-| Fr, 22.05.2026 | [zur Übersicht](./5-22/index.md) |
-| Sa, 23.05.2026 | [zur Übersicht](./5-23/index.md) |
-| Fr, 29.05.2026 | [zur Übersicht](./5-29/index.md) |
-| Sa, 30.05.2026 | [zur Übersicht](./5-30/index.md) |
 | Fr, 05.06.2026 | [zur Übersicht](./6-5/index.md) |
 | Sa, 06.06.2026 | [zur Übersicht](./6-6/index.md) |
-| Fr, 12.06.2026 | [zur Übersicht](./6-12/index.md) |
 
 ---
 
