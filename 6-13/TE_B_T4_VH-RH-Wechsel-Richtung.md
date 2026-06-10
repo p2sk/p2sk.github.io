@@ -1,50 +1,51 @@
 ---
 ---
 # Trainingseinheit – 🔴 Rot | VH/RH-Wechsel + Richtung
-**Gruppen:** 17-3-R + 18-1-R (gleicher Stand, je eigene Station) | **Dauer:** 60 min | **Feld:** Minifeld/Midcourt · Rotball
+**Gruppen:** 10-1-R + 11-1-R (gleicher Stand T4, je eigene Station/Trainer) | **Dauer:** 60 min | **Feld:** Minifeld/Midcourt · Rotball
 _TE = Technikerwerb · TA = Technikanwendung · G = Grobform · DC = Druckbedingung · Reihe C: Griffslalom & VH/RH-Richtung `AW-07 → KT-R16 (TE·G) → KT-R17 (TE·G Steig.) → KT-R18 (TA)`_
 
 | Gruppe | Trainer | TN | Zeit | Datum | Namen der Kinder |
 |---|---|---|---|---|---|
-| 17-3-R | Charlize (G1) + Jessalyn (G2) | 6 | 17:00 | Fr, 12.06.2026 | G1: Lara Becker, Ronja Kröber, Sarah Melis, Sofia Melis · G2: Lewin Pütz, Samuel Schulze |
-| 18-1-R | Charlize (G1) + Jessalyn (G2) | 9 (+1 N.N.) | 18:00 | Fr, 12.06.2026 | G1: Ben Waschkau, Hagen Zapp, Jonas Bräutigam, Nora Akrach · G2: Aaron Pagitsch, Arthur Franzen, Boxiu Wang (Blau/Rot), Leo Böcker · N.N. |
+| 10-1-R | Ben (Schlagteil) + Jessalyn (Ballschule) | 7 | 10:00 | Sa, 13.06.2026 | Charlotte Nelleßen, Juna Mooren, Leonard Mauer, Leonie Hebisch, Lily Ava Propheter, Luke Rotter, Nelío Neuburger |
+| 11-1-R | Charlize (G1) + Jessalyn (G2) | 8 | 11:00 | Sa, 13.06.2026 | G1: Amy Zeneli, Frederik Ansorge, Morana Maric · G2: Aaron Pagitsch, Leo Böcker, Lewin Pütz, Malin Mooren, Paul Rinker |
 
-**Lernziel der Einheit (Wozu):** Das Kind **erkennt, ob der Ball auf die VH- oder RH-Seite kommt**, wählt den passenden Griff/Schlag und spielt ihn grob in eine Richtung (cross/longline). Ziel = auf die Zuspielrichtung reagieren → Inhalt = VH/RH-Wechsel + grobe Richtungssteuerung → Form = Griffwechsel (ET) → Handfeed in Zielfelder (TE) → Stop&Go-Punktspiel (TA). Durchgehend Grobform, Treffpunkt seitlich vorne.
+**Lernziel der Einheit (Wozu):** Das Kind **erkennt, ob der Ball auf die VH- oder RH-Seite kommt**, wählt den passenden Griff/Schlag und spielt ihn grob in eine Richtung (cross/longline). Ziel = auf die Zuspielrichtung reagieren → Inhalt = VH/RH-Wechsel + grobe Richtungssteuerung → Form = Reaktions-Ampel (ET) → Handfeed in Zielfelder (TE) → Stop&Go-Punktspiel (TA). Durchgehend Grobform, Treffpunkt seitlich vorne.
 
-> **Kurz:** Die in T2 (VH) + T3 (RH) gelernten Schläge kombinieren – Seite erkennen, Griff wechseln, grob steuern. Stationsbetrieb über die zwei Trainer (G1 Charlize, G2 Jessalyn). Differenzierung je Gruppe (Ronja steigern · Boxiu Ballschule · große Gruppe rotieren).
+> **Kurz:** Die in T2 (VH) + T3 (RH) gelernten Schläge kombinieren – Seite erkennen, Griff wechseln, grob steuern. Stationsbetrieb über die zwei Trainer je Gruppe. **10-1-R** sehr jung (GJ 2018–19, Blau-Anteile) → Jessalyn führt parallele Ballschule-Station für die Jüngsten. **11-1-R**: Aaron, Leo und Lewin haben diese Einheit am Fr (18-1-R/17-3-R) schon gespielt → als Modell + eine Stufe weiter.
 
 ## Begrüßung und Themenvorstellung – 5 min
 Letzte zwei Stunden: Vorhand (T2) und Rückhand (T3). Heute beides zusammen: „**Welche Seite kommt der Ball?**" → richtige Hand/Griff wählen und grob dahin spielen, wo ich will. Leitbild: Griff vom Boden aufheben (VH) / „Hammer" (RH beidh.).
 
-## 1. Aufwärmen – 7 min
-**AW-07 – Griffwechsel-Staffel** (AW · TE)
+## 1. Aufwärmen – 8 min
+**Reaktions-Ampel „Welche Seite?" (AW · TE)** *(KO-RE16 adaptiert + Schlagimitation SN-S03)*
 
-2 Teams, 2 Smartie-Slalom-Bahnen. Kind führt Ball mit Schläger durch Slalom mit wechselndem Griff (neutral → VH-Griff → RH-Griff). Stafette: Ball am Ende übergeben. Wer verliert den Ball, startet neu.
+Kinder frei im Feld in Bereitschaftsstellung („Füße breit, Knie weich, Schläger bereit"). TR hält zwei Farbhütchen hoch – **blau = Vorhand-Seite, rot = Rückhand-Seite** – oder ruft „Vorhand!" / „Rückhand!". Kind reagiert: dreht/seitsteppt zur genannten Seite, macht die passende Schlagimitation (VH-Griff vom Boden „aufheben" / RH-„Hammer") und kommt sofort in die Mitte/BS zurück.
 
-**Material:** Schläger · Rote Bälle · Smarties (2 Slalombahnen)
+**Material:** Schläger (1 pro Kind) · 2 Farbhütchen blau/rot · Rotbälle (für Fang-Variante)
 
-**Dosierung:** 3 Durchgänge
+**Dosierung:** 8 min · ca. 20–25 Signale · kurze Pausen
 
-**Platzbild:** _(ergänzt)_ 2 Slalombahnen nebeneinander · je 1 Team · Übergabezone am Ende
+**Platzbild:** _(ergänzt)_ Kinder frei verteilt, Blick zum TR; genug Abstand für den Imitationsschwung
 
 **Steigerung:**
 
-- Griff nur neutral (leicht)
-- Griffwechsel VH/RH an jedem Hütchen
-- Auf Tempo als Staffel (DC: Z)
+- Signal optisch + langsam (Reaktionszeit lang)
+- Signal nur akustisch, schneller Wechsel (DC: Z)
+- „Vertauscht": blau = RH, rot = VH (kognitiv – nur 11-1-R/stärkere) (DC: Si)
+- Mit Ball: TR rollt/wirft Ball auf die genannte Seite → Kind fängt nach dem Aufsprung (Ballschule-Stufe 10-1-R)
 
-`AW · TE`
+`AW · TE · DC: Z · Spieler: Gruppe`
 
-_Anpassung: Platzbild ergänzt (AW-Übung ohne Platzbild-Feld in der Quelle)._
+_Anpassung: KO-RE16 (Taps auf farbige Spots) auf VH/RH-Seitenerkennung + Schlagimitation umgebaut, damit das Aufwärmen direkt auf das Stundenthema „Seite erkennen → richtige Hand" einzahlt; Ballfang-Variante als Ballschule-Stufe ergänzt._
 
 ## 2. Hauptteil I: Technikerwerb – 25 min
 **Übung I – KT-R16 Prellübungen mit Schläger: Variationsserie (TE·G)**
 
 Kinder frei verteilt auf dem Platz, jeder mit Ball und Schläger. Serie von acht Prellvarianten: Sweetspot treffen (oben) → außerhalb Sweetspot → Arm leicht gebeugt → Arm gestreckt → zwischen Hüfte und Knie → Schulterhöhe → direkt vor den Füßen → oben und unten abwechselnd. Jede Variante 10–15 Kontakte, dann nächste Variante.
 
-**Material:** Schläger · Rote oder Orangebälle (1 pro Kind)
+**Material:** Schläger · Rote Bälle (1 pro Kind)
 
-**Dosierung:** 10 min. · 8 Varianten à ca. 15–20 s · Zählen fördern
+**Dosierung:** 10 min · 8 Varianten à ca. 15–20 s · Zählen fördern
 
 **Platzbild:** Kinder frei verteilt, ausreichend Abstand
 
@@ -60,7 +61,7 @@ Kinder frei verteilt auf dem Platz, jeder mit Ball und Schläger. Serie von acht
 
 `TE · G · Unterrichtsmaßnahme: Bewegungsaufgabe (induktiv) · DC: P · Spieler: Gruppe (Einzelball)`
 
-**Organisation:** Alle aktiv, jeder eigener Ball – getrennt nach Station G1/G2. Großgruppe 18-1-R: genug Abstand, je Trainer eine Hälfte. **Boxiu (18-1-R, Blau/Rot):** Ballschule-Variante – einfaches Prellen/Werfen-Fangen statt der schweren Positionen. **Ronja (17-3-R):** früh in Bewegung + Wettbewerb.
+**Organisation:** Alle aktiv, jeder eigener Ball – getrennt nach Station. **10-1-R:** Jessalyn betreut die Jüngsten (Charlotte, Leonard, Nelío) mit einfachen Varianten (Sweetspot + vor den Füßen); Ben mit dem Rest die volle Serie. **11-1-R:** Charlize G1 / Jessalyn G2, je eine Hälfte; Aaron/Leo/Lewin früh in Bewegung + Wettbewerb (kennen die Übung von Fr).
 
 ---
 
@@ -76,7 +77,7 @@ Kinder in 2 Gruppen. Trainer spielt je 4 Eimer à 6 Bälle per Handfeed an: (a) 
 
 **Material:** Rote Bälle (mind. 24) · Hütchen als Zielzonen (je Richtung) · 2 Eimer
 
-**Dosierung:** 15 min. · 4 Eimer hintereinander · Rotation nach Eimer-Ende
+**Dosierung:** 15 min · 4 Eimer hintereinander · Rotation nach Eimer-Ende
 
 **Platzbild:** TR Netz (Handfeed) · Kinder hintereinander GL · Zielfelder in allen 4 Winkeln des Feldes
 
@@ -92,7 +93,7 @@ Kinder in 2 Gruppen. Trainer spielt je 4 Eimer à 6 Bälle per Handfeed an: (a) 
 
 `TE · G · DC: P → Si · Spieler: 1+T (je Station)`
 
-**Organisation:** 1+T je Trainer-Station (G1/G2): 1 Kind am Handfeed, Rest wartet kurz / sammelt Bälle / prellt (KT-R16) parallel. **18-1-R (9+1):** große Gruppe → je Station paarweise + Werferposition rotieren, max. 2–3 warten (`Aufwärmen.md` §6); N.N. zunächst beobachten + einstufen. **Ronja (17-3-R):** Stufe „Richtung selbst entscheiden" (DC: Si). **Boxiu:** nur VH longline aus kurzem Zuwurf, kein Richtungswechsel.
+**Organisation:** 1+T je Trainer-Station: 1 Kind am Handfeed, Rest wartet kurz / sammelt Bälle / prellt (KT-R16) parallel – max. 2–3 warten (`Aufwärmen.md` §6). **10-1-R:** Jessalyn-Station als Ballschule-Variante – nur VH longline aus kurzem Zuwurf für die Jüngsten, kein Richtungswechsel; Ben-Station volle 4 Richtungen. **11-1-R (G2 mit 5):** paarweise + Werferposition rotieren; Aaron/Leo/Lewin Stufe „Richtung selbst entscheiden" (DC: Si).
 
 ## 3. Hauptteil II: Technikanwendung – 15 min
 **Übung III – KT-R18 Endlos-Stop&Go → Punktspiel progressiv (TA·S)**
@@ -101,7 +102,7 @@ Paarweise auf Minicourts. Progression in 5 Schritten: (1) A wirft Ball seitlich 
 
 **Material:** Rote Bälle · Minicourt-Netze
 
-**Dosierung:** 15 min. · Progression fließend nach Gruppenstand
+**Dosierung:** 15 min · Progression fließend nach Gruppenstand
 
 **Platzbild:** Paarweise auf Minifeld gegenüber
 
@@ -117,7 +118,7 @@ Paarweise auf Minicourts. Progression in 5 Schritten: (1) A wirft Ball seitlich 
 
 `TA · S · DC: Si + Z · Spieler: 2er`
 
-**Organisation:** Paarweise auf Minicourts, alle aktiv – G1/G2 getrennt. Bei ungerader Zahl Dreierrotation (A wirft, B/C spielen) oder Trainer als Partner. **17-3-R:** Ronja + starke G1-Kinder bis Stufe 5 (Punkte bis 9); G2 (Lewin/Samuel) bei Stufe 1–3 (Zuwurf VH/RH). **18-1-R:** Jonas als Modell paaren; Boxiu Stufe 1–2 nah (Stop&Go kurz), Trainer wirft; N.N. mit ruhigem Partner.
+**Organisation:** Paarweise auf Minicourts, alle aktiv – Stationen getrennt. Bei ungerader Zahl Dreierrotation (A wirft, B/C spielen) oder Trainer als Partner. **10-1-R:** Jüngste bei Stufe 1–2 (Zuwurf VH/RH, fangen), Jessalyn wirft; kooperatives Zählen statt gegeneinander. **11-1-R:** Aaron/Leo/Lewin als Modell paaren und bis Stufe 5 (Punkte bis 9); G2-Anfänger (Malin/Paul) bei Stufe 1–3.
 
 ## 4. Unterrichtsende – 5 min
 Positives Erlebnis: kurze Frage „Auf welche Seite war der Ball – und habt ihr den richtigen Schläger gewählt?". Ausblick: nächste Stunde Richtung festigen / Volley oder Anspiel von unten. Bälle → Netz → Schleppnetz → Linien → wässern.

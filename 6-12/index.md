@@ -6,11 +6,11 @@
 
 | Zeit | Pascal | Ben | Charlize | Jessalyn |
 |---|---|---|---|---|
-| **15:00** | [15-2-RO](#15-2-ro) · D 🔴→🟠 | [15-3-RO](#15-3-ro) · D 🔴→🟠 | [15-1-R](#15-1-r) · B 🔴 | — |
-| **16:00** | [16-1-G](#16-1-g) · H 🟡 | [16-2-O](#16-2-o) · D 🟠 | [16-3-Gr](#16-3-gr) · D 🟠 (grün/Fullcourt) | — |
-| **17:00** | [17-1-O](#17-1-o) · F 🟢 | [17-2-O](#17-2-o) · F 🟢 | [17-3-R](#17-3-r) · B 🔴 | [17-3-R](#17-3-r) · B 🔴 |
-| **18:00** | [18-2-O](#18-2-o) · D 🟠 | [18-3-O](#18-3-o) · D 🟠 | [18-1-R](#18-1-r) · B 🔴 | [18-1-R](#18-1-r) · B 🔴 |
-| **19:00** | — | — | [19-2-Gr](#19-2-gr) · H 🟡 | — |
+| **15:00** | [15-2-RO](./TE_15-2-RO_T6_Split-Step-Bereitschaftsstellung.md) · D 🔴→🟠 | [15-3-RO](./TE_15-2-RO_T6_Split-Step-Bereitschaftsstellung.md) · D 🔴→🟠 | [15-1-R](./TE_B_T4_Rueckhand-Grundschlag.md) · B 🔴 | — |
+| **16:00** | [16-1-G](./TE_16-1-G_T6_VH-Schlagsicherheit.md) · H 🟡 | [16-2-O](./TE_D_T6_VH-Topspin-Einfuehrung.md) · D 🟠 | [16-3-Gr](./TE_16-3-Gr_T6_Split-Step-Spielorientiert.md) · D 🟠 (grün/Fullcourt) | — |
+| **17:00** | [17-1-O](./TE_17-1-O_T6_Beinarbeit-Splitstep-Schlagvorbereitung.md) · F 🟢 | [17-2-O](./TE_17-1-O_T6_Beinarbeit-Splitstep-Schlagvorbereitung.md) · F 🟢 | [17-3-R](./TE_B_T4_VH-RH-Wechsel-Richtung.md) · B 🔴 | [17-3-R](./TE_B_T4_VH-RH-Wechsel-Richtung.md) · B 🔴 |
+| **18:00** | [18-2-O](./TE_18-2-O_T6_Split-Step-Bereitschaftsstellung.md) · D 🟠 | [18-3-O](./TE_18-2-O_T6_Split-Step-Bereitschaftsstellung.md) · D 🟠 | [18-1-R](./TE_B_T4_VH-RH-Wechsel-Richtung.md) · B 🔴 | [18-1-R](./TE_B_T4_VH-RH-Wechsel-Richtung.md) · B 🔴 |
+| **19:00** | — | — | [19-2-Gr](./TE_H_T6_Taktik-Raum-oeffnen-entscheiden.md) · H 🟡 | — |
 
 *15-2-RO + 15-3-RO: gemeinsame TE (parallel, 2 Plätze, Rotation).*
 *17-1-O + 17-2-O: gemeinsame TE (gemeinsamer Platz, 2 Trainer, Match-Anteile).*

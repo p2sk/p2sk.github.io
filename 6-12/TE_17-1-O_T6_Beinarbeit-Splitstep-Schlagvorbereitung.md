@@ -92,7 +92,7 @@ Trainer spielt/wirft verschiedene Bälle zu (hoch, tief, schnell, langsam). Spie
 
 `TA · F · DC: Z + Si + P · Spieler: 1+T (2 Stationen)`
 
-**Organisation:** 1+T an 2 Stationen (je 1 Trainer): 1 Kind aktiv am Feed, 1–2 warten kurz / machen Split-Step-Schattenübung an der Seitenlinie, Rotation nach jeder Serie. 6 Kinder auf 2 Stationen → max. 2 warten je Station, Faustregel `Aufwärmen.md` §7 erfüllt. Differenzierung: **Jakob/Finn** 2 Sek. (mehr Zeit), **Noam/Henry** 1,5→1 Sek.; **Jonathan** ruhigere Bälle, kürzere Wege.
+**Organisation:** 1+T an 2 Stationen (je 1 Trainer): 1 Kind aktiv am Feed, 1–2 warten kurz / machen Split-Step-Schattenübung an der Seitenlinie, Rotation nach jeder Serie. 6 Kinder auf 2 Stationen → max. 2 warten je Station, Faustregel `Aufwärmen.md` §6 erfüllt. Differenzierung: **Jakob/Finn** 2 Sek. (mehr Zeit), **Noam/Henry** 1,5→1 Sek.; **Jonathan** ruhigere Bälle, kürzere Wege.
 
 ## 3. Hauptteil II: Technikanwendung – 16 min
 **Übung III – GS-G15 Netzlauf + Split-Step (TA·S) – als 2vs2-Doppel**

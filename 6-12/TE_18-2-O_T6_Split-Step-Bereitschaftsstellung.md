@@ -70,7 +70,7 @@ _Anpassung: BW-01 (Katalog: reine Imitation) mit **vollem Schlag** kombiniert + 
 
 `TE · G · DC: Z · Spieler: 1+T`
 
-**Organisation:** je Platz eine 1+T-Station am Trainer · Rest selbsttragend am selben Thema: **Split-Step-Imitation auf Partner-Klatschen** bzw. Coop-Rallye mit Split-Step (*Aufwärmen.md §7*) · Rotation · kleine Kader (3–4) = hohe Schlagzahl.
+**Organisation:** je Platz eine 1+T-Station am Trainer · Rest selbsttragend am selben Thema: **Split-Step-Imitation auf Partner-Klatschen** bzw. Coop-Rallye mit Split-Step (*Aufwärmen.md §6*) · Rotation · kleine Kader (3–4) = hohe Schlagzahl.
 
 **Break/Resümee**
 

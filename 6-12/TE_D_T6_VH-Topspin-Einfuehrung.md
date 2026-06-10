@@ -91,7 +91,7 @@ Erhöhtes Netz (Bauband) bleibt aufgebaut. Gruppe aufteilen. Trainer spielt abwe
 
 `TE · G · DC: P → P+Z · Spieler: 1+T (Karussell)`
 
-**Organisation:** 1+T als Korrektur-Station – 1–2 Kinder am Trainerfeed (Treffer ins Zielfeld zählen, zweites Kind zählt mit), die übrigen parallel im **Schattentennis VH** / Selbstwurf über das Bauband (gleiches Thema). TR rotiert nach jeder Serie; bei 5 Kindern max. 2–3 warten → Faustregel `Aufwärmen.md` §7 erfüllt. Differenzierung: Louis/Phileas regelmäßiges, kurzes Anspiel; Fabian/Linja Länge variiert + von GL.
+**Organisation:** 1+T als Korrektur-Station – 1–2 Kinder am Trainerfeed (Treffer ins Zielfeld zählen, zweites Kind zählt mit), die übrigen parallel im **Schattentennis VH** / Selbstwurf über das Bauband (gleiches Thema). TR rotiert nach jeder Serie; bei 5 Kindern max. 2–3 warten → Faustregel `Aufwärmen.md` §6 erfüllt. Differenzierung: Louis/Phileas regelmäßiges, kurzes Anspiel; Fabian/Linja Länge variiert + von GL.
 
 ## 3. Hauptteil II: Technikanwendung – 17 min
 **Übung III – GS-O03 Topspin VH: Richtungsvorgabe im Punktspiel (TA·S) – kooperativ**

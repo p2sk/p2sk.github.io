@@ -97,7 +97,7 @@ _Anpassung: SF-10 als Erwerb-Steigerung gefasst (erst kooperativ, dann Punkt) + 
 
 `TE · G (Steig.) · DC: Z · Spieler: 2er (+ TR-Anspiel)`
 
-**Organisation:** TR-Anspielstation · 5 TN → kurze Schlange/Dreierrotation, Wartende Split-Step-Schatten (*Aufwärmen.md §7*) · wenig Wartezeit für Lou · Marie/Julia große Zielzone, ggf. fangen.
+**Organisation:** TR-Anspielstation · 5 TN → kurze Schlange/Dreierrotation, Wartende Split-Step-Schatten (*Aufwärmen.md §6*) · wenig Wartezeit für Lou · Marie/Julia große Zielzone, ggf. fangen.
 
 ---
 

@@ -96,7 +96,7 @@ Erhöhtes Netz bleibt. Gruppe aufteilen. TR spielt abwechselnd VH-Ecke direkt + 
 
 `TE · F · DC: P → P+Z · Spieler: 1+T (Karussell)`
 
-**Organisation:** 1+T als Korrektur-Station – 1–2 Kinder am Trainerfeed (Treffer ins Zielfeld zählen), die übrigen parallel im **Schattentennis VH** an der Seitenlinie bzw. Selbstwurf über das Bauband (gleiches Thema). TR rotiert nach jeder Serie. Bei 4 Kindern max. 2 warten → Faustregel `Aufwärmen.md` §7 erfüllt. **Louis K. (Linkshänder):** Anspiel auf seine VH (linke Feldseite aus seiner Sicht) – Zielfeld spiegeln.
+**Organisation:** 1+T als Korrektur-Station – 1–2 Kinder am Trainerfeed (Treffer ins Zielfeld zählen), die übrigen parallel im **Schattentennis VH** an der Seitenlinie bzw. Selbstwurf über das Bauband (gleiches Thema). TR rotiert nach jeder Serie. Bei 4 Kindern max. 2 warten → Faustregel `Aufwärmen.md` §6 erfüllt. **Louis K. (Linkshänder):** Anspiel auf seine VH (linke Feldseite aus seiner Sicht) – Zielfeld spiegeln.
 
 ## 3. Hauptteil II: Technikanwendung – 20 min
 **Übung III – GS-G06 Topspin VH: Richtungsvorgabe im Punkt (TA·S) – VH-Belohnungs-Spielform**

@@ -78,7 +78,7 @@ _Anpassung: BW-01 ist im Katalog reine Imitation (nur Ablauf + Dosierung) – hi
 
 `TE · G · DC: Z · Spieler: 1+T`
 
-**Organisation:** 1+T als eine Station am Trainer · Rest Sideline am selben Thema: **Split-Step-Imitation auf das Klatschen eines Partners** (*Aufwärmen.md §7*) – übt dasselbe Timing · Rotation nach 10–12 Bällen · bei ≤3 alle am Trainer.
+**Organisation:** 1+T als eine Station am Trainer · Rest Sideline am selben Thema: **Split-Step-Imitation auf das Klatschen eines Partners** (*Aufwärmen.md §6*) – übt dasselbe Timing · Rotation nach 10–12 Bällen · bei ≤3 alle am Trainer.
  
  ---
 

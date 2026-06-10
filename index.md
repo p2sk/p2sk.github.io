@@ -76,6 +76,7 @@
 | Fr, 05.06.2026 | [zur Übersicht](./6-5/index.md) |
 | Sa, 06.06.2026 | [zur Übersicht](./6-6/index.md) |
 | Fr, 12.06.2026 | [zur Übersicht](./6-12/index.md) |
+| Sa, 13.06.2026 | [zur Übersicht](./6-13/index.md) |
 
 ---
 
