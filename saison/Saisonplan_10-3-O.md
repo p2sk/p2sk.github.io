@@ -2,7 +2,7 @@
 ---
 # Saisonplan – 10-3-O (Samstag, 10:00 Uhr)
 **Cluster:** D – Orange (Einstieg aus Rot) | **Stufe:** 🔴→🟠 (Reifegrad noch klar Rot)
-**Trainer:** Pascal | **Gruppengröße:** 4
+**Trainer:** Pascal | **Gruppengröße:** 5 (inkl. Fabian Störmann, auch Fr in 16-2-O)
 **Saisonstart:** 16.05.2026 | **Termine:** ~15 | **Puffer:** Sa 10.10., 17.10., 24.10.
 
 ## Einordnung
@@ -23,6 +23,7 @@
 | Louis Herok | G | mit Trainer | – | – | – | G | Grundschläge festigen, Richtung anbahnen (auch Fr in 15-3-RO) |
 | Malia Breuer | G | – | – | – | – | – | schlechte Balleinschätzung; Treffpunkte; mehr Konsolidierung |
 | Max Willem Thal | G | mit Trainer | – | – | – | G | Grobform vorhanden; Anbahnung weiterer Schläge möglich |
+| Fabian Störmann | G | – (zu prüfen) | – | G | G | G | trainiert auch Fr in 16-2-O (Standort von dort); VH-Topspin früh selbstständig, Richtung steuern |
 
 **→ Saison-Schwerpunkt:** Grundschläge bei allen festigen · Fokus sichere Ballwechsel.
 
@@ -59,6 +60,7 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrek
 - **Louis Herok:** Grundschläge festigen, Richtung anbahnen (trainiert auch Fr in 15-3-RO)
 - **Malia:** Balleinschätzung/Treffpunkte; Ballwechsel + Volley noch „–" → mehr Konsolidierung, viel Trainer-Zuspiel
 - **Max Willem:** Grobform da → Anbahnung weiterer Schläge möglich
+- **Fabian Störmann:** trainiert auch Fr in 16-2-O; VH-Topspin bereits selbstständig, in dieser Gruppe eher fordern (Richtung/Cross-Longline)
 - **Rotation mit 10-2-O** nach Anwesenheit (passende Zuspielpartner-Niveaus)
 
 ## Entwicklungslog (laufend) — Steuerinstrument
@@ -68,6 +70,10 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrek
 - T2 23.05. – Cooperation-Rallye mit Trainer (Midcourt) · Stand: mit Trainer möglich
 - T3 30.05. – Cooperation-Rallye mit Partner (Ziel) · Stand: Partner-Rallye im Aufbau
 - T4 06.06. – Volley + Netzposition · Stand: Volley meist G (Malia „–")
+- T5 13.06. – Split-Step + Bereitschaftsstellung (geplant; Timing an Trainer-Kontakt, Grobform)
+	- Beobachtung: Beinarbeit ist koordinativ noch zu schwierig
+	- nächste Stunde: Fokus auf Technikerwerb und Koordinationsübungen, z. B. Treffpunkthöhe (O-2) oder Fokus auf Schlagbewegung (Hauptaktion)
+- T6 04.07. – **Grundschläge/Schlagbewegung festigen** (gemeinsame TE mit 10-2-O, TE_D_T6_Grundschlaege-Schlagbewegung-festigen.md) · *Thema-Herleitung: Schlagbewegung statt Treffpunkthöhe, Log-Beobachtung 13.06. „eher 🔴 als 🟠"*; Janno + Fabian anwesend (Louis/Max/Malia keine Rückmeldung) → Beobachtung: Janno und Fabian können VH gezielt cross, in die Mitte und longline aus dem Handfeed schlagen. → Konsequenz T7: Grundschläge weiter festigen, Fabian/Janno bei Richtung/Cross-Longline fordern
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster D

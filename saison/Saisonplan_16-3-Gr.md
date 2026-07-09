@@ -73,6 +73,8 @@ Funktionale Korrektur am Spielziel (Zone/Aufgabe) + Selbstkorrektur · nur im Te
 - T4 29.05. – Vorhand Topspin (Grobform)
 - T5 05.06. – Vorhand Topspin Vertiefung
 - T6 12.06. – Split-Step/Beinarbeit (O-2/O-4), spielorientiert/implizit: Ziehharmonika-Kooperation + Split-Step (Erwerb) → SF-10 Beinarbeit + Split-Step → SF-01 Olympics + Split-Step-Bonus (grün/Fullcourt). *Thema-Herleitung: nach 2× VH-Topspin (T4/T5) auf das noch unangetastete 🔴-Thema rotiert (Beinarbeit/Splitstep, alle „–", bes. Lina).* → **Konsequenz: nächster Termin Cross/Longline grob (Zielzonen-Spiele, O-3)**; Split-Step bleibt Auslöser.
+- T7 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **VH-Topspin Hinführung (neuer Griff, erneut)** ([TE_D_T7](../7-3/TE_D_T7_VH-Topspin-Hinfuehrung.md): AW-10 → GS-O01 nahe Netz/Bauband → GS-O02 Trainerbälle → GS-O03 Richtungs-Punktspiel) · *Thema-Herleitung: bewusst auf VH-Topspin-Hinführung gesetzt statt Cross/Longline (O-3) — Marie/Julia VH „–", Schlag erneut zeigen; Lina (G) über Richtung fordern*; grüne Bälle, implizit/spielorientiert, hitzeangepasst (2× Wasserschlauch) → **keine Beobachtung dokumentiert** (Charlize) → Konsequenz T8: Fallback Cluster-Reihenfolge (Cross/Longline O-3), Drall/Pfad Marie/Julia bei nächster Gelegenheit prüfen
+- T8 10.07. – **Cross/Longline grob – Zielzonen-Spiele** ([TE_D_T8](../7-10/TE_D_T8_Cross-Longline-Zielzonen.md): GS-O07 → GS-O08, als Turnierform gespielt) · Fallback laut Log (kein Feedback T7) → Beobachtung nach der Einheit nachtragen
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Hinweis Übergang Cluster F

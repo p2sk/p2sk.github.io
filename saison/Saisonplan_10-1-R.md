@@ -2,7 +2,7 @@
 ---
 # Saisonplan – 10-1-R (Samstag, 10:00 Uhr)
 **Cluster:** B – Rot Einsteiger (Ballschule-Variante) | **Stufe:** 🔵→🔴 (sehr jung, Blau-Anteile)
-**Trainer:** Ben (Schlagteil) / Jessalyn (Ballschule) | **Gruppengröße:** 7 (GJ 2018–2019)
+**Trainer:** Ben (Schlagteil) / Jessalyn (Ballschule) | **Gruppengröße:** 5 (GJ 2018–2019)
 **Saisonstart:** 23.05.2026 | **Termine:** ~15 | **Puffer:** Sa 17.10., 24.10.
 
 ## Einordnung
@@ -20,13 +20,11 @@
 
 | Kind | Vorhand | Rückhand (beidh.) | Volley | Anspiel v. unten | Abgeleiteter Schwerpunkt |
 |---|---|---|---|---|---|
-| Charlotte Nelleßen | – | – | – | – | – |
 | Juna Mooren | – | – | – | – | – |
 | Leonard Mauer | – | – | – | – | – |
 | Leonie Hebisch | – | – | – | – | – |
 | Lily Ava Propheter | – | – | – | – | – |
 | Luke Rotter | – | – | – | – | – |
-| Nelío Neuburger | – | – | – | – | – |
 
 **→ Saison-Schwerpunkt:** noch offen (Standortbestimmung nachzutragen) → bis dahin Cluster-B-Reihenfolge (mit starkem Ballschule-Anteil) als Fallback.
 
@@ -70,6 +68,8 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 - T1 23.05. – Ballgewöhnung & Schlägerhandling · keine Beobachtung dokumentiert
 - T2 30.05. – Vorhand Grundschlag · keine Beobachtung dokumentiert
 - T3 06.06. – Rückhand Grundschlag · keine Beobachtung dokumentiert
+- T4 13.06. – VH/RH-Wechsel + Richtung (geplant; Seite erkennen → Griff → grob steuern; Ballschule-Anteil Jessalyn) → Beobachtung nachzutragen
+- T5 04.07. – VH/RH-Grundschläge + Richtung (2. Durchgang) (TE_B_T6_Grundschlaege-Richtung-Festigung.md) → **Feedback steht noch aus**
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)

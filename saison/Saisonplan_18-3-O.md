@@ -69,6 +69,8 @@ Treffpunkt **nach vorn-oben** · Splitstep vor jedem Ball · Ausschwung über di
 - T4 29.05. – Volley + Netzposition
 - T5 05.06. – Spielregeln Einzel & Anspiel
 - T6 12.06. – Split-Step + Bereitschaftsstellung (O-2/O-4), Orange-Variante: gemeinsame TE mit 18-2-O (gemeinsamer Platz, Match-Anteile). Split-Step aus Zuspiel + voller Schlag, Steigerung Richtung/Recovery; HT II GS-O06 kompetitiv + Split-Step-Bonus → Mini-Match. *Thema-Herleitung: Fallback (kein Steuer-Eintrag T5) → erstes offenes Thema = Splitstep.* → **Konsequenz: nächster Termin VH-Topspin** (Grobform; Marie G, Emiliya/Leila anbahnen; Split-Step bleibt Auslöser).
+- T7 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **VH-Topspin Hinführung (neuer Griff)** (gemeinsame TE mit 18-2-O, [TE_D_T7](../7-3/TE_D_T7_VH-Topspin-Hinfuehrung.md): AW-10 → GS-O01 → GS-O02 → GS-O03) · Anschluss an T6-Konsequenz; Marie G → fordern, Emiliya/Leila Anbahnung (Leila Sicherheit); hitzeangepasst (2× Wasserschlauch) → Beobachtung: Emiliya gibt sich Mühe. Leila manchmal neben sich, trifft z. T. keinen Ball. Marie keine spezifische Rückmeldung. VH-Topspin neu eingeführt, Schlag muss noch reifen (Fokus nächste Stunden); Ball kann bereits mit Drall gespielt werden, Ballwechsel kooperativ **und** kompetitiv klappen gut. → Konsequenz T8: VH-Topspin **reifen lassen**, Leila weiter Sicherheit/Grundschläge als Hauptfokus
+- T8 10.07. – **Cross/Longline grob steuern (kurze VH-Topspin-Wiederholung)** ([TE_D_T8](../7-10/TE_D_T8_Cross-Longline-VH-Topspin-Wiederholung.md): GS-O01 kurz → GS-O07 → GS-O08) → Beobachtung nach der Einheit nachtragen
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster D

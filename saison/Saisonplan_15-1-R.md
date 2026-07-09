@@ -2,7 +2,7 @@
 ---
 # Saisonplan – 15-1-R (Freitag, 15:00 Uhr)
 **Cluster:** B – Rot Einsteiger | **Stufe:** 🔴 Rot (Mehrheit Blau/Rot)
-**Trainer:** Charlize (T1–T12) → Ben (T13–T15) | **Gruppengröße:** 7 (GJ 2015–2019)
+**Trainer:** Charlize (T1–T12) → Ben (T13–T15) | **Gruppengröße:** 6 (GJ 2015–2019)
 **Saisonstart:** 22.05.2026 | **Termine:** ~15 | **Puffer:** Fr 16.10.
 
 ## Einordnung
@@ -21,7 +21,6 @@
 | Kind | Vorhand | Rückhand (beidh.) | Volley | Anspiel v. unten | Abgeleiteter Schwerpunkt |
 |---|---|---|---|---|---|
 | Alma Zapp | – | – | – | – | – |
-| Charlotte Nelleßen | – | – | – | – | – |
 | Ela Özdemir | – | – | – | – | – |
 | Lily Ava Propheter | – | – | – | – | – |
 | Lina Waschkau | – | – | – | – | – |
@@ -47,7 +46,7 @@
 |---|---|---|---|---|---|
 | 🔴 | Ballgewöhnung & Schlägerhandling | Ballgefühl, Griff, Treffpunkt spüren | B · Reihe A (KT-R14/15), KT-B | — | läuft (Dauerbasis, T1) |
 | 🔴 | Vorhand Grundschlag | Treffpunkt seitlich vorne, Basisgriff, Ball ins Feld | B · Reihe B (KT-R11/12/13) | Ballgewöhnung + Griff | läuft (T2/T3) |
-| 🔴 | Rückhand Grundschlag (beidh.) | seitlich vorne treffen, Schläger unten→oben | B · Reihe D (KT-R19/20/21) | Ballgewöhnung + Griff | offen |
+| 🔴 | Rückhand Grundschlag (beidh.) | seitlich vorne treffen, Schläger unten→oben | B · Reihe D (KT-R19/20/21) | Ballgewöhnung + Griff | läuft (T4, 12.06.) |
 | 🟠 | VH/RH-Wechsel + Richtung | auf Zuspielrichtung reagieren, Cross/Longline grob | B · Reihe C (KT-R16/17/18) / Reihe G | VH + RH-Grobform | offen |
 | 🟠 | Volley | Ball aus der Luft am Netz kurz spielen | B · Reihe E (KT-R22/23/24) | Ballgewöhnung + Griff | offen |
 | 🟠 | Anspiel von unten | Punkt selbstständig eröffnen | B · Reihe F (KT-R25/26) | VH-Grobform | offen |
@@ -70,6 +69,9 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 - T1 22.05. – Ballgewöhnung & Schlägerhandling · keine Beobachtung dokumentiert
 - T2 29.05. – Vorhand I (Treffpunkt) · keine Beobachtung dokumentiert
 - T3 05.06. – Vorhand II (Vertiefung) · keine Beobachtung dokumentiert
+- T4 12.06. – Rückhand beidhändig Einführung (AW-11 → KT-R19 → KT-R20 → SF-08 RH-Diagonale) → Beobachtung nachtragen: greift der beidhändige Griff? VH-Reflex? Konsequenz für T5 (RH wiederholen vs. VH/RH-Wechsel)
+- T5 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **VH/RH-Grundschläge + Richtung festigen** (Reihe C, [TE_B_T5](../7-3/TE_B_T5_Grundschlaege-Richtung.md): TS-04 Ballgefühl/Griff-Check → KT-R16 Prellen → KT-R17 Handfeed 4 Richtungen → KT-R18 Stop&Go/Minicup) · Schwerpunkt **RH-Festigung** (T4 = RH-Einführung); hitzeangepasst (kurzes AW, Trinkpausen, 2× Wasserschlauch) → Rückmeldung nur pauschal (keine Detail-Beobachtung von Charlize): Kinder machen gut mit, Entwicklung positiv → Konsequenz T6: Fallback Cluster-B-Reihenfolge (Volley/Anspiel), keine gezielte Wiederholung ableitbar
+- T6 10.07. – **Volley-Einführung** ([TE_B_T6](../7-10/TE_B_T6_Volley-Einfuehrung.md): KT-R22 → KT-R23 → KT-R24, neues Thema) → Beobachtung nach der Einheit nachtragen; geplant T7 (letzte vor Sommerferien): Anspiel von unten mit Regeln/Zählen + Miniturnier
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)

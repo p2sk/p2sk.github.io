@@ -73,6 +73,8 @@ Schlägerkopf unter dem Ball (Niedrig-Hoch) · Ausschwung über die Gegenschulte
 - T2 23.05. – VH-Topspin Vertiefung (progressive Geschwindigkeit, Konstanz)
 - T3 30.05. – RH-Topspin beidhändig (gleiche Bewegungslogik wie VH)
 - T4 06.06. – Griffwechsel (östlich → semi-westlich, Wechsel-Drill)
+- T5 13.06. – Aufschlag von oben festigen (geplant; 1-2-3-Rhythmus, Rotation 2+2 ins Feld, 1v1 mit Aufschlag) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Cross/Longline-Steuerung bzw. AS+Return-Spieleröffnung
+- T6 04.07. – **RH-Topspin Grobform festigen** (TE_12-1-O_T6_RH-Topspin-Grobform.md) · *Thema-Herleitung: RH-Topspin Grobform statt Cross/Longline (nur Anouk bislang G)* → **Feedback steht noch aus**
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster F

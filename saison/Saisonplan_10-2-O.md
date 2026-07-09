@@ -67,6 +67,10 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrek
 - T2 23.05. – Cooperation-Rallye mit Trainer (Midcourt) · Stand: mit Trainer möglich
 - T3 30.05. – Cooperation-Rallye mit Partner (Ziel) · Stand: Partner-Rallye im Aufbau
 - T4 06.06. – Volley + Netzposition · Stand: Volley meist G
+- T5 13.06. – Split-Step + Bereitschaftsstellung (geplant; Timing an Trainer-Kontakt, Grobform)
+	- Beobachtung: die Gruppe ist eher 🔴 statt 🟠. Beinarbeit ist noch zu schwierig. Die Kinder befinden sich alle in der Grobform
+	- nächste Stunde: Fokus auf Technikerwerb und Koordinationsübungen z. B. Treffpunkthöhe (O-2) oder Fokus auf Schlagbewegung (Hauptaktion)
+- T6 04.07. – **Grundschläge/Schlagbewegung festigen** (gemeinsame TE mit 10-3-O, TE_D_T6_Grundschlaege-Schlagbewegung-festigen.md) · *Thema-Herleitung: Schlagbewegung statt Treffpunkthöhe, Log-Beobachtung 13.06. „eher 🔴 als 🟠"* → Beobachtung: Mädchen befinden sich weiterhin eher auf Rot-Niveau (Ausnahme Ava, weiter) → Konsequenz T7: Grundschläge/Grobform weiter konsolidieren, Ava einzeln fordern
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster D

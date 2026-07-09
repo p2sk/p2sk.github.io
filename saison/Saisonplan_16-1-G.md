@@ -20,7 +20,7 @@
 | Kind | Topspin VH/RH (O→G) | Slice VH/RH (G) | Aufschlag (Platz./Var., G→Y) | Return aktiv (G→Y) | Beinarbeit/Recovery | Abgeleiteter Schwerpunkt |
 |---|---|---|---|---|---|---|
 | Viktor Franzen | G(→F) *(treffunsicher)* | – | G | G | G | Treffgenauigkeit → Feinform Grundschläge; taktisch fordern; Beinarbeit |
-| Louis Köneke | F *(VH Treffpunkt zu nah)* | G(→F) | G(→F) | G | G *(schwach)* | Power da; Beinarbeit Hauptbaustelle |
+| Louis Köneke *(Linkshänder)* | F *(VH Treffpunkt zu nah)* | G(→F) | G(→F) | G | G *(schwach)* | Power da; Beinarbeit Hauptbaustelle |
 | Louis Ayas | G(→F) | G(→F) | G *(platziert, langsam)* | G | G *(langsam)* | breitestes Repertoire + Ballgefühl; Bewegung/Antizipation |
 | Finn Hanrieder | G(→F) *(treffunsicher)* | →G | G | G | G | Treffgenauigkeit → Grundschläge Feinform-Übergang konsolidieren |
 
@@ -52,7 +52,7 @@
 |---|---|---|---|---|---|
 | 🔴 | Topspin/Grundschläge Feinform (Schlagsicherheit) | Treffgenauigkeit, Treffpunkt vor dem Körper | F · G-1/G-2 (VH), G-4 (RH) | Topspin-Grobform | läuft (Dauerthema, alle G→F) |
 | 🔴 | Beinarbeit + Kondi (Schnelligkeit + Ausdauer) | Footwork/Recovery + Tempo/Ausdauer koppeln → Schlagsicherheit | F · G-3/G-5 + SN-S/SN-T + AU-T/AU-H (BW) | — | läuft (fester ET-Block, s. o.) |
-| 🟠 | Slice VH/RH aufbauen | Schwungweg kurz, Schlägerkopf hoch; Verteidigung/Übergang | F · G-8 (RH), *F-06 (VH offen)* | Grundschläge | offen (Viktor neu, Finn →G) |
+| 🟠 | Slice VH/RH aufbauen | Schwungweg kurz, Schlägerkopf hoch; Verteidigung/Übergang | F · G-8 (RH), *F-06 (VH offen)* | Grundschläge | offen (Viktor neu, Finn →G; Finn nutzt bei kurzen/flachen Bällen ungewollt einhändigen Schlag mit falschem Griff/Stellung – RH-Slice gezielt bei Finn ansetzen, T7 03.07.) |
 | 🟠 | Aufschlag-Platzierung festigen | T / Body / Außen, Wurfposition konstant | F · AS-T / AS-A | Aufschlag-Grobform | läuft (alle G, T3) |
 | 🟠 | Return aktiv (Technik → Anwendung) | Treffpunkt, kurzes Ausholen; Block/Chip → Raumgewinn | F · TR-T01/T02 → TR-A | Grundschläge | läuft (alle G, T4) |
 | 🟠 | Spielsituation Grundlinie | neutral / offensiv / defensiv erkennen | F/H · GL-A, G-7 | Topspin + Steuerung | offen (T5) |
@@ -67,7 +67,7 @@ Schlagsicherheit über **Beinarbeit/Recovery** (früh + ausbalanciert zum Ball) 
 
 ## Differenzierungshinweise
 - **Viktor Franzen:** Treffgenauigkeit Topspin (G→F), Slice **neu** aufbauen (–); taktisch fordern; Beinarbeit
-- **Louis Köneke:** Power da → Kontrolle + Treffpunkt (VH zu nah); **Beinarbeit Hauptbaustelle**
+- **Louis Köneke (Linkshänder):** Power da → Kontrolle + Treffpunkt (VH zu nah); **Beinarbeit Hauptbaustelle**; bei Anspiel/Zielfeldern VH-Seite + Cross-Diagonale spiegeln
 - **Louis Ayas:** breites Repertoire + Ballgefühl → Bewegung/Antizipation/Schnelligkeit (langsam); kann technisch/taktisch fordern
 - **Finn Hanrieder:** Grundschläge Feinform-Übergang konsolidieren; Slice gerade beginnend (→G); Treffgenauigkeit
 - Mental: ≥1 Element/Einheit (Punktritual, Konzentration zwischen den Punkten)
@@ -80,6 +80,9 @@ Schlagsicherheit über **Beinarbeit/Recovery** (früh + ausbalanciert zum Ball) 
 - T3 22.05. – Aufschlag-Platzierung · Stand: alle G
 - T4 29.05. – Returnspiel aktiv · Stand: alle G
 - T5 05.06. – Spielsituation Grundlinie (neutral/offensiv/defensiv)
+- T6 12.06. – Grundschläge Feinform: **VH-Schlagsicherheit** (Reihe G-2: SN-S03 → GS-G04 Bauband → GS-G05 Richtungsvarianz → GS-G06 VH-Belohnungs-Spielform) · Hinweis: Louis K. Linkshänder (Zielfelder/VH-Seite spiegeln) → Beobachtung nachtragen: Treffsicherheit VH unter Richtung? Konsequenz T7 (VH ins freie Spiel vs. RH/Slice nachziehen)
+- T7 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **RH-Schlagsicherheit (Feinform)** ([TE_H_T7](../7-3/TE_H_T7_RH-Schlagsicherheit.md): AW-10 → GS-G10 Griffkontrolle → GS-G11 Partner-Zuspiel → GS-G12 RH Zielfelder+Spielsituation) · **Kondi-Block heute regenerativ** (Hitze, 2× Wasserschlauch) · Louis K. nicht anwesend → Beobachtung: Thema sehr gut umgesetzt. Bei Viktor/Louis A./Finn RH-Topspin (beidhändig) Stabilisierung erkennbar (G→F) – hoch cross mit viel Spin, RH-Longline ebenfalls stabil. Finn wechselt bei kurzen/flachen Bällen zu einhändigem Schlag mit falschem Griff/Stellung → funktioniert nicht (Merkpunkt: künftig RH-Slice bei Finn gezielt aufgreifen). Spielsituation (Hauptteil II) lief sehr gut, TE insgesamt starkes Feedback. → Konsequenz T8: RH weiter ins freie Spiel nehmen; Louis K. Stand bei nächster Anwesenheit neu prüfen; RH-Slice (Finn) als nächstes Slice-Thema vormerken
+- T8 10.07. – **VH/RH-Topspin Kombistunde (Wechselübungen)** ([TE_H_T8](../7-10/TE_H_T8_VH-RH-Wechsel-Kombistunde.md): GS-G26 (RH-fokus.) → GS-G28 (adapt., RH→VH) → GL-A13 (adapt., Zielmuster RH LL → VH Cross → frei)) · Louis K. Stand wird nachgeholt (T7 nicht da) → Beobachtung nach der Einheit nachtragen
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster H

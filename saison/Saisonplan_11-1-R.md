@@ -2,12 +2,13 @@
 ---
 # Saisonplan – 11-1-R (Samstag, 11:00 Uhr)
 **Cluster:** B – Rot Einsteiger | **Stufe:** 🔴 Rot
-**Trainer:** Charlize / Jessalyn (T1–T9) → Ben / Jessalyn (T10–T15) | **Gruppengröße:** 8
+**Trainer:** Charlize / Jessalyn (T1–T9) → Ben / Jessalyn (T10–T15) | **Gruppengröße:** 9
 **Saisonstart:** 23.05.2026 | **Termine:** ~15 | **Puffer:** Sa 17.10., 24.10.
 
 ## Einordnung
 - Große Gruppe (8 Kinder) → **Stationsbetrieb mit paarweiser Übungsstruktur** nötig
-- Zwei Untergruppen: **G1 (Charlize→Ben):** Amy Zeneli, Frederik Ansorge, Morana Maric · **G2 (Jessalyn):** Aaron Pagitsch, Leo Böcker, Lewin Pütz, Malin Mooren, Paul Rinker
+- Zwei Untergruppen: **G1 (Charlize→Ben):** Amy Zeneli, Frederik Ansorge, Morana Maric · **G2 (Jessalyn):** Aaron Pagitsch, Lea Sophie Hogrefe, Leo Böcker, Lewin Pütz, Malin Mooren, Paul Rinker
+- Lea Sophie Hogrefe wechselt von 17-3-R in diese Gruppe (G2)
 - **Mind. 2 Saisons in Rot** – Basisaufbau
 - Ben übernimmt nach Sommerferien; ab T10 verstärkt Spielformen mit Zählen (Trainerwechsel transparent kommunizieren)
 - Play&Stay-orientiert
@@ -24,6 +25,7 @@
 | Frederik Ansorge (G1) | – | – | – | – | – |
 | Morana Maric (G1) | – | – | – | – | – |
 | Aaron Pagitsch (G2) | – | – | – | – | – |
+| Lea Sophie Hogrefe (G2) | – | – | – | – | – |
 | Leo Böcker (G2) | – | – | – | – | – |
 | Lewin Pütz (G2) | – | – | – | – | – |
 | Malin Mooren (G2) | – | – | – | – | – |
@@ -71,6 +73,8 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 - T1 23.05. – Ballgewöhnung & Schlägerhandling · keine Beobachtung dokumentiert
 - T2 30.05. – Vorhand Grundschlag · keine Beobachtung dokumentiert
 - T3 06.06. – Rückhand Grundschlag · keine Beobachtung dokumentiert
+- T4 13.06. – VH/RH-Wechsel + Richtung (geplant; Seite erkennen → Griff → grob steuern; Aaron/Leo/Lewin kennen die Einheit aus 18-1-R/17-3-R Fr) → Beobachtung nachzutragen
+- T5 04.07. – VH/RH-Grundschläge + Richtung (2. Durchgang) (TE_B_T6_Grundschlaege-Richtung-Festigung.md) → **Feedback steht noch aus**
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)

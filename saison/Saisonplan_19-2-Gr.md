@@ -46,7 +46,7 @@
 | 🔴 | Beinarbeit/Recovery | früh + ausbalanciert zum Ball, Recovery | F · G-3/G-5 (+ SN/AU) | — | läuft |
 | 🔴 | Gemeinsames/gegenseitiges Spielen | kooperativ + Punktformen, miteinander spielen | F · Spielformen, GL-M | Ballwechsel halten | läuft (Pflichtschluss, Motor) |
 | 🟠 | Spielsituationen: Spieleröffnung / Grundlinie / Netz | neutral/offensiv/defensiv erkennen; einfließen lassen | F · AS-A, GL-A, NP-A | Spielelemente | läuft (T5) |
-| 🟠 | Taktikelement einbringen | einfache Spielmuster/Entscheidung (Jakubec-Trichter) | F · GL-A, G-7 🎯 | Steuerung | offen |
+| 🟠 | Taktikelement einbringen | einfache Spielmuster/Entscheidung (Jakubec-Trichter) | F · GL-A, G-7 🎯 | Steuerung | läuft (T6, 12.06.) |
 | 🟠 | Treffhöhe optimieren | Topspin-Höhe als Druckmittel | F · G-1/G-2 | Topspin-Grobform | offen (Elisa/Marlene) |
 | 🟢 | Aufschlag-Platzierung festigen | T / Body / Außen, Wurf konstant | F · AS-T / AS-A | Aufschlag-Grobform | läuft (T3, alle G) |
 | 🟢 | Slice RH / Stoppball + Return aktiv anbahnen | Verteidigung/Übergang; Block/Chip | F · G-8, GL-T06, TR-T/A | Grundschläge | offen |
@@ -70,6 +70,9 @@ Funktionale Korrektur am Spielziel (Richtung/Zone) + Selbstkorrektur · Beinarbe
 - T3 22.05. – Aufschlag-Platzierung (T/Body/Außen)
 - T4 29.05. – Returnspiel aktiv (Block/Chip/Angriff)
 - T5 05.06. – Spielsituation Grundlinie (neutral/offensiv/defensiv)
+- T6 12.06. – **Taktik: Raum öffnen & entscheiden** (Trichter: GS-G19 situativ → GS-G18 Autobahn geschlossen→halboffen → offenes Spiel + Zählsystem 3/2/1, Mini-Druck) → Beobachtung nachtragen: bauen sie erst auf, bevor sie öffnen? Druck angenommen? Konsequenz T7 (Optionen erweitern vs. Treffhöhe/Slice-Return)
+- T7 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **Schlagsicherheit Grundschläge/Topspin + Richtungssteuerung** ([TE_H_T7](../7-3/TE_H_T7_Schlagsicherheit-Richtung.md): TS-02 Koop-Rally → GS-G26 Schlaglänge longline → GS-G28 Cross-Rallye Richtungswechsel → GS-G18 Autobahn) · *Thema-Herleitung: bewusst zurück auf Schlagsicherheit/Fundament statt Taktik-Optionen erweitern (Gruppe real schwächer)*; hobbyorientiert, Mini-Druck, hitzeangepasst (2× Wasserschlauch) → Beobachtung: arbeiten sehr gut mit, keine Detail-Beobachtung dokumentiert → Konsequenz T8: Fallback – Schlagsicherheit/Richtungssteuerung als Dauerthema fortführen, Treffhöhe/Slice-Return als nächste Kandidaten offen
+- T8 10.07. – **Taktik: Raum öffnen & entscheiden – Fortführung** ([TE_H_T8](../7-10/TE_H_T8_Taktik-Raum-oeffnen-Fortfuehrung.md): GS-G19 → GS-G18 halboffen/offen + neue Option Netzübergang, Zählsystem mit Netz-Bonuspunkt) → Beobachtung nach der Einheit nachtragen
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster H

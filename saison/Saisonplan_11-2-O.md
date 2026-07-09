@@ -71,6 +71,8 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **nach vorn-oben** · Splitstep
 - T2 23.05. – Cooperation-Rallye mit Trainer (Midcourt)
 - T3 30.05. – Cooperation-Rallye mit Partner
 - T4 06.06. – Volley + Netzposition wiederholen (GL → Netz)
+- T5 13.06. – Spielregeln Einzel & Anspiel (geplant; Angabe von unten in Reifen, kooperativer Ballwechsel, Mini-Match bis 9 mit eigener Zählung) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Treffpunkthöhe / Splitstep
+- T6 04.07. – Treffpunkthöhe + Splitstep (TE_11-2-O_T6_Treffpunkthoehe-Splitstep.md) → **Feedback steht noch aus**
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster D

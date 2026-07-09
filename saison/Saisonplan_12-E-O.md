@@ -2,11 +2,11 @@
 ---
 # Saisonplan – 12-E-O (Samstag, 12:00 Uhr)
 **Cluster:** F – Grün | **Stufe:** 🟠→🟢 (Orange/Grün ++)
-**Trainer:** Pascal (bis Sommer) | **Gruppengröße:** 1 (Henry Plier, Einzeltraining-ähnlich)
+**Trainer:** Pascal (bis Sommer) | **Gruppengröße:** 1-2 (Henry Plier + gelegentlich Jakob Machura, mal gemeinsam, mal Einzeltraining)
 **Saisonstart:** 16.05.2026 | **Termine:** 15 | **Puffer:** Sa 10.10., 17.10., 24.10.
 
 ## Einordnung
-- Einzeltraining-ähnliches Setting mit Henry Plier (auch in Freitagsgruppe 17-1-O)
+- Einzeltraining-ähnliches Setting mit Henry Plier (auch in Freitagsgruppe 17-1-O); gelegentlich zusätzlich Jakob Machura (ebenfalls 17-1-O) – dann Kleingruppentraining statt Einzeltraining
 - Inhalte eng abgestimmt mit 17-1-O *(Saisonplan_17-1-O.md)* – keine Doppelung, sondern Vertiefung
 - Schwerpunkt: individuelle technische Arbeit und taktische Muster, die in der Gruppe weniger Zeit bekommen
 - Großfeld + Grünball vom ersten Termin
@@ -27,7 +27,7 @@ Phase 3 (T11–T15): Taktische Muster, Match-Simulation, Stoppball.
 | 5 | Sa 13.06. | Cross/Longline unter Druck | Zielzonen mit Pascal als Zuspieler, Drucksteigerung |
 | 6 | Sa 20.06. | Slice Rückhand | Hoch-Niedrig-Schwung, Verteidigung und Übergang |
 | 7 | Sa 27.06. | Slice Vorhand | Einbinden in Spielwechsel Topspin ↔ Slice |
-| 8 | Sa 04.07. | Return bewusst | Chip, Block, Angriff-Return situativ einsetzen |
+| 8 | Sa 04.07. | Return bewusst | Chip, Block, Angriff-Return situativ einsetzen *(Henry + Jakob, kein Detail-Feedback)* |
 | 9 | Sa 11.07. | Taktische Spielmuster | Punktaufbau über mehrere Schläge planen |
 | 10 | Sa 18.07. | Aufschlag-Variation Anbahnung | Slice- oder Kick-Element einführen |
 | — | *Sommerferien* | — | — |

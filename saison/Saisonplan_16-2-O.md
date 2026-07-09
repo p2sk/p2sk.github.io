@@ -72,6 +72,9 @@ Früh zum Ball / Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · 
 - T3 22.05. – (nicht dokumentiert)
 - T4 29.05. – (nicht dokumentiert)
 - T5 05.06. – (nicht dokumentiert)
+- T6 12.06. – **VH-Topspin Hinführung (Grobform)** (Reihe O-1: AW-10 → GS-O01 nahe Netz/Bauband → GS-O02 Trainerball → GS-O03 kooperativ) · kein Druck, Niveau-Split bedient → VH-Topspin eingeführt (siehe T7-Beobachtung, im Ballwechsel weitergeführt)
+- T7 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **Ballwechsel auf der Midcourt-Grundlinie** ([TE_D_T7](../7-3/TE_D_T7_Ballwechsel-Grundlinie-Midcourt.md): TS-04 → KT-R17 4 Richtungen → TS-02 Koop-Rally GL → KT-R13 Ziehharmonika, Schwerpunkt GL) · Gruppe etwas weiter → Fokus Grundlinie statt Topspin; hitzeangepasst (2× Wasserschlauch) → Beobachtung: Ballwechsel wurde unter Einsatz des neu eingeführten VH-Topspins trainiert (Verzahnung T6/T7) → Konsequenz T8: VH-Topspin **reifen lassen und beobachten** (kein neues Element), Fokus weiterhin auf Grundlagen/Ballwechsel legen
+- T8 10.07. – **Grundschläge/Ballwechsel festigen, VH-Topspin verbindlich** ([TE_D_T8](../7-10/TE_D_T8_Grundschlaege-Ballwechsel-VH-Topspin.md): GS-O01 → KT-R17 (Topspin-Pflicht) → TS-02/KT-R13 (Topspin-Pflicht)) · kein neues Element (Konsequenz T7) → Beobachtung nach der Einheit nachtragen
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster D

@@ -72,6 +72,8 @@ Schwungweg situativ (Topspin lang, Slice kurz) · Vorbereitung früh · Treffpun
 - T2 23.05. – Slice Vorhand (Übergang Grundlinie → Netz)
 - T3 30.05. – Slice in der Rallye (Topspin ↔ Slice situativ wechseln)
 - T4 06.06. – Stoppball (Slice-Bewegung + Situation erkennen)
+- T5 13.06. – Topspin VH/RH Feinform + Schlagsicherheit (geplant; VH-Auffrischung Bauband, RH-Zielfelder, VH/RH-Schlagsicherheits-Spielform; Slice-Block T1–T4 abgeschlossen) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Aufschlag-Platzierung / Return aktiv
+- T6 04.07. – **Topspin Feinform + Schlagsicherheit (2. Sitzung)** (TE_13-1-G_T6_Topspin-Feinform-Schlagsicherheit-II.md) · *Thema-Herleitung: 2. Sitzung statt Aufschlag-Platzierung (T5 war erst Einstieg)* → **Feedback steht noch aus**
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster H

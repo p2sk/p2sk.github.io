@@ -47,7 +47,7 @@
 | 🔴 | Ballgewöhnung & Schlägerhandling | Ballgefühl, Griff, Treffpunkt spüren | B · Reihe A (KT-R14/15), KT-B | — | läuft (Dauerbasis, T1) |
 | 🔴 | Vorhand Grundschlag | Treffpunkt seitlich vorne, Basisgriff, Ball ins Feld | B · Reihe B (KT-R11/12/13) | Ballgewöhnung + Griff | läuft (T2) |
 | 🔴 | Rückhand Grundschlag (beidh.) | seitlich vorne treffen, Schläger unten→oben | B · Reihe D (KT-R19/20/21) | Ballgewöhnung + Griff | läuft (T3) |
-| 🟠 | VH/RH-Wechsel + Richtung | auf Zuspielrichtung reagieren, Cross/Longline grob | B · Reihe C (KT-R16/17/18) / Reihe G | VH + RH-Grobform | offen |
+| 🟠 | VH/RH-Wechsel + Richtung | auf Zuspielrichtung reagieren, Cross/Longline grob | B · Reihe C (KT-R16/17/18) / Reihe G | VH + RH-Grobform | läuft (T4, 12.06.) |
 | 🟠 | Volley | Ball aus der Luft am Netz kurz spielen | B · Reihe E (KT-R22/23/24) | Ballgewöhnung + Griff | offen |
 | 🟠 | Anspiel von unten | Punkt selbstständig eröffnen | B · Reihe F (KT-R25/26) | VH-Grobform | offen |
 | 🟢 | Cooperation-Rallye Trainer + Partner | lange Ballwechsel halten (Stationsbetrieb) | B · KT-R13 / KT-R18 | VH + RH-Grobform | offen |
@@ -70,6 +70,9 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 - T1 22.05. – Ballgewöhnung & Schlägerhandling · keine Beobachtung dokumentiert
 - T2 29.05. – Vorhand Grundschlag · keine Beobachtung dokumentiert
 - T3 05.06. – Rückhand Grundschlag · keine Beobachtung dokumentiert
+- T4 12.06. – **VH/RH-Wechsel + Richtung** (Reihe C: AW-07 → KT-R16 → KT-R17 4 Richtungen → KT-R18 Stop&Go/Minicup) · Stationsbetrieb G1/G2 → Beobachtung nachtragen: Seitenerkennung + Griffwechsel? Ronja Orange-Potenzial? Konsequenz T5 (Richtung festigen vs. Volley/Anspiel)
+- T5 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **VH/RH-Grundschläge + Richtung festigen** (gebündelte Cluster-B-TE, [TE_B_T5](../7-3/TE_B_T5_Grundschlaege-Richtung.md): TS-04 Ballgefühl/Griff-Check → KT-R16 Prellen → KT-R17 4 Richtungen → KT-R18 Stop&Go/Minicup) · Stationsbetrieb G1/G2, hitzeangepasst (2× Wasserschlauch) → **Feedback steht noch aus** (wird nachgeholt) → Konsequenz T6: bis dahin Fallback Cluster-B-Reihenfolge (Richtung festigen)
+- T6 10.07. – **Volley-Einführung** (gebündelte Cluster-B-TE mit 15-1-R, [TE_B_T6](../7-10/TE_B_T6_Volley-Einfuehrung.md): KT-R22 → KT-R23 → KT-R24) · Stationsbetrieb G1/G2 → Beobachtung nach der Einheit nachtragen; geplant T7 (letzte vor Sommerferien): Anspiel von unten mit Regeln/Zählen + Miniturnier
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)
