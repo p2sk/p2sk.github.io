@@ -73,6 +73,7 @@ Beinarbeit/Recovery vor jedem Schlag (längere Wege Großfeld) · Ausschwung gro
 - T4 06.06. – Topspin RH Großfeld (beidhändig, gleiche Bewegungslogik)
 - T5 13.06. – Großfeld-Beinarbeit/Recovery + Open Stance (geplant; Recovery-Sprints, Sidestep+Laufweg, Rally-Prep zur Mitte, Ecken-Spiegel-Spielform) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Cross/Longline-Steuerung bzw. Return einführen
 - T6 04.07. – **Topspin RH Großfeld festigen** (TE_12-2-G_T6_Topspin-RH-Grossfeld.md) · *Thema-Herleitung: Topspin RH Großfeld statt Cross/Longline/Return (Greta/Lou noch Anbahnung)* → **Feedback steht noch aus**
+- T7 11.07. – **Cross/Longline VH+RH steuern** ([TE_12-2-G_T7](../7-11/TE_12-2-G_T7_Cross-Longline-Steuerung.md): GS-G26 → GS-G27 → Vorgabe-Punkt adapt. n. GS-O08) · **Pascal heute statt Charlize** (verhindert) → Beobachtung nach der Einheit nachtragen
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster H

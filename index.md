@@ -77,6 +77,7 @@
 | Sa, 13.06.2026 | [zur Übersicht](./6-13/index.md) |
 | Fr, 26.06.2026 | [zur Übersicht](./6-26/index.md) – **ausgefallen (Hitze)**, nachgeholt 03.07. |
 | Fr, 10.07.2026 | [zur Übersicht](./7-10/index.md) |
+| Sa, 11.07.2026 | [zur Übersicht](./7-11/index.md) – Trainerwechsel (Charlize verhindert) |
 
 ---
 

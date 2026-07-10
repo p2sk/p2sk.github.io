@@ -75,6 +75,7 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 - T3 06.06. – Rückhand Grundschlag · keine Beobachtung dokumentiert
 - T4 13.06. – VH/RH-Wechsel + Richtung (geplant; Seite erkennen → Griff → grob steuern; Aaron/Leo/Lewin kennen die Einheit aus 18-1-R/17-3-R Fr) → Beobachtung nachzutragen
 - T5 04.07. – VH/RH-Grundschläge + Richtung (2. Durchgang) (TE_B_T6_Grundschlaege-Richtung-Festigung.md) → **Feedback steht noch aus**
+- T6 11.07. – **Volley-Einführung** (Großgruppen-Anpassung, [TE_B_T6](../7-11/TE_B_T6_Volley-Einfuehrung-Grossgruppe.md): KT-R22 → KT-R23 → KT-R24) · Jessalyn heute allein für G1+G2 (Charlize verhindert), partnerbasierte Organisation statt 1+T → Beobachtung nach der Einheit nachtragen
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)

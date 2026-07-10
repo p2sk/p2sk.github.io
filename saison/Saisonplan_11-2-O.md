@@ -73,6 +73,7 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **nach vorn-oben** · Splitstep
 - T4 06.06. – Volley + Netzposition wiederholen (GL → Netz)
 - T5 13.06. – Spielregeln Einzel & Anspiel (geplant; Angabe von unten in Reifen, kooperativer Ballwechsel, Mini-Match bis 9 mit eigener Zählung) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Treffpunkthöhe / Splitstep
 - T6 04.07. – Treffpunkthöhe + Splitstep (TE_11-2-O_T6_Treffpunkthoehe-Splitstep.md) → **Feedback steht noch aus**
+- T7 11.07. – **VH-Topspin Hinführung (Anna/Paula/Smilla) + Grundschläge ohne Topspin-Druck (Melija/Mona)** ([TE_D_T7](../7-11/TE_D_T7_VH-Topspin-Hinfuehrung-Differenziert.md): GS-O01 vs. KT-R12, differenzierte Ziehharmonika) → Beobachtung nach der Einheit nachtragen
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster D

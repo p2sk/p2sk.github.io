@@ -65,6 +65,7 @@ Beidhändigkeit fördern (werfen & fangen mit beiden Händen) · Ballbeobachtung
 - T4 06.06. – Hüpfen & Balancieren (Koordinationsparcours mit Hütchen und Reifen)
 - T5 13.06. – Werfen & Treffen / Zielspiele (geplant; Überkopfwurf als Vorform Aufschlag, Fangen mit Hütchen, Zielwurf-Safari + Wasserball) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Schläger kennenlernen + Ball auf Schläger
 - T6 04.07. – Schläger kennenlernen + Ball auf Schläger (TE_A_T6_Schlaeger-kennenlernen.md) → **Feedback bewusst erst am Saisonende** (Ballschule, niedrige Priorität für laufendes Feedback)
+- T7 11.07. – Prellen & Hochspielen ([TE_A_T7](../7-11/TE_A_T7_Prellen-Hochspielen.md): KT-B09 → KT-B05 → KT-B10) → *(kein laufendes Feedback, siehe oben)*
 - T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
 
 ## Ausblick Saison 2 / Cluster B
