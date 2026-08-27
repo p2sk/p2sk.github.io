@@ -1,5 +1,5 @@
----
----
+> ⏹️ **Beendet mit dem Sommerblock (letzter Termin 17.07. bzw. 11.07.2026).** Das Einzeltraining **entfällt ab dem Herbstblock**. Henry Plier trainiert weiter freitags in 17-1/17-2-O (Prüfstufe 🟢 Grün). Datei bleibt als Historie erhalten.
+
 # Saisonplan – 12-E-O (Samstag, 12:00 Uhr)
 **Cluster:** F – Grün | **Stufe:** 🟠→🟢 (Orange/Grün ++)
 **Trainer:** Pascal (bis Sommer) | **Gruppengröße:** 1-2 (Henry Plier + gelegentlich Jakob Machura, mal gemeinsam, mal Einzeltraining)

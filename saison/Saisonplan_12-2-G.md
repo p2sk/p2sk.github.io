@@ -1,8 +1,8 @@
----
----
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟢 Grün). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+
 # Saisonplan – 12-2-G (Samstag, 12:00 Uhr)
-**Cluster:** F – Grün (Einstieg aus Orange) | **Stufe:** 🟠→🟢 (Großfeld/grün, Technik in Feinform-Anbahnung)
-**Trainer:** Charlize → Pascal (nach Sommer) | **Gruppengröße:** 4 (Greta Philipps, Lina Hochmuth, Lou Spindler, Milla Weber)
+**Cluster:** F – Grün (Einstieg aus Orange) | **Stufe:** 🟠→🟢 (Großfeld/grün, Technik in Feinform-Anbahnung) | **Prüfstufe:** 🟢 Grün
+**Trainer:** Charlize → **Pascal ab T9 (05.09.)** | **Gruppengröße:** 4 (Greta Philipps, Lina Hochmuth, Lou Spindler, Milla Weber)
 **Saisonstart:** 16.05.2026 | **Termine:** ~15 | **Puffer:** Sa 10.10., 17.10., 24.10.
 
 ## Einordnung
@@ -38,21 +38,31 @@
 - **Erste taktische Spielmuster + Match** (Cluster F · G-7 🎯, GL-A, GL-M, DP-G1/G2) – nach Sommer Match-Fokus
 
 ## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> ❄️ Eingefroren, Stand T8. Ab T9 gilt der Sportabzeichen-Fahrplan (`../index.md`). Offene Themen sind auf **→ Saison 2** gesetzt.
 > Themen fix, Termin-Zuordnung rollierend über den Entwicklungslog. Reihenfolge über Priorität + Voraussetzung, nicht über Datum. **Fallback (kein Log-Eintrag):** nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung.
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
 |---|---|---|---|---|---|
 | 🔴 | Topspin VH Großfeld festigen/verfeinern | Niedrig-Hoch auf längere Distanz, Höhe als Druckmittel | F · G-1/G-2 | Topspin-Grobform (Orange) | läuft T3 (alle G; Milla/Lina →F) |
 | 🔴 | Topspin RH Großfeld (beidhändig) | gleiche Bewegungslogik, Großfeld-Distanz | F · G-4 | RH-Topspin-Grobform | läuft T4 (Milla/Lina G; Greta/Lou anbahnen) |
-| 🔴 | Großfeld-Beinarbeit/Recovery + Open Stance | längere Wege, Recovery nach jedem Schlag, offene Stellung VH | F · G-3/G-5 (+ SN/AU) | — | offen (alle „–", Milla G) |
-| 🟠 | Cross/Longline VH+RH steuern | Zielzonen mit Hütchen, Richtungssteuerung | F · G-7, GL-A | Topspin-Grobform | offen |
-| 🟠 | Aufschlag festigen + Platzierungsansatz | Konstanz auf Großfeld, erster T/Body/Außen, Wurf konstant | F · AS-T/AS-A | Aufschlag-Grobform (Orange) | offen (alle G) |
-| 🟠 | Return als bewusster Schlag | Treffpunkt, kurzes Ausholen, cross/longline steuern | F · TR-T01/T02 | Grundschläge | offen |
-| 🟠 | Spielsituation Grundlinie | neutral / offensiv / defensiv erkennen und handeln | F · GL-A | Topspin + Steuerung | offen |
+| 🔴 | Großfeld-Beinarbeit/Recovery + Open Stance | längere Wege, Recovery nach jedem Schlag, offene Stellung VH | F · G-3/G-5 (+ SN/AU) | — | → Saison 2 (alle „–", Milla G) |
+| 🟠 | Cross/Longline VH+RH steuern | Zielzonen mit Hütchen, Richtungssteuerung | F · G-7, GL-A | Topspin-Grobform | → Saison 2 |
+| 🟠 | Aufschlag festigen + Platzierungsansatz | Konstanz auf Großfeld, erster T/Body/Außen, Wurf konstant | F · AS-T/AS-A | Aufschlag-Grobform (Orange) | → Saison 2 (alle G) |
+| 🟠 | Return als bewusster Schlag | Treffpunkt, kurzes Ausholen, cross/longline steuern | F · TR-T01/T02 | Grundschläge | → Saison 2 |
+| 🟠 | Spielsituation Grundlinie | neutral / offensiv / defensiv erkennen und handeln | F · GL-A | Topspin + Steuerung | → Saison 2 |
 | 🟢 | Slice RH einführen | Hoch-Niedrig, „Messer durch Butter", Rückwärtsdrall | F · G-8 | Grundschläge | läuft (T1 angetestet) |
-| 🟢 | Slice VH + Stoppball Einführung | Verteidigung/Übergang + Situationserkennung | F · *F-06 offen* / GL-T06 | Slice-Grobform | offen (T2 angetestet) |
-| 🟢 | Erste taktische Spielmuster | Punktaufbau über mehrere Schläge, Spielzug-Ansatz (Jakubec-Trichter) | F · G-7 🎯, GL-A | Steuerung | offen |
+| 🟢 | Slice VH + Stoppball Einführung | Verteidigung/Übergang + Situationserkennung | F · *F-06 offen* / GL-T06 | Slice-Grobform | → Saison 2 (T2 angetestet) |
+| 🟢 | Erste taktische Spielmuster | Punktaufbau über mehrere Schläge, Spielzug-Ansatz (Jakubec-Trichter) | F · G-7 🎯, GL-A | Steuerung | → Saison 2 |
 | 🟢 | Match-Formen Großfeld + Doppel | Tie-Break, AS-/Returnsätze, Einzel/Doppel mit Zählen | F · GL-M, DP-G1/G2 | Aufschlag + Return | läuft (Pflichtschluss, Saisonabschluss Turnierform) |
+
+## Prüfstufe Herbstblock — 🟢 Grün
+> Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Gruen.pdf`. Maximal **84 Punkte** · Bronze ab 21 · Silber ab 42 · Gold ab 63.
+
+**Platzaufbau:** Verlängerung der Mittellinie bis zur Grundlinie · **3-Meterlinie** · **Power-Linie auf Höhe der Grundlinie** (bis 3 m nach links und rechts verlängert) · Sprint-Hütchen 1, 2, 4, 5 auf den Eckpunkten von Grund- und Aufschlaglinie, Hütchen 3 auf dem T-Kreuz.
+
+**Besonderheit der Stufe:** Referenzlinie für die Länge ist die **T-Linie**. Beim Aufschlag zählt der zweite Aufsprung auf oder hinter der Power-Linie doppelt — dort liegt die halbe Punktzahl der Aufschlagübung.
+
+**Realistisches Ziel:** Vier von fünf Kindern werden freitags geprüft (Greta Philipps, Lina Hochmuth, Lou Spindler auf Grün; Milla Weber je nach Stufenwahl von 19-2-Gr). Die Stunde am 10.10. ist überwiegend Vorbereitung.
 
 ## Korrekturgrundsatz Saison
 Beinarbeit/Recovery vor jedem Schlag (längere Wege Großfeld) · Ausschwung großzügiger · Aufschlag-Wurf konstant halten · Topspin: Schlägerkopf unter dem Ball / Treffhöhe als Druckmittel · funktionale Korrektur am Ziel in Anwendung/Taktik
@@ -65,6 +75,7 @@ Beinarbeit/Recovery vor jedem Schlag (längere Wege Großfeld) · Ausschwung gro
 - **Gruppe insgesamt:** technischer schulbar als 16-3-Gr → gezielte Technik-Häppchen (explizit) neben Spielformen; bei leidender Rallye-Qualität Feld zonieren
 
 ## Entwicklungslog (laufend) — Steuerinstrument
+> ❄️ Ab T9 steuert der Sportabzeichen-Fahrplan (`../index.md`), nicht mehr die Prio-Spalte der Themenliste.
 > Neueinstufung + Standortbestimmung T3 (30.05.). T1–T4 nachgetragen; T1+T2 nach altem Cluster-F-Plan (Slice). Detailbeobachtungen je Termin nachzutragen. Fehlt ein Eintrag → Fallback: nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung.
 
 - T1 16.05. – Slice Rückhand (alter Cluster-F-Plan, vor Neueinstufung)
@@ -73,8 +84,9 @@ Beinarbeit/Recovery vor jedem Schlag (längere Wege Großfeld) · Ausschwung gro
 - T4 06.06. – Topspin RH Großfeld (beidhändig, gleiche Bewegungslogik)
 - T5 13.06. – Großfeld-Beinarbeit/Recovery + Open Stance (geplant; Recovery-Sprints, Sidestep+Laufweg, Rally-Prep zur Mitte, Ecken-Spiegel-Spielform) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Cross/Longline-Steuerung bzw. Return einführen
 - T6 04.07. – **Topspin RH Großfeld festigen** (TE_12-2-G_T6_Topspin-RH-Grossfeld.md) · *Thema-Herleitung: Topspin RH Großfeld statt Cross/Longline/Return (Greta/Lou noch Anbahnung)* → **Feedback steht noch aus**
-- T7 11.07. – **Cross/Longline VH+RH steuern** ([TE_12-2-G_T7](../7-11/TE_12-2-G_T7_Cross-Longline-Steuerung.md): GS-G26 → GS-G27 → Vorgabe-Punkt adapt. n. GS-O08) · **Pascal heute statt Charlize** (verhindert) → Beobachtung nach der Einheit nachtragen
-- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+- T7 11.07. – **Cross/Longline VH+RH steuern** ([TE_12-2-G_T7](../7-11/TE_12-2-G_T7_Cross-Longline-Steuerung.md): GS-G26 → GS-G27 → Vorgabe-Punkt adapt. n. GS-O08) · **Pascal heute statt Charlize** (verhindert) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
+- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Grün** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster H
 Wenn Topspin VH+RH (Feinform) trägt, Aufschlag ins Feld konstant + erste Platzierung, Slice + Richtungssteuerung stabil und taktischer Spielaufbau erkennbar → Reife für Wechsel Gelb-Ball / Wettkampfformate (Cluster H, Einstieg aus Grün). Slice VH/Stoppball vertiefen, Netzangriff/Passierball, Doppel.

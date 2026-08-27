@@ -1,8 +1,8 @@
----
----
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🔴 Rot). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+
 # Saisonplan – 11-1-R (Samstag, 11:00 Uhr)
-**Cluster:** B – Rot Einsteiger | **Stufe:** 🔴 Rot
-**Trainer:** Charlize / Jessalyn (T1–T9) → Ben / Jessalyn (T10–T15) | **Gruppengröße:** 9
+**Cluster:** B – Rot Einsteiger | **Stufe:** 🔴 Rot | **Prüfstufe:** 🔴 Rot
+**Trainer:** Charlize / Jessalyn (T1–T8) → **Ben allein ab T9 (05.09.)** | **Gruppengröße:** 9
 **Saisonstart:** 23.05.2026 | **Termine:** ~15 | **Puffer:** Sa 17.10., 24.10.
 
 ## Einordnung
@@ -44,6 +44,7 @@
 - **G1 (Charlize) lernt schneller** → zügiger + Steigerungsformen
 
 ## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> ❄️ Eingefroren, Stand T8. Ab T9 gilt der Sportabzeichen-Fahrplan (`../index.md`). Offene Themen sind auf **→ Saison 2** gesetzt.
 > Themen fix, Termin-Zuordnung rollierend über den Entwicklungslog. Reihenfolge über Priorität + Voraussetzung, nicht über Datum. **Fallback (Standort offen, kein Log T1–T3):** nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung.
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
@@ -51,12 +52,21 @@
 | 🔴 | Ballgewöhnung & Schlägerhandling | Ballgefühl, Griff, Treffpunkt spüren | B · Reihe A (KT-R14/15), KT-B | — | läuft (Dauerbasis, T1) |
 | 🔴 | Vorhand Grundschlag | Treffpunkt seitlich vorne, Basisgriff, Ball ins Feld | B · Reihe B (KT-R11/12/13) | Ballgewöhnung + Griff | läuft (T2) |
 | 🔴 | Rückhand Grundschlag (beidh.) | seitlich vorne treffen, Schläger unten→oben | B · Reihe D (KT-R19/20/21) | Ballgewöhnung + Griff | läuft (T3) |
-| 🟠 | VH/RH-Wechsel + Richtung | auf Zuspielrichtung reagieren, Cross/Longline grob | B · Reihe C (KT-R16/17/18) / Reihe G | VH + RH-Grobform | offen |
-| 🟠 | Volley | Ball aus der Luft am Netz kurz spielen | B · Reihe E (KT-R22/23/24) | Ballgewöhnung + Griff | offen |
-| 🟠 | Anspiel von unten | Punkt selbstständig eröffnen | B · Reihe F (KT-R25/26) | VH-Grobform | offen |
-| 🟢 | Cooperation-Rallye Trainer + Partner | lange Ballwechsel halten (Stationsbetrieb) | B · KT-R13 / KT-R18 | VH + RH-Grobform | offen |
-| 🟢 | Spielregeln + Tie-Break bis 9 | Aufschlagseite, Aus, Punktende, selbst zählen | B · KT-R26 / KT-R18 | Ballwechsel halten | offen |
+| 🟠 | VH/RH-Wechsel + Richtung | auf Zuspielrichtung reagieren, Cross/Longline grob | B · Reihe C (KT-R16/17/18) / Reihe G | VH + RH-Grobform | → Saison 2 |
+| 🟠 | Volley | Ball aus der Luft am Netz kurz spielen | B · Reihe E (KT-R22/23/24) | Ballgewöhnung + Griff | → Saison 2 |
+| 🟠 | Anspiel von unten | Punkt selbstständig eröffnen | B · Reihe F (KT-R25/26) | VH-Grobform | → Saison 2 |
+| 🟢 | Cooperation-Rallye Trainer + Partner | lange Ballwechsel halten (Stationsbetrieb) | B · KT-R13 / KT-R18 | VH + RH-Grobform | → Saison 2 |
+| 🟢 | Spielregeln + Tie-Break bis 9 | Aufschlagseite, Aus, Punktende, selbst zählen | B · KT-R26 / KT-R18 | Ballwechsel halten | → Saison 2 |
 | 🟢 | Mini-Match / Spielform Doppel-Cross | Punkt cross gewinnen, einfache Doppelregel | B · DP-R1 (DP-T01/A01) | Ballwechsel halten | läuft (Pflichtschluss) |
+
+## Prüfstufe Herbstblock — 🔴 Rot
+> Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Rot.pdf`. Maximal **32 Punkte** · Bronze ab 8 · Silber ab 16 · Gold ab 24.
+
+**Platzaufbau:** 2-Meterlinie vor dem Netz (Volley-Position) · Sprint-Hütchen 1–5 im Abstand von je **3 m** um die Mittelmarkierung.
+
+**Besonderheit der Stufe:** Aufschlag **von oben oder von unten** zulässig (Übung 4) — das nimmt den Druck aus der schwierigsten Übung.
+
+**Realistisches Ziel:** Zielkategorie nach dem Baseline-Durchlauf am 05.09. festlegen. Aaron Pagitsch, Leo Böcker und Lewin Pütz werden freitags geprüft.
 
 ## Korrekturgrundsatz Saison
 Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung bis zum Treffpunkt · zuerst Selbstkorrektur (Zeit lassen)
@@ -68,6 +78,7 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 - Schnellere Kinder können VH/RH-Wechsel + Anspiel früher beginnen
 
 ## Entwicklungslog (laufend) — Steuerinstrument
+> ❄️ Ab T9 steuert der Sportabzeichen-Fahrplan (`../index.md`), nicht mehr die Prio-Spalte der Themenliste.
 > T1–T3 nachgetragen (gelaufene Themen), **ohne Beobachtung** (Charlize/Jessalyn tragen nach) → bis zum ersten beobachteten Eintrag greift der Fallback (Cluster-B-Reihenfolge).
 
 - T1 23.05. – Ballgewöhnung & Schlägerhandling · keine Beobachtung dokumentiert
@@ -75,8 +86,9 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 - T3 06.06. – Rückhand Grundschlag · keine Beobachtung dokumentiert
 - T4 13.06. – VH/RH-Wechsel + Richtung (geplant; Seite erkennen → Griff → grob steuern; Aaron/Leo/Lewin kennen die Einheit aus 18-1-R/17-3-R Fr) → Beobachtung nachzutragen
 - T5 04.07. – VH/RH-Grundschläge + Richtung (2. Durchgang) (TE_B_T6_Grundschlaege-Richtung-Festigung.md) → **Feedback steht noch aus**
-- T6 11.07. – **Volley-Einführung** (Großgruppen-Anpassung, [TE_B_T6](../7-11/TE_B_T6_Volley-Einfuehrung-Grossgruppe.md): KT-R22 → KT-R23 → KT-R24) · Jessalyn heute allein für G1+G2 (Charlize verhindert), partnerbasierte Organisation statt 1+T → Beobachtung nach der Einheit nachtragen
-- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+- T6 11.07. – **Volley-Einführung** (Großgruppen-Anpassung, [TE_B_T6](../7-11/TE_B_T6_Volley-Einfuehrung-Grossgruppe.md): KT-R22 → KT-R23 → KT-R24) · Jessalyn heute allein für G1+G2 (Charlize verhindert), partnerbasierte Organisation statt 1+T → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
+- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Rot** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)
 Cluster-B vollständig: Steuerung (VH/RH-Richtung), Anspiel/Volley festigen, Cooperation-Rallye, Spielregeln-Vertiefung, Mini-Match-Formen. Reife-Indikatoren Richtung Cluster D (Materialwechsel Orange/Midcourt).

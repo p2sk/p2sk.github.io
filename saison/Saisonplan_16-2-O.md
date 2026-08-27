@@ -1,7 +1,7 @@
----
----
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+
 # Saisonplan – 16-2-O (Freitag, 16:00 Uhr)
-**Cluster:** D – Orange | **Stufe:** 🔴→🟠 (Reifegrad im Aufbau, modal noch Rot-Niveau)
+**Cluster:** D – Orange | **Stufe:** 🔴→🟠 (Reifegrad im Aufbau, modal noch Rot-Niveau) | **Prüfstufe:** 🟠 Orange
 **Trainer:** Ben | **Gruppengröße:** 5 (GJ 2015–2017)
 **Saisonstart:** 08.05.2026 | **Termine:** ~15 | **Puffer:** Fr 02.10., 09.10., 16.10.
 
@@ -38,6 +38,7 @@
 - begleitend: Volley/Netz festigen (O-5) · Griffwechsel spielerisch (*Reihe offen F-07, nur AW-07*) · Mini-Match Minicourt/Midcourt-Cup (DP-O1)
 
 ## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> ❄️ Eingefroren, Stand T8. Ab T9 gilt der Sportabzeichen-Fahrplan (`../index.md`). Offene Themen sind auf **→ Saison 2** gesetzt.
 > Themen fix, Termin-Zuordnung rollierend über den Entwicklungslog. Reihenfolge über Priorität + Voraussetzung, nicht über Datum. **Fallback (kein Log T1–T5):** nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung. Schwerpunkt **Konsolidierung** (modal noch Rot) – Orange-Neu behutsam, kein Druck.
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
@@ -45,13 +46,22 @@
 | 🔴 | Grundschläge VH/RH Midcourt festigen | Grobform sichern, Treffpunkt vorn, Konstanz | B konsolidieren / GS-Grobform | — | läuft (Dauerthema; Aaron Grundstellung, Louis/Phileas konsolidieren) |
 | 🔴 | Sichere Ballwechsel (Cooperation Trainer → Partner) | Ballwechsel halten, Partner-Rallye | B · KT-R13 / KT-R18 (Midcourt) | Grundschläge Midcourt | läuft (bes. Phileas) |
 | 🔴 | VH-Topspin Hinführung (Grobform) | Niedrig-Hoch, „Bürste über den Ball" | D · O-1 (GS-O01/02/03) | Grundschläge | läuft (Aaron/Fabian/Linja G; Louis/Phileas anbahnen) |
-| 🟠 | Splitstep / Beinarbeit erster Einsatz | „Kleiner Hopser", Wege Midcourt, Recovery | D · O-2/O-4 (+ BW) | Grundschläge Midcourt | offen (alle „–") |
+| 🟠 | Splitstep / Beinarbeit erster Einsatz | „Kleiner Hopser", Wege Midcourt, Recovery | D · O-2/O-4 (+ BW) | Grundschläge Midcourt | → Saison 2 (alle „–") |
 | 🟠 | Volley / Netzposition festigen | GL → Netz, vorhandene Stärke nutzen | D · O-5 | Grundschläge | läuft (4/5 G; Phileas anbahnen) |
-| 🟠 | Aufschlag von oben Hinführung | Bewegungsmuster, Aufschlagfeld treffen | D · AS-Grobform | Angabe v. unten | offen (Aaron/Fabian/Linja G; Louis/Phileas erst Angabe sichern) |
-| 🟢 | RH-Topspin Hinführung (beidhändig) | gleiche Bewegungslogik wie VH | D · O-6 | RH-Grundschlag | offen |
-| 🟢 | Cross/Longline grob steuern | einfache Zielzonen Midcourt | D · O-3 | Topspin-Grobform tragfähig | offen |
-| 🟢 | Griffwechsel spielerisch | VH-/RH-Griff im Spiel wechseln | D · *F-07 offen (AW-07)* | VH + RH-Grobform | offen |
+| 🟠 | Aufschlag von oben Hinführung | Bewegungsmuster, Aufschlagfeld treffen | D · AS-Grobform | Angabe v. unten | → Saison 2 (Aaron/Fabian/Linja G; Louis/Phileas erst Angabe sichern) |
+| 🟢 | RH-Topspin Hinführung (beidhändig) | gleiche Bewegungslogik wie VH | D · O-6 | RH-Grundschlag | → Saison 2 |
+| 🟢 | Cross/Longline grob steuern | einfache Zielzonen Midcourt | D · O-3 | Topspin-Grobform tragfähig | → Saison 2 |
+| 🟢 | Griffwechsel spielerisch | VH-/RH-Griff im Spiel wechseln | D · *F-07 offen (AW-07)* | VH + RH-Grobform | → Saison 2 |
 | 🟢 | Mini-Match Minicourt / Midcourt-Cup | selbstständig spielen + zählen | D · DP-O1 / Spielformen | Ballwechsel halten | läuft (Pflichtschluss) |
+
+## Prüfstufe Herbstblock — 🟠 Orange
+> Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Orange.pdf`. Maximal **72 Punkte** · Bronze ab 18 · Silber ab 36 · Gold ab 54.
+
+**Platzaufbau:** **4,5-Meterlinie** (halbe Seitenlänge) · **3-Meterlinie** · Verlängerung der Mittellinie bis zur Grundlinie · Sprint-Hütchen 1–5 im Abstand von je **3,2 m** auf der Mitte der Grundlinie.
+
+**Besonderheit der Stufe:** Neu gegenüber Rot ist die **Längensteuerung**: Treffer über die 4,5-m-Linie zählen doppelt. Aufschlag von oben, 2 × 6 Bälle.
+
+**Realistisches Ziel:** Bronze für alle. Fabian und Linja sind die Silber-Kandidaten; Louis und Phileas brauchen bei allen Übungen den sicheren Treffer vor der Länge.
 
 ## Korrekturgrundsatz Saison
 Früh zum Ball / Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · Splitstep anbahnen · **kein Druck** (modal noch Rot), positiv korrigieren, nur **ein** Fehler
@@ -64,6 +74,7 @@ Früh zum Ball / Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · 
 - **Gruppe:** Niveau-Split → Stationsbetrieb / parallele Zuspiele; bei leidender Rallye-Qualität Feld verkleinern / zonieren
 
 ## Entwicklungslog (laufend) — Steuerinstrument
+> ❄️ Ab T9 steuert der Sportabzeichen-Fahrplan (`../index.md`), nicht mehr die Prio-Spalte der Themenliste.
 > Standortbestimmung erhoben T1 (08.05.). **T1–T5 nicht dokumentiert** (gelaufene Themen nicht nachgetragen) → bis ein Eintrag vorliegt greift der Fallback (nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung = **Splitstep/Beinarbeit**).
 > _Hinweis: Abschnitt am 08.06.2026 rekonstruiert – Originaldatei war ab der Themenliste abgeschnitten. Bitte Themenliste-Status + Differenzierung gegenprüfen._
 
@@ -74,8 +85,9 @@ Früh zum Ball / Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · 
 - T5 05.06. – (nicht dokumentiert)
 - T6 12.06. – **VH-Topspin Hinführung (Grobform)** (Reihe O-1: AW-10 → GS-O01 nahe Netz/Bauband → GS-O02 Trainerball → GS-O03 kooperativ) · kein Druck, Niveau-Split bedient → VH-Topspin eingeführt (siehe T7-Beobachtung, im Ballwechsel weitergeführt)
 - T7 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **Ballwechsel auf der Midcourt-Grundlinie** ([TE_D_T7](../7-3/TE_D_T7_Ballwechsel-Grundlinie-Midcourt.md): TS-04 → KT-R17 4 Richtungen → TS-02 Koop-Rally GL → KT-R13 Ziehharmonika, Schwerpunkt GL) · Gruppe etwas weiter → Fokus Grundlinie statt Topspin; hitzeangepasst (2× Wasserschlauch) → Beobachtung: Ballwechsel wurde unter Einsatz des neu eingeführten VH-Topspins trainiert (Verzahnung T6/T7) → Konsequenz T8: VH-Topspin **reifen lassen und beobachten** (kein neues Element), Fokus weiterhin auf Grundlagen/Ballwechsel legen
-- T8 10.07. – **Grundschläge/Ballwechsel festigen, VH-Topspin verbindlich** ([TE_D_T8](../7-10/TE_D_T8_Grundschlaege-Ballwechsel-VH-Topspin.md): GS-O01 → KT-R17 (Topspin-Pflicht) → TS-02/KT-R13 (Topspin-Pflicht)) · kein neues Element (Konsequenz T7) → Beobachtung nach der Einheit nachtragen
-- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+- T8 10.07. – **Grundschläge/Ballwechsel festigen, VH-Topspin verbindlich** ([TE_D_T8](../7-10/TE_D_T8_Grundschlaege-Ballwechsel-VH-Topspin.md): GS-O01 → KT-R17 (Topspin-Pflicht) → TS-02/KT-R13 (Topspin-Pflicht)) · kein neues Element (Konsequenz T7) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
+- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster D
 Topspin (VH/RH) stabilisieren, Griffwechsel vertiefen, Aufschlag von oben festigen, Spielmuster + Doppel; Matchmodus ausbauen, Vorbereitung Großfeld/Cluster F.

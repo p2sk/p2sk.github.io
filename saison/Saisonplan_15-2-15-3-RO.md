@@ -1,8 +1,8 @@
----
----
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+
 # Saisonplan – 15-2-RO + 15-3-RO (Freitag, 15:00 Uhr)
-**Cluster:** D – Orange (Einstieg aus Rot) | **Stufe:** 🔴→🟠 (Reifegrad noch klar Rot)
-**Trainer:** Pascal (Platz 15-2) + Ben (Platz 15-3) | **Gruppengröße:** 9 (5 + 4, zwei Plätze, gleiche Gruppe/gleiches Ziel)
+**Cluster:** D – Orange (Einstieg aus Rot) | **Stufe:** 🔴→🟠 (Reifegrad noch klar Rot) | **Prüfstufe:** 🟠 Orange
+**Trainer:** Pascal + Ben (T8) → **Pascal allein ab T9, zwei Plätze** | **Gruppengröße:** 9 (5 + 4, zwei Plätze, gleiche Gruppe/gleiches Ziel)
 **Saisonstart:** 08.05.2026 | **Termine:** ~15 | **Puffer:** Fr 02.10., 09.10., 16.10.
 
 > **Zusammengelegt ab T8 (10.07.2026):** 15-2-RO und 15-3-RO sind dieselbe Gruppe mit demselben Ziel, trainieren aber parallel auf zwei Plätzen (Rotation nach Zuspielpartner-Niveau). Bisher als zwei separate Saisonpläne geführt – ab jetzt ein gemeinsamer Plan. **Historie T1–T7 bleibt in den alten Dateien** `Saisonplan_15-2-RO.md` (archiviert) und `Saisonplan_15-3-RO.md` (archiviert); dieser Plan führt das Entwicklungslog ab T8 fort.
@@ -47,6 +47,7 @@
 - **Gemeinsames Midcourt-Spiel / Mini-Match** zum Saisonende (Matchmodus nach Sommer)
 
 ## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> ❄️ Eingefroren, Stand T8. Ab T9 gilt der Sportabzeichen-Fahrplan (`../index.md`). Offene Themen sind auf **→ Saison 2** gesetzt.
 > Themen fix, Termin-Zuordnung rollierend über den Entwicklungslog. Reihenfolge über Priorität + Voraussetzung, nicht über Datum. Schwerpunkt **Konsolidierung** (noch Rot) – Orange-Neu erst, wenn Grundschläge/Ballwechsel/Laufarbeit auf Midcourt tragen.
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
@@ -55,13 +56,21 @@
 | 🔴 | Sichere Ballwechsel (Cooperation Trainer → Partner) | Ballwechsel halten, Richtung Partner-Rallye | B · KT-R13 / KT-R18 (Midcourt) | Grundschläge Midcourt | läuft (von GL noch nicht tragfähig, Stand T7) |
 | 🔴 | Laufbereitschaft/Beinarbeit | aktive Rückkehr zur Mitte, Recovery | D · O-2/O-4 (+ BW) | — | läuft (neuer Fokus ab T8) |
 | 🟠 | Volley / Netzposition festigen | GL → Netz; vorhandene Stärke (alle G) nutzen | D · O-5 | Grundschläge | läuft (T4 29.05.) |
-| 🟠 | Treffpunkthöhe Knie/Hüfthöhe | Orangeball höher treffen | D · O-2 | Grundschläge + Ballwechsel + Laufarbeit tragfähig | offen (zurückgestellt, Stand T7) |
+| 🟠 | Treffpunkthöhe Knie/Hüfthöhe | Orangeball höher treffen | D · O-2 | Grundschläge + Ballwechsel + Laufarbeit tragfähig | → Saison 2 (zurückgestellt, Stand T7) |
 | 🟠 | Splitstep / Beinarbeit erster Einsatz | „Kleiner Hopser", Wege Midcourt | D · O-2/O-4 | Grundschläge Midcourt | läuft (T6 12.06.) |
-| 🟢 | Cross/Longline grob steuern | einfache Zielzonen Midcourt | D · O-3 | VH/RH-Grobform tragfähig | offen |
-| 🟢 | VH-Topspin Hinführung (spät) | Niedrig-Hoch, „Bürste über den Ball" | D · O-1 (GS-O01/02/03) | VH-Grobform tragfähig auf Midcourt | offen (zurückgestellt, Stand T7) |
-| 🟢 | RH-Topspin Hinführung (beidh.) | Niedrig-Hoch RH | D · O-6 | RH-Grobform | offen |
-| 🟢 | Aufschlag von oben Hinführung | Bewegungsmuster, kein Ergebnisdruck | D · AS-Grobform | Angabe v. unten | offen |
-| 🟢 | Gemeinsames Midcourt-Spiel / Mini-Match | selbstständig spielen + zählen (Matchmodus) | Spielformen / DP-O1 | Ballwechsel mit Partner | offen (volles Match erst Saisonende) |
+| 🟢 | Cross/Longline grob steuern | einfache Zielzonen Midcourt | D · O-3 | VH/RH-Grobform tragfähig | → Saison 2 |
+| 🟢 | VH-Topspin Hinführung (spät) | Niedrig-Hoch, „Bürste über den Ball" | D · O-1 (GS-O01/02/03) | VH-Grobform tragfähig auf Midcourt | → Saison 2 (zurückgestellt, Stand T7) |
+| 🟢 | RH-Topspin Hinführung (beidh.) | Niedrig-Hoch RH | D · O-6 | RH-Grobform | → Saison 2 |
+| 🟢 | Aufschlag von oben Hinführung | Bewegungsmuster, kein Ergebnisdruck | D · AS-Grobform | Angabe v. unten | → Saison 2 |
+| 🟢 | Gemeinsames Midcourt-Spiel / Mini-Match | selbstständig spielen + zählen (Matchmodus) | Spielformen / DP-O1 | Ballwechsel mit Partner | → Saison 2 (volles Match erst Saisonende) |
+## Prüfstufe Herbstblock — 🟠 Orange
+> Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Orange.pdf`. Maximal **72 Punkte** · Bronze ab 18 · Silber ab 36 · Gold ab 54.
+
+**Platzaufbau:** **4,5-Meterlinie** (halbe Seitenlänge) · **3-Meterlinie** · Verlängerung der Mittellinie bis zur Grundlinie · Sprint-Hütchen 1–5 im Abstand von je **3,2 m** auf der Mitte der Grundlinie.
+
+**Besonderheit der Stufe:** Neu gegenüber Rot ist die **Längensteuerung**: Treffer über die 4,5-m-Linie zählen doppelt. Aufschlag von oben, 2 × 6 Bälle.
+
+**Realistisches Ziel:** Bronze für alle. Der Ballwechsel von der Grundlinie trug zuletzt bei keinem — Übung 1 und 2 brauchen deshalb kurze Wege und viel Trainer-Handfeed. Anna, Mona und Louis sind die Silber-Kandidaten.
 
 ## Korrekturgrundsatz Saison
 Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · Splitstep anbahnen · **nach jedem Schlag zurück in Bereitschaft laufen** (ab T8 explizit)
@@ -78,10 +87,12 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrek
 - **Rotation zwischen den Plätzen** für passende Zuspielpartner-Niveaus; bei stehen statt laufen → zurück zu Cooperation-Rallyes mit kürzeren Wegen + mehr Trainer-Zuspiel
 
 ## Entwicklungslog (laufend) — Steuerinstrument
+> ❄️ Ab T9 steuert der Sportabzeichen-Fahrplan (`../index.md`), nicht mehr die Prio-Spalte der Themenliste.
 > Gemeinsames Log ab T8 (10.07.2026). Historie T1–T7 (getrennt nach Platz) in den archivierten Dateien `Saisonplan_15-2-RO.md` und `Saisonplan_15-3-RO.md`. Letzter Stand vor Zusammenlegung (T7, 03.07.): Ballwechsel von der Grundlinie auch bei den Besseren nicht tragfähig, aus kurzer Distanz ok; Marlene/Sophie Balleinschätzung/Koordination schwierig; Laufbereitschaft fehlt bei allen.
 
-- T8 10.07. – **Grundschläge Midcourt + Ballwechsel + Laufarbeit** (Wiederholung T7, [TE_D_T8](../7-10/TE_D_T8_Grundschlaege-Ballwechsel-Laufarbeit.md): KT-R12 Handfeed VH → KT-R17 4 Richtungen → KT-R13 Ziehharmonika, verlängert + Laufarbeit-Akzent) → Beobachtung nach der Einheit nachtragen
-- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+- T8 10.07. – **Grundschläge Midcourt + Ballwechsel + Laufarbeit** (Wiederholung T7, [TE_D_T8](../7-10/TE_D_T8_Grundschlaege-Ballwechsel-Laufarbeit.md): KT-R12 Handfeed VH → KT-R17 4 Richtungen → KT-R13 Ziehharmonika, verlängert + Laufarbeit-Akzent) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
+- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster D
 Topspin (VH/RH) + Aufschlag von oben als Hauptthemen (diese Saison nur angebahnt), Treffpunkthöhe/Splitstep/Laufarbeit festigen, Spielmuster + Doppel; Matchmodus ausbauen.

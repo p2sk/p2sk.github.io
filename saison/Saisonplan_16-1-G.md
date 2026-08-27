@@ -1,8 +1,8 @@
----
----
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟡 Gelb). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+
 # Saisonplan – 16-1-G (Freitag, 16:00 Uhr)
-**Cluster:** H – Gelb Wettkampfnah (Einstieg aus Grün) | **Stufe:** 🟢→🟡 (Material Gelb; Technik teils 🟠🟢, Grobform→Feinform)
-**Trainer:** Pascal | **Gruppengröße:** 4 (GJ 2008–2013)
+**Cluster:** H – Gelb Wettkampfnah (Einstieg aus Grün) | **Stufe:** 🟢→🟡 (Material Gelb; Technik teils 🟠🟢, Grobform→Feinform) | **Prüfstufe:** 🟡 Gelb
+**Trainer:** Pascal · ab T9 zusätzlich 16-3-Gr auf dem zweiten Platz | **Gruppengröße:** 4 (GJ 2008–2013)
 **Saisonstart:** 08.05.2026 | **Termine:** ~15 | **Puffer:** Fr 02.10., 09.10., 16.10.
 
 ## Einordnung
@@ -46,21 +46,30 @@
 - **Differenzierung:** Louis K. (Beinarbeit) + Louis A. (Tempo/Antizipation) erhöhter Umfang; an Match-Lage anpassen (vor Spielen mehr Schnelligkeit, sonst Ausdauer)
 
 ## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> ❄️ Eingefroren, Stand T8. Ab T9 gilt der Sportabzeichen-Fahrplan (`../index.md`). Offene Themen sind auf **→ Saison 2** gesetzt.
 > Obere Stufe → poolartig, schwache Reihenfolge-Bindung. Schwerpunkt **Feinform-Grundlagen + Beinarbeit**; Wettkampf dosiert. Termin-Zuordnung rollierend über den Entwicklungslog.
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
 |---|---|---|---|---|---|
 | 🔴 | Topspin/Grundschläge Feinform (Schlagsicherheit) | Treffgenauigkeit, Treffpunkt vor dem Körper | F · G-1/G-2 (VH), G-4 (RH) | Topspin-Grobform | läuft (Dauerthema, alle G→F) |
 | 🔴 | Beinarbeit + Kondi (Schnelligkeit + Ausdauer) | Footwork/Recovery + Tempo/Ausdauer koppeln → Schlagsicherheit | F · G-3/G-5 + SN-S/SN-T + AU-T/AU-H (BW) | — | läuft (fester ET-Block, s. o.) |
-| 🟠 | Slice VH/RH aufbauen | Schwungweg kurz, Schlägerkopf hoch; Verteidigung/Übergang | F · G-8 (RH), *F-06 (VH offen)* | Grundschläge | offen (Viktor neu, Finn →G; Finn nutzt bei kurzen/flachen Bällen ungewollt einhändigen Schlag mit falschem Griff/Stellung – RH-Slice gezielt bei Finn ansetzen, T7 03.07.) |
+| 🟠 | Slice VH/RH aufbauen | Schwungweg kurz, Schlägerkopf hoch; Verteidigung/Übergang | F · G-8 (RH), *F-06 (VH offen)* | Grundschläge | → Saison 2 (Viktor neu, Finn →G; Finn nutzt bei kurzen/flachen Bällen ungewollt einhändigen Schlag mit falschem Griff/Stellung – RH-Slice gezielt bei Finn ansetzen, T7 03.07.) |
 | 🟠 | Aufschlag-Platzierung festigen | T / Body / Außen, Wurfposition konstant | F · AS-T / AS-A | Aufschlag-Grobform | läuft (alle G, T3) |
 | 🟠 | Return aktiv (Technik → Anwendung) | Treffpunkt, kurzes Ausholen; Block/Chip → Raumgewinn | F · TR-T01/T02 → TR-A | Grundschläge | läuft (alle G, T4) |
-| 🟠 | Spielsituation Grundlinie | neutral / offensiv / defensiv erkennen | F/H · GL-A, G-7 | Topspin + Steuerung | offen (T5) |
-| 🟢 | Stoppball (aus Slice) | Ball kurz „einschläfern" hinter dem Netz | F · GL-T06 (+ G-8) | Slice-Grobform | offen |
-| 🟢 | Angriffsball + Netzübergang | kurzen Ball → Approach → erster Volley | F/H · G-6, NP-T01/02 → NP-A01 | Volley-Grobform | offen |
-| 🟢 | Aufschlag-Variation Slice/Kick | Schnitt/Niedrig-Hoch anbahnen (kein Ergebnisdruck) | H · AS-Varianten | Aufschlag platziert stabil | offen (spät; v. a. Viktor/Louis A.) |
+| 🟠 | Spielsituation Grundlinie | neutral / offensiv / defensiv erkennen | F/H · GL-A, G-7 | Topspin + Steuerung | → Saison 2 (T5) |
+| 🟢 | Stoppball (aus Slice) | Ball kurz „einschläfern" hinter dem Netz | F · GL-T06 (+ G-8) | Slice-Grobform | → Saison 2 |
+| 🟢 | Angriffsball + Netzübergang | kurzen Ball → Approach → erster Volley | F/H · G-6, NP-T01/02 → NP-A01 | Volley-Grobform | → Saison 2 |
+| 🟢 | Aufschlag-Variation Slice/Kick | Schnitt/Niedrig-Hoch anbahnen (kein Ergebnisdruck) | H · AS-Varianten | Aufschlag platziert stabil | → Saison 2 (spät; v. a. Viktor/Louis A.) |
 | 🟢 | Match-/Tie-Break-Form (Mini-Druck) | 3-Punkte-Spiel, Tie-Break-only; weniger Wettkampf | H · GL-M, DS-B | Spielmuster | läuft (Pflichtschluss, dosiert) |
-| 🟢 | Doppel Grün (Theorie der Mitte, Aufrücken) | gemeinsames Aufrücken, Position | F · DP-G1/G2 | Aufschlag + Return | offen |
+| 🟢 | Doppel Grün (Theorie der Mitte, Aufrücken) | gemeinsames Aufrücken, Position | F · DP-G1/G2 | Aufschlag + Return | → Saison 2 |
+## Prüfstufe Herbstblock — 🟡 Gelb
+> Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Gelb.pdf`. Maximal **108 Punkte** · Bronze ab 27 · Silber ab 54 · Gold ab 81.
+
+**Platzaufbau:** **Power-Linie 3 m hinter der Grundlinie** (bis 3 m nach links und rechts verlängert) · Verlängerung der Mittellinie bis zur Grundlinie · **3-Meterlinie** · beide **Aufschlagfelder halbiert** · Sprint-Hütchen wie Grün.
+
+**Besonderheit der Stufe:** Bis zu **3 Punkte pro Ball** (richtige Feldhälfte + Länge über die T-Linie + zweiter Aufsprung hinter der Power-Linie). Aufschlag 4 × 3 in die halbierten Aufschlagfelder.
+
+**Realistisches Ziel:** Bronze sicher, Silber realistisch. Die Gruppe spielt auf Gelb-Material, die Technik liegt teils bei Orange/Grün — Punkte kommen eher über die richtige Feldhälfte als über Länge und zweiten Aufsprung.
 
 ## Korrekturgrundsatz Saison
 Schlagsicherheit über **Beinarbeit/Recovery** (früh + ausbalanciert zum Ball) · Treffpunkt **vor dem Körper** · funktionale Korrektur am Ziel + Selbstkorrektur · Routine zwischen den Punkten
@@ -73,6 +82,7 @@ Schlagsicherheit über **Beinarbeit/Recovery** (früh + ausbalanciert zum Ball) 
 - Mental: ≥1 Element/Einheit (Punktritual, Konzentration zwischen den Punkten)
 
 ## Entwicklungslog (laufend) — Steuerinstrument
+> ❄️ Ab T9 steuert der Sportabzeichen-Fahrplan (`../index.md`), nicht mehr die Prio-Spalte der Themenliste.
 > Standortbestimmung erhoben T1 (08.05.). T1–T5 nachgetragen (gelaufene Themen); Detailbeobachtungen je Termin nachzutragen.
 
 - T1 08.05. – Slice VH/RH wiederholen · Stand: Viktor Slice –, andere G(→F)
@@ -80,10 +90,11 @@ Schlagsicherheit über **Beinarbeit/Recovery** (früh + ausbalanciert zum Ball) 
 - T3 22.05. – Aufschlag-Platzierung · Stand: alle G
 - T4 29.05. – Returnspiel aktiv · Stand: alle G
 - T5 05.06. – Spielsituation Grundlinie (neutral/offensiv/defensiv)
-- T6 12.06. – Grundschläge Feinform: **VH-Schlagsicherheit** (Reihe G-2: SN-S03 → GS-G04 Bauband → GS-G05 Richtungsvarianz → GS-G06 VH-Belohnungs-Spielform) · Hinweis: Louis K. Linkshänder (Zielfelder/VH-Seite spiegeln) → Beobachtung nachtragen: Treffsicherheit VH unter Richtung? Konsequenz T7 (VH ins freie Spiel vs. RH/Slice nachziehen)
+- T6 12.06. – Grundschläge Feinform: **VH-Schlagsicherheit** (Reihe G-2: SN-S03 → GS-G04 Bauband → GS-G05 Richtungsvarianz → GS-G06 VH-Belohnungs-Spielform) · Hinweis: Louis K. Linkshänder (Zielfelder/VH-Seite spiegeln) → *nicht nachgetragen (Trainerwechsel), ursprüngliche Leitfrage:* Treffsicherheit VH unter Richtung? Konsequenz T7 (VH ins freie Spiel vs. RH/Slice nachziehen)
 - T7 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **RH-Schlagsicherheit (Feinform)** ([TE_H_T7](../7-3/TE_H_T7_RH-Schlagsicherheit.md): AW-10 → GS-G10 Griffkontrolle → GS-G11 Partner-Zuspiel → GS-G12 RH Zielfelder+Spielsituation) · **Kondi-Block heute regenerativ** (Hitze, 2× Wasserschlauch) · Louis K. nicht anwesend → Beobachtung: Thema sehr gut umgesetzt. Bei Viktor/Louis A./Finn RH-Topspin (beidhändig) Stabilisierung erkennbar (G→F) – hoch cross mit viel Spin, RH-Longline ebenfalls stabil. Finn wechselt bei kurzen/flachen Bällen zu einhändigem Schlag mit falschem Griff/Stellung → funktioniert nicht (Merkpunkt: künftig RH-Slice bei Finn gezielt aufgreifen). Spielsituation (Hauptteil II) lief sehr gut, TE insgesamt starkes Feedback. → Konsequenz T8: RH weiter ins freie Spiel nehmen; Louis K. Stand bei nächster Anwesenheit neu prüfen; RH-Slice (Finn) als nächstes Slice-Thema vormerken
-- T8 10.07. – **VH/RH-Topspin Kombistunde (Wechselübungen)** ([TE_H_T8](../7-10/TE_H_T8_VH-RH-Wechsel-Kombistunde.md): GS-G26 (RH-fokus.) → GS-G28 (adapt., RH→VH) → GL-A13 (adapt., Zielmuster RH LL → VH Cross → frei)) · Louis K. Stand wird nachgeholt (T7 nicht da) → Beobachtung nach der Einheit nachtragen
-- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+- T8 10.07. – **VH/RH-Topspin Kombistunde (Wechselübungen)** ([TE_H_T8](../7-10/TE_H_T8_VH-RH-Wechsel-Kombistunde.md): GS-G26 (RH-fokus.) → GS-G28 (adapt., RH→VH) → GL-A13 (adapt., Zielmuster RH LL → VH Cross → frei)) · Louis K. Stand wird nachgeholt (T7 nicht da) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
+- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Gelb** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster H
 Wenn Feinform-Grundlagen tragen: AS-Variationen Slice/Kick + Platzierung unter Druck, offensives Returnspiel, Spielmuster (Angriffsball/Netzübergang/Konterspiel), Match-/Tiebreak-Formen mit echtem Wettkampfdruck, mentale Routinen, Doppel Gelb (I-Formation).

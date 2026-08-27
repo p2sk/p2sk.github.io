@@ -1,8 +1,8 @@
----
----
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+
 # Saisonplan – 11-2-O (Samstag, 11:00 Uhr)
-**Cluster:** D – Orange (Einstieg aus Rot) | **Stufe:** 🔴→🟠 (Rot/Orange – oberer Pol Orange-reif)
-**Trainer:** Ben → Pascal | **Gruppengröße:** 5 (Anna De Silva, Melija Stonkute, Paula Moral, Smilla Machura, Mona Hochmuth)
+**Cluster:** D – Orange (Einstieg aus Rot) | **Stufe:** 🔴→🟠 (Rot/Orange – oberer Pol Orange-reif) | **Prüfstufe:** 🟠 Orange
+**Trainer:** Ben → **Pascal ab T9 (05.09.)** | **Gruppengröße:** 5 (Anna De Silva, Melija Stonkute, Paula Moral, Smilla Machura, Mona Hochmuth)
 **Saisonstart:** 16.05.2026 | **Termine:** ~15 | **Puffer:** Sa 10.10., 17.10., 24.10.
 
 ## Einordnung
@@ -38,6 +38,7 @@
 - begleitend: Cross/Longline grob steuern (O-3) · Griffwechsel spät spielerisch (*F-07 offen, AW-07*) · gemeinsames Midcourt-Spiel / Mini-Match zum Saisonende (Matchmodus nach Sommer)
 
 ## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> ❄️ Eingefroren, Stand T8. Ab T9 gilt der Sportabzeichen-Fahrplan (`../index.md`). Offene Themen sind auf **→ Saison 2** gesetzt.
 > Themen fix, Termin-Zuordnung rollierend über den Entwicklungslog. Reihenfolge über Priorität + Voraussetzung, nicht über Datum. Schwerpunkt **Konsolidierung** (Einstieg aus Rot) – Orange-Neu erst, wenn Grundschläge auf Midcourt tragen.
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
@@ -45,14 +46,22 @@
 | 🔴 | Grundschläge Midcourt festigen + Balleinschätzung | Grobform sichern, früh zum Ball, Treffpunkt vorn | B konsolidieren / GS-Grobform | — | läuft (Dauerthema; Melija/Mona Fokus) |
 | 🔴 | Cooperation-Rallye Trainer → Partner | Ballwechsel halten, Richtung Partner-Rallye | D · KT-R13 / KT-R18 (Midcourt) | Grundschläge Midcourt | läuft (T2–T3; Trainer ok, Partner Ziel) |
 | 🟠 | Volley / Netzposition festigen | GL → Netz; vorhandene Stärke (alle G) nutzen | D · O-5 | Grundschläge | läuft (T4 06.06.) |
-| 🟠 | Spielregeln Einzel & Anspiel | selbstständiges Anspiel, Punktzählung festigen | Spielformen / DP-O1 | Ballwechsel halten | offen (T5) |
-| 🟠 | Treffpunkthöhe Knie/Hüfthöhe | Orangeball höher treffen | D · O-2 | Grundschläge Midcourt tragfähig | offen |
-| 🟠 | Splitstep / Beinarbeit erster Einsatz | „kleiner Hopser", Wege Midcourt | D · O-2/O-4 | Grundschläge Midcourt | offen |
-| 🟢 | VH-Topspin Hinführung (spät) | Niedrig-Hoch, „Bürste über den Ball", kein Griffwechseldruck | D · O-1 (GS-O01/02/03) | VH-Grobform tragfähig auf Midcourt | offen |
-| 🟢 | Aufschlag von oben + Return-Anbahnung | AS-Muster einführen; Return-Treffpunkt erspüren | D · AS-Grobform + TR-T01 | Angabe v. unten | offen |
-| 🟢 | Cross/Longline grob steuern | Zielzonen am Midcourt anspielen | D · O-3 | VH/RH-Grobform tragfähig | offen (Pascal übernimmt) |
-| 🟢 | Griffwechsel VH/RH (spielerisch) | erstmals thematisieren, spät + ohne Druck | D · *F-07 offen (AW-07)* | VH + RH-Grobform | offen |
-| 🟢 | Spielsituationen erkennen + Mini-Match (Tie-Break) | Zuspielrichtung lesen; selbstständig spielen + zählen, Turnierform | Spielformen / DP-O1, Mini-Match | Ballwechsel mit Partner | offen (Saisonabschluss) |
+| 🟠 | Spielregeln Einzel & Anspiel | selbstständiges Anspiel, Punktzählung festigen | Spielformen / DP-O1 | Ballwechsel halten | → Saison 2 (T5) |
+| 🟠 | Treffpunkthöhe Knie/Hüfthöhe | Orangeball höher treffen | D · O-2 | Grundschläge Midcourt tragfähig | → Saison 2 |
+| 🟠 | Splitstep / Beinarbeit erster Einsatz | „kleiner Hopser", Wege Midcourt | D · O-2/O-4 | Grundschläge Midcourt | → Saison 2 |
+| 🟢 | VH-Topspin Hinführung (spät) | Niedrig-Hoch, „Bürste über den Ball", kein Griffwechseldruck | D · O-1 (GS-O01/02/03) | VH-Grobform tragfähig auf Midcourt | → Saison 2 |
+| 🟢 | Aufschlag von oben + Return-Anbahnung | AS-Muster einführen; Return-Treffpunkt erspüren | D · AS-Grobform + TR-T01 | Angabe v. unten | → Saison 2 |
+| 🟢 | Cross/Longline grob steuern | Zielzonen am Midcourt anspielen | D · O-3 | VH/RH-Grobform tragfähig | → Saison 2 (Pascal übernimmt) |
+| 🟢 | Griffwechsel VH/RH (spielerisch) | erstmals thematisieren, spät + ohne Druck | D · *F-07 offen (AW-07)* | VH + RH-Grobform | → Saison 2 |
+| 🟢 | Spielsituationen erkennen + Mini-Match (Tie-Break) | Zuspielrichtung lesen; selbstständig spielen + zählen, Turnierform | Spielformen / DP-O1, Mini-Match | Ballwechsel mit Partner | → Saison 2 (Saisonabschluss) |
+## Prüfstufe Herbstblock — 🟠 Orange
+> Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Orange.pdf`. Maximal **72 Punkte** · Bronze ab 18 · Silber ab 36 · Gold ab 54.
+
+**Platzaufbau:** **4,5-Meterlinie** (halbe Seitenlänge) · **3-Meterlinie** · Verlängerung der Mittellinie bis zur Grundlinie · Sprint-Hütchen 1–5 im Abstand von je **3,2 m** auf der Mitte der Grundlinie.
+
+**Besonderheit der Stufe:** Neu gegenüber Rot ist die **Längensteuerung**: Treffer über die 4,5-m-Linie zählen doppelt. Aufschlag von oben, 2 × 6 Bälle.
+
+**Realistisches Ziel:** Zielkategorie nach dem Baseline-Durchlauf am 05.09. festlegen. Anna De Silva und Mona Hochmuth werden freitags in 15-2/15-3-RO geprüft — ebenfalls auf Orange, also kein Stufenkonflikt.
 
 ## Korrekturgrundsatz Saison
 Früh zum Ball (Balleinschätzung) · Treffpunkt **nach vorn-oben** · Splitstep vor jedem Ball · Ausschwung über die Schulter · zuerst Selbstkorrektur (Zeit lassen) · funktionale Korrektur am Ziel in Anwendung
@@ -65,6 +74,7 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **nach vorn-oben** · Splitstep
 - **Rückfall-Heuristik:** stehen statt laufen am Midcourt → zurück zu Cooperation-Rallyes mit kürzeren Wegen + Zielzonen + mehr Trainer-Zuspiel
 
 ## Entwicklungslog (laufend) — Steuerinstrument
+> ❄️ Ab T9 steuert der Sportabzeichen-Fahrplan (`../index.md`), nicht mehr die Prio-Spalte der Themenliste.
 > Standortbestimmung erhoben T1 (16.05.). T1–T4 gelaufen (aus alter Themenfolge nachgetragen); Detailbeobachtungen je Termin nachzutragen. Fehlt ein Eintrag → Fallback: nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung.
 
 - T1 16.05. – Einstieg Midcourt / Materialwechsel (Orangeball, Feld kalibrieren)
@@ -73,8 +83,9 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **nach vorn-oben** · Splitstep
 - T4 06.06. – Volley + Netzposition wiederholen (GL → Netz)
 - T5 13.06. – Spielregeln Einzel & Anspiel (geplant; Angabe von unten in Reifen, kooperativer Ballwechsel, Mini-Match bis 9 mit eigener Zählung) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Treffpunkthöhe / Splitstep
 - T6 04.07. – Treffpunkthöhe + Splitstep (TE_11-2-O_T6_Treffpunkthoehe-Splitstep.md) → **Feedback steht noch aus**
-- T7 11.07. – **VH-Topspin Hinführung (Anna/Paula/Smilla) + Grundschläge ohne Topspin-Druck (Melija/Mona)** ([TE_D_T7](../7-11/TE_D_T7_VH-Topspin-Hinfuehrung-Differenziert.md): GS-O01 vs. KT-R12, differenzierte Ziehharmonika) → Beobachtung nach der Einheit nachtragen
-- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+- T7 11.07. – **VH-Topspin Hinführung (Anna/Paula/Smilla) + Grundschläge ohne Topspin-Druck (Melija/Mona)** ([TE_D_T7](../7-11/TE_D_T7_VH-Topspin-Hinfuehrung-Differenziert.md): GS-O01 vs. KT-R12, differenzierte Ziehharmonika) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
+- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster D
 Topspin (VH/RH) + Aufschlag von oben als Hauptthemen (diese Saison nur angebahnt), Griffwechsel + Treffpunkthöhe/Splitstep festigen, Spielmuster (Angriffsball, Netzübergang), Doppel; Matchmodus ausbauen.

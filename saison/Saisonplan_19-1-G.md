@@ -1,5 +1,5 @@
----
----
+> ⏹️ **Beendet mit dem Sommerblock (letzter Termin 17.07. bzw. 11.07.2026).** 19-1-G (Damen-Mannschaft) erhält ab dem Herbstblock **kein Training mehr**. Die Medenspiele sind gespielt; der Abruf-Modus endet mit der Sommersaison. Datei bleibt als Historie erhalten.
+
 # Saisonplan – 19-1-G (Damen-Mannschaft, Training auf Abruf)
 **Cluster:** I – Mannschaft | **Stufe:** 🟡 Gelb (++)
 **Trainer:** Pascal | **Gruppengröße:** 2 (Jessalyn, Lidia)

@@ -1,8 +1,8 @@
----
----
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟢 Grün). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+
 # Saisonplan – 17-1-O + 17-2-O (Freitag, 17:00 Uhr)
-**Cluster:** F – Grün (Einstieg aus Orange) | **Stufe:** 🟠→🟢 (Orange/Grün ++)
-**Trainer:** Pascal (Platz 17-1) + Ben (Platz 17-2) | **Gruppengröße:** 6 (4 + 2, zwei Plätze, gleiche Gruppe/gleiches Ziel)
+**Cluster:** F – Grün (Einstieg aus Orange) | **Stufe:** 🟠→🟢 (Orange/Grün ++) | **Prüfstufe:** 🟢 Grün
+**Trainer:** Pascal + Ben (T8) → **Pascal allein ab T9, zwei Plätze** | **Gruppengröße:** 6 (4 + 2, zwei Plätze, gleiche Gruppe/gleiches Ziel)
 **Saisonstart:** 08.05.2026 | **Termine:** ~15 | **Puffer:** Fr 02.10., 09.10., 16.10.
 
 > **Zusammengelegt ab T8 (10.07.2026):** 17-1-O und 17-2-O trainieren bereits seit Saisonbeginn auf gemeinsamem Platz mit kombinierten Match-/Doppel-Anteilen – de facto eine Gruppe auf zwei Plätzen. Bisher als zwei separate Saisonpläne geführt – ab jetzt ein gemeinsamer Plan. **Historie T1–T7 bleibt in den alten Dateien** `Saisonplan_17-1-O.md` (archiviert) und `Saisonplan_17-2-O.md` (archiviert); dieser Plan führt das Entwicklungslog ab T8 fort.
@@ -41,6 +41,7 @@
 - **Schlagsicherheit unter Druck + Wettkampf→Taktik** einstreuen (Cluster F/H · GL-A, DS) – gemeinsamer Match-Platz
 
 ## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> ❄️ Eingefroren, Stand T8. Ab T9 gilt der Sportabzeichen-Fahrplan (`../index.md`). Offene Themen sind auf **→ Saison 2** gesetzt.
 > Obere Stufe → poolartig. Termin-Zuordnung rollierend über den Entwicklungslog. Match-/Wettkampfanteile bereits kombiniert.
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
@@ -49,12 +50,21 @@
 | 🔴 | Beinarbeit Großfeld + Schlagvor-/nachbereitung | Recovery, Open Stance, Übergänge zwischen Schlägen | F · G-3/G-5 (+ SN/AU) | — | läuft (Drills integrieren) |
 | 🟠 | Aufschlag-Platzierung | T / Body / Außen, Wurf konstant | F · AS-T / AS-A | Aufschlag-Grobform | läuft (meist G; Jonathan „–") |
 | 🟠 | Cross/Longline-Steuerung Großfeld | Zielzonen auf regulärem Feld | F · G-7, GL-A | Topspin + Steuerung | läuft (meist G) |
-| 🟠 | Return aktiv aufbauen | Block / Chip / Angriff – nicht nur zurückhauen | F · TR-T01/T02 → TR-A | Grundschläge | offen (meist –) |
-| 🟠 | Slice RH Hinführung | Hoch-Niedrig-Schwung, einfache Verteidigung | F · G-8 | Grundschläge | offen (meist –; Henry G) |
+| 🟠 | Return aktiv aufbauen | Block / Chip / Angriff – nicht nur zurückhauen | F · TR-T01/T02 → TR-A | Grundschläge | → Saison 2 (meist –) |
+| 🟠 | Slice RH Hinführung | Hoch-Niedrig-Schwung, einfache Verteidigung | F · G-8 | Grundschläge | → Saison 2 (meist –; Henry G) |
 | 🟢 | Spielsituation Grundlinie + Netz | neutral / offensiv / defensiv erkennen | F · GL-A | Topspin + Steuerung | läuft |
-| 🟢 | Taktische Spielmuster + Schlagsicherheit unter Druck | Punktaufbau planen; Wettkampf → Taktik | F/H · GL-A, DS | Spielelemente | offen |
-| 🟢 | Slice VH / Stoppball-Anbahnung | Einbinden in Spielwechsel; Situation erkennen | F · *F-06 (VH offen)*, GL-T06 | Slice-Grobform | offen |
+| 🟢 | Taktische Spielmuster + Schlagsicherheit unter Druck | Punktaufbau planen; Wettkampf → Taktik | F/H · GL-A, DS | Spielelemente | → Saison 2 |
+| 🟢 | Slice VH / Stoppball-Anbahnung | Einbinden in Spielwechsel; Situation erkennen | F · *F-06 (VH offen)*, GL-T06 | Slice-Grobform | → Saison 2 |
 | 🟢 | Match-Form Großfeld + Doppel (Platz 17-1/17-2) | Einzel/Doppel mit Zählen, Coaching | F · DP-G1/G2, GL-M | Spielelemente | läuft (Pflichtschluss, kombiniert) |
+
+## Prüfstufe Herbstblock — 🟢 Grün
+> Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Gruen.pdf`. Maximal **84 Punkte** · Bronze ab 21 · Silber ab 42 · Gold ab 63.
+
+**Platzaufbau:** Verlängerung der Mittellinie bis zur Grundlinie · **3-Meterlinie** · **Power-Linie auf Höhe der Grundlinie** (bis 3 m nach links und rechts verlängert) · Sprint-Hütchen 1, 2, 4, 5 auf den Eckpunkten von Grund- und Aufschlaglinie, Hütchen 3 auf dem T-Kreuz.
+
+**Besonderheit der Stufe:** Referenzlinie für die Länge ist die **T-Linie**. Beim Aufschlag zählt der zweite Aufsprung auf oder hinter der Power-Linie doppelt — dort liegt die halbe Punktzahl der Aufschlagübung.
+
+**Realistisches Ziel:** Silber als Ziel, Gold für die Stärksten. Ambitionierte Gruppe mit Topspin in Grobform bis Feinform — Längensteuerung über die T-Linie ist der Hebel.
 
 ## Korrekturgrundsatz Saison
 Beinarbeit/Recovery + frühe Schlagvorbereitung vor jedem Schlag · Ausschwung großzügiger auf Großfeld · funktionale Korrektur am Ziel · Schlagsicherheit vor Tempo
@@ -70,10 +80,12 @@ Beinarbeit/Recovery + frühe Schlagvorbereitung vor jedem Schlag · Ausschwung g
 - **Übergang Cluster F:** bei vielen Fehlern unter Druck → zurück auf Midcourt/Orangeball (Materialwechsel konditionell anspruchsvoll)
 
 ## Entwicklungslog (laufend) — Steuerinstrument
+> ❄️ Ab T9 steuert der Sportabzeichen-Fahrplan (`../index.md`), nicht mehr die Prio-Spalte der Themenliste.
 > Gemeinsames Log ab T8 (10.07.2026). Historie T1–T7 (getrennt nach Platz) in den archivierten Dateien `Saisonplan_17-1-O.md` und `Saisonplan_17-2-O.md`. Letzter Stand vor Zusammenlegung (T7, 03.07.): VH-Topspin-Herleitung, Griffstellung im Fokus; Konzept verstanden, Schlag muss noch reifen; Treffpunkt + Genauigkeit größtes Problem bei allen; Finn (17-1) unrunder Bewegungsablauf.
 
-- T8 10.07. – **Cross/Longline-Steuerung Großfeld, nur VH-Topspin** ([TE_F_T8](../7-10/TE_F_T8_Cross-Longline-VH-Topspin.md): GS-G27 → GS-G28 (adapt.) → GL-A04) · RH pausiert bewusst, damit VH-Topspin ungestört reift → Beobachtung nach der Einheit nachtragen
-- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+- T8 10.07. – **Cross/Longline-Steuerung Großfeld, nur VH-Topspin** ([TE_F_T8](../7-10/TE_F_T8_Cross-Longline-VH-Topspin.md): GS-G27 → GS-G28 (adapt.) → GL-A04) · RH pausiert bewusst, damit VH-Topspin ungestört reift → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
+- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Grün** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster F
 Slice vertiefen, Stoppball festigen, Aufschlag-Variationen, Return-Anwendung, Match-Formen Einzel und Doppel; verstärkter Matchmodus; Reife-Indikatoren Richtung Cluster H prüfen.

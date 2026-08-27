@@ -1,8 +1,8 @@
----
----
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟡 Gelb). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+
 # Saisonplan – 13-1-G (Samstag, 13:00 Uhr)
-**Cluster:** F – Grün | **Stufe:** 🟠→🟢–🟡 (Orange/Grün bis Gelb, heterogen)
-**Trainer:** Pascal / Charlize | **Gruppengröße:** 4 (Finn Bagdu, Finn Hanrieder, Louis Köneke, Viktor Franzen)
+**Cluster:** F – Grün | **Stufe:** 🟠→🟢–🟡 (Orange/Grün bis Gelb, heterogen) | **Prüfstufe:** 🟡 Gelb
+**Trainer:** Pascal / Charlize → **Pascal allein ab T9 (05.09.)** | **Gruppengröße:** 4 (Finn Bagdu, Finn Hanrieder, Louis Köneke, Viktor Franzen)
 **Saisonstart:** 16.05.2026 | **Termine:** ~15 | **Puffer:** Sa 10.10., 17.10., 24.10.
 
 ## Einordnung
@@ -38,6 +38,7 @@
 - **Taktische Spielmuster (Finishing/Turning) + Match** (Cluster F · G-7 🎯, GL-A, GL-M, DP-G1/G2) – nach Sommer Match-Fokus; stärkere Kinder Gelb-Drucksituationen (Cluster H · DS-B)
 
 ## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> ❄️ Eingefroren, Stand T8. Ab T9 gilt der Sportabzeichen-Fahrplan (`../index.md`). Offene Themen sind auf **→ Saison 2** gesetzt.
 > Themen fix, Termin-Zuordnung rollierend über den Entwicklungslog. Reihenfolge über Priorität + Voraussetzung, nicht über Datum. **Fallback (kein Log-Eintrag):** nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung.
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
@@ -45,14 +46,22 @@
 | 🔴 | Slice RH → VH + Stoppball aufbauen | Hoch-Niedrig „Messer durch Butter"; Topspin↔Slice situativ; Stoppball aus Slice | F · G-8, *F-06 (VH offen)*, GL-T06 | Grundschläge | läuft T1–T4 (Viktor/Finn B. neu) |
 | 🔴 | Topspin VH/RH Feinform + Schlagsicherheit | Höhensteuerung, Spin als Druckmittel, Treffgenauigkeit | F · G-1/G-2 (VH), G-4 (RH) | Topspin-Grobform | läuft (alle →F; Louis K. VH-Treffpunkt) |
 | 🔴 | Beinarbeit/Recovery → Schlagsicherheit | früh + ausbalanciert zum Ball, Recovery, Open Stance | F · G-3/G-5 (+ SN/AU) | — | läuft (Louis K./Finn B. Hauptbaustelle) |
-| 🟠 | Aufschlag Festigung + Platzierung | T / Body / Außen konstant treffen, Wurf konstant | F · AS-T / AS-A | Aufschlag-Grobform | offen (alle G) |
-| 🟠 | Return Technikerwerb | Treffpunkt + kurzes Ausholen erspüren | F · TR-T01/T02 | Grundschläge | offen |
-| 🟠 | 🎯 Return Anwendung – Trading/Building | Cross/Longline steuern, Raumgewinn erarbeiten | F · TR-A01/A02 | Return-Technik | offen (Taktikstunde) |
-| 🟢 | Chip and Charge + Netzübergang | Return direkt ans Netz + Volley-Abschluss | F · TR-A05, G-6/NP-T01/02→NP-A01 | Return + Volley | offen |
-| 🟢 | 🎯 Finishing + Turning (taktische Spielmuster) | Angriffsball/Stoppball/Passierschlag situativ entscheiden | F · G-7, GL-A | Steuerung + Spielelemente | offen (Taktikstunde) |
-| 🟢 | Doppel-Grundlagen (Theorie der Mitte, Aufrücken) | Positionen, einfache Absprachen | F · DP-G1/G2 | Aufschlag + Return | offen |
+| 🟠 | Aufschlag Festigung + Platzierung | T / Body / Außen konstant treffen, Wurf konstant | F · AS-T / AS-A | Aufschlag-Grobform | → Saison 2 (alle G) |
+| 🟠 | Return Technikerwerb | Treffpunkt + kurzes Ausholen erspüren | F · TR-T01/T02 | Grundschläge | → Saison 2 |
+| 🟠 | 🎯 Return Anwendung – Trading/Building | Cross/Longline steuern, Raumgewinn erarbeiten | F · TR-A01/A02 | Return-Technik | → Saison 2 (Taktikstunde) |
+| 🟢 | Chip and Charge + Netzübergang | Return direkt ans Netz + Volley-Abschluss | F · TR-A05, G-6/NP-T01/02→NP-A01 | Return + Volley | → Saison 2 |
+| 🟢 | 🎯 Finishing + Turning (taktische Spielmuster) | Angriffsball/Stoppball/Passierschlag situativ entscheiden | F · G-7, GL-A | Steuerung + Spielelemente | → Saison 2 (Taktikstunde) |
+| 🟢 | Doppel-Grundlagen (Theorie der Mitte, Aufrücken) | Positionen, einfache Absprachen | F · DP-G1/G2 | Aufschlag + Return | → Saison 2 |
 | 🟢 | Match-Formen Einzel/Doppel | AS-/Returnsätze, taktische Ansagen, Positionierung | F · GL-M, DP-G1/G2 | Spielmuster | läuft (Pflichtschluss, Saisonabschluss Turnierform) |
-| 🟢 | Gelb-Elemente (stärkere Kinder, dosiert) | Drucksituationen / AS-Variation für Gelb-Bereich anbahnen | H · DS-B, AS-Varianten | Grün-Feinform | offen (dosiert; v. a. Louis K./Finn H.) |
+| 🟢 | Gelb-Elemente (stärkere Kinder, dosiert) | Drucksituationen / AS-Variation für Gelb-Bereich anbahnen | H · DS-B, AS-Varianten | Grün-Feinform | → Saison 2 (dosiert; v. a. Louis K./Finn H.) |
+## Prüfstufe Herbstblock — 🟡 Gelb
+> Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Gelb.pdf`. Maximal **108 Punkte** · Bronze ab 27 · Silber ab 54 · Gold ab 81.
+
+**Platzaufbau:** **Power-Linie 3 m hinter der Grundlinie** (bis 3 m nach links und rechts verlängert) · Verlängerung der Mittellinie bis zur Grundlinie · **3-Meterlinie** · beide **Aufschlagfelder halbiert** · Sprint-Hütchen wie Grün.
+
+**Besonderheit der Stufe:** Bis zu **3 Punkte pro Ball** (richtige Feldhälfte + Länge über die T-Linie + zweiter Aufsprung hinter der Power-Linie). Aufschlag 4 × 3 in die halbierten Aufschlagfelder.
+
+**Realistisches Ziel:** **Keine eigenen Prüflinge** — alle fünf Kinder werden freitags abgenommen (Viktor Franzen, Louis Köneke, Finn Hanrieder auf Gelb aus 16-1-G; Finn Bagdu auf Grün aus 17-1-O). Die Gruppe trainiert auf Gelb-Zielzonen und wiederholt samstags das Freitagsthema.
 
 ## Korrekturgrundsatz Saison
 Schwungweg situativ (Topspin lang, Slice kurz) · Vorbereitung früh · Treffpunkt vor dem Körper · Schlagsicherheit über Beinarbeit/Recovery · funktionale Korrektur am Ziel + Selbstkorrektur
@@ -66,6 +75,7 @@ Schwungweg situativ (Topspin lang, Slice kurz) · Vorbereitung früh · Treffpun
 - Mental: ≥1 Element/Einheit (Punktritual, Konzentration zwischen den Punkten) – wie in 16-1-G
 
 ## Entwicklungslog (laufend) — Steuerinstrument
+> ❄️ Ab T9 steuert der Sportabzeichen-Fahrplan (`../index.md`), nicht mehr die Prio-Spalte der Themenliste.
 > Standortbestimmung erhoben T1 (16.05.). T1–T4 gelaufen (aus alter Themenfolge nachgetragen); Detailbeobachtungen je Termin nachzutragen. Fehlt ein Eintrag → Fallback: nächstes offenes Thema höchster Prio mit erfüllter Voraussetzung.
 
 - T1 16.05. – Slice Rückhand (Hoch-Niedrig, „Messer durch Butter", Rückwärtsdrall)
@@ -74,8 +84,9 @@ Schwungweg situativ (Topspin lang, Slice kurz) · Vorbereitung früh · Treffpun
 - T4 06.06. – Stoppball (Slice-Bewegung + Situation erkennen)
 - T5 13.06. – Topspin VH/RH Feinform + Schlagsicherheit (geplant; VH-Auffrischung Bauband, RH-Zielfelder, VH/RH-Schlagsicherheits-Spielform; Slice-Block T1–T4 abgeschlossen) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Aufschlag-Platzierung / Return aktiv
 - T6 04.07. – **Topspin Feinform + Schlagsicherheit (2. Sitzung)** (TE_13-1-G_T6_Topspin-Feinform-Schlagsicherheit-II.md) · *Thema-Herleitung: 2. Sitzung statt Aufschlag-Platzierung (T5 war erst Einstieg)* → **Feedback steht noch aus**
-- T7 11.07. – **Beinarbeit/Recovery → Schlagsicherheit** ([TE_13-1-G_T7](../7-11/TE_13-1-G_T7_Beinarbeit-Schlagsicherheit.md): GL-K01 → GL-K04 → GL-A01) · *Thema-Herleitung: einziges 🔴-Dauerthema ohne eigene Sitzung bisher (Slice T1–T4, Topspin T5–T6)* · **Pascal heute allein** (Charlize verhindert) · Elisa Manfredini (19-2-Gr) einmalig zu Gast → Beobachtung nach der Einheit nachtragen
-- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+- T7 11.07. – **Beinarbeit/Recovery → Schlagsicherheit** ([TE_13-1-G_T7](../7-11/TE_13-1-G_T7_Beinarbeit-Schlagsicherheit.md): GL-K01 → GL-K04 → GL-A01) · *Thema-Herleitung: einziges 🔴-Dauerthema ohne eigene Sitzung bisher (Slice T1–T4, Topspin T5–T6)* · **Pascal heute allein** (Charlize verhindert) · Elisa Manfredini (19-2-Gr) einmalig zu Gast → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
+- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Gelb** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster H
 Wenn Feinform-Grundlagen tragen und Slice/Aufschlag-Platzierung stabil: Return-Anwendung vertiefen, taktische Spielmuster (Angriffsball/Netzübergang/Konterspiel), Aufschlag-Variationen Slice/Kick, Match-/Tiebreak-Formen mit dosiertem Wettkampfdruck, Doppel; Reife-Indikatoren Richtung Cluster H prüfen.

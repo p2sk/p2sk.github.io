@@ -1,8 +1,8 @@
----
----
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+
 # Saisonplan – 10-2-O (Samstag, 10:00 Uhr)
-**Cluster:** D – Orange (Einstieg aus Rot) | **Stufe:** 🔴→🟠 (Reifegrad noch klar Rot)
-**Trainer:** Charlize → Ben | **Gruppengröße:** 4
+**Cluster:** D – Orange (Einstieg aus Rot) | **Stufe:** 🔴→🟠 (Reifegrad noch klar Rot) | **Prüfstufe:** 🟠 Orange
+**Trainer:** Charlize → **Pascal ab T9 (05.09.)**, gemeinsam mit 10-3-O auf zwei Plätzen | **Gruppengröße:** 4
 **Saisonstart:** 16.05.2026 | **Termine:** ~15 | **Puffer:** Sa 10.10., 17.10., 24.10.
 
 ## Einordnung
@@ -37,6 +37,7 @@
 - **Gemeinsames Midcourt-Spiel / Mini-Match** (Rotation mit 10-3-O)
 
 ## Themenliste (Pool, ~15 Termine — rollierend zugeordnet)
+> ❄️ Eingefroren, Stand T8. Ab T9 gilt der Sportabzeichen-Fahrplan (`../index.md`). Offene Themen sind auf **→ Saison 2** gesetzt.
 > Themen fix, Termin-Zuordnung rollierend über den Entwicklungslog. Schwerpunkt **Konsolidierung + sichere Ballwechsel** (noch Rot) – Orange-Neu erst, wenn Grundschläge tragen.
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
@@ -44,12 +45,20 @@
 | 🔴 | Grundschläge Midcourt festigen + Balleinschätzung | Grobform sichern, früh zum Ball, Treffpunkt vorn | B konsolidieren / GS-Grobform | — | läuft (Dauerthema) |
 | 🔴 | Cooperation-Rallye Trainer → Partner | Ballwechsel halten, Richtung Partner-Rallye | B · KT-R13 / KT-R18 (Midcourt) | Grundschläge Midcourt | läuft (Trainer ok, Partner Ziel) |
 | 🟠 | Volley / Netzposition festigen | GL → Netz; vorhandene Stärke (G) nutzen | D · O-5 | Grundschläge | läuft (T4 06.06.) |
-| 🟠 | Treffpunkthöhe Knie/Hüfthöhe | Orangeball höher treffen | D · O-2 | Grundschläge Midcourt tragfähig | offen |
-| 🟠 | Splitstep / Beinarbeit erster Einsatz | „Kleiner Hopser", Wege Midcourt | D · O-2/O-4 | Grundschläge Midcourt | offen |
-| 🟢 | Cross/Longline grob steuern | einfache Zielzonen Midcourt | D · O-3 | VH/RH-Grobform tragfähig | offen |
-| 🟢 | VH-Topspin Hinführung (spät) | Niedrig-Hoch, „Bürste über den Ball" | D · O-1 (GS-O01/02/03) | VH-Grobform tragfähig | offen |
-| 🟢 | Aufschlag von oben + Return-Anbahnung | AS-Muster einführen; Return-Treffpunkt erspüren | D · AS-Grobform, TR-T01 | Angabe v. unten | offen |
-| 🟢 | Gemeinsames Midcourt-Spiel / Mini-Match | selbstständig spielen + zählen (Rotation 10-2/10-3) | Spielformen / DP-O1 | Ballwechsel mit Partner | offen (volles Match erst Saisonende) |
+| 🟠 | Treffpunkthöhe Knie/Hüfthöhe | Orangeball höher treffen | D · O-2 | Grundschläge Midcourt tragfähig | → Saison 2 |
+| 🟠 | Splitstep / Beinarbeit erster Einsatz | „Kleiner Hopser", Wege Midcourt | D · O-2/O-4 | Grundschläge Midcourt | → Saison 2 |
+| 🟢 | Cross/Longline grob steuern | einfache Zielzonen Midcourt | D · O-3 | VH/RH-Grobform tragfähig | → Saison 2 |
+| 🟢 | VH-Topspin Hinführung (spät) | Niedrig-Hoch, „Bürste über den Ball" | D · O-1 (GS-O01/02/03) | VH-Grobform tragfähig | → Saison 2 |
+| 🟢 | Aufschlag von oben + Return-Anbahnung | AS-Muster einführen; Return-Treffpunkt erspüren | D · AS-Grobform, TR-T01 | Angabe v. unten | → Saison 2 |
+| 🟢 | Gemeinsames Midcourt-Spiel / Mini-Match | selbstständig spielen + zählen (Rotation 10-2/10-3) | Spielformen / DP-O1 | Ballwechsel mit Partner | → Saison 2 (volles Match erst Saisonende) |
+## Prüfstufe Herbstblock — 🟠 Orange
+> Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Orange.pdf`. Maximal **72 Punkte** · Bronze ab 18 · Silber ab 36 · Gold ab 54.
+
+**Platzaufbau:** **4,5-Meterlinie** (halbe Seitenlänge) · **3-Meterlinie** · Verlängerung der Mittellinie bis zur Grundlinie · Sprint-Hütchen 1–5 im Abstand von je **3,2 m** auf der Mitte der Grundlinie.
+
+**Besonderheit der Stufe:** Neu gegenüber Rot ist die **Längensteuerung**: Treffer über die 4,5-m-Linie zählen doppelt. Aufschlag von oben, 2 × 6 Bälle.
+
+**Realistisches Ziel:** Zielkategorie nach dem Baseline-Durchlauf am 05.09. festlegen.
 
 ## Korrekturgrundsatz Saison
 Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · Splitstep anbahnen
@@ -61,6 +70,7 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrek
 - **Rotation mit 10-3-O** nach Anwesenheit (passende Zuspielpartner-Niveaus)
 
 ## Entwicklungslog (laufend) — Steuerinstrument
+> ❄️ Ab T9 steuert der Sportabzeichen-Fahrplan (`../index.md`), nicht mehr die Prio-Spalte der Themenliste.
 > Standortbestimmung erhoben T1 (16.05.) – Gruppe noch Rot-Niveau. T1–T4 nachgetragen; Detailbeobachtungen je Termin nachzutragen.
 
 - T1 16.05. – Einstieg Midcourt / Materialwechsel (Orangeball, Feld kalibrieren)
@@ -71,7 +81,9 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrek
 	- Beobachtung: die Gruppe ist eher 🔴 statt 🟠. Beinarbeit ist noch zu schwierig. Die Kinder befinden sich alle in der Grobform
 	- nächste Stunde: Fokus auf Technikerwerb und Koordinationsübungen z. B. Treffpunkthöhe (O-2) oder Fokus auf Schlagbewegung (Hauptaktion)
 - T6 04.07. – **Grundschläge/Schlagbewegung festigen** (gemeinsame TE mit 10-3-O, TE_D_T6_Grundschlaege-Schlagbewegung-festigen.md) · *Thema-Herleitung: Schlagbewegung statt Treffpunkthöhe, Log-Beobachtung 13.06. „eher 🔴 als 🟠"* → Beobachtung: Mädchen befinden sich weiterhin eher auf Rot-Niveau (Ausnahme Ava, weiter) → Konsequenz T7: Grundschläge/Grobform weiter konsolidieren, Ava einzeln fordern
-- T<n> <Datum> – <was lief / Beobachtung> → <Konsequenz: nächstes Thema / wiederholen / einschieben>
+- T7 11.07. – **Grundschläge festigen** (differenzierte TE mit 10-3-O, [TE_D_T7](../7-11/TE_D_T7_Grundschlaege-Richtung-Differenziert.md): KT-R12 → KT-R30 vereinfacht) · **Ben heute statt Charlize** (verhindert) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
+- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster D
 Topspin (VH/RH) + Aufschlag von oben als Hauptthemen (diese Saison nur angebahnt), Treffpunkthöhe/Splitstep festigen, Spielmuster + Doppel.
