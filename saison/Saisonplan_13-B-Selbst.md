@@ -1,4 +1,6 @@
-> ⏹️ **Beendet mit dem Sommerblock (letzter Termin 17.07. bzw. 11.07.2026).** Die Ballschule **entfällt ab dem Herbstblock voraussichtlich**. Stufe Blau wird beim Sportabzeichen ohnehin nicht abgenommen. Datei bleibt als Historie erhalten.
+---
+---
+> ⏹️ **Beendet mit dem Sommerblock (letzter Termin 17.07. bzw. 11.07.2026).** Die Ballschule **entfällt ab dem Herbstblock** (Stand 27.08. definitiv). Stufe Blau wird beim Sportabzeichen ohnehin nicht abgenommen. Datei bleibt als Historie erhalten.
 
 # Saisonplan – 13-B-Selbst (Samstag, 13:00 Uhr)
 **Cluster:** A – Blau (Ballschule-Schwerpunkt) | **Stufe:** 🔵 Blau/Blau-Rot

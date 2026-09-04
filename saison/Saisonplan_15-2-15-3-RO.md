@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 15-2-RO + 15-3-RO (Freitag, 15:00 Uhr)
@@ -72,6 +74,8 @@
 
 **Realistisches Ziel:** Bronze für alle. Der Ballwechsel von der Grundlinie trug zuletzt bei keinem — Übung 1 und 2 brauchen deshalb kurze Wege und viel Trainer-Handfeed. Anna, Mona und Louis sind die Silber-Kandidaten.
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
 ## Korrekturgrundsatz Saison
 Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · Splitstep anbahnen · **nach jedem Schlag zurück in Bereitschaft laufen** (ab T8 explizit)
 
@@ -91,7 +95,7 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrek
 > Gemeinsames Log ab T8 (10.07.2026). Historie T1–T7 (getrennt nach Platz) in den archivierten Dateien `Saisonplan_15-2-RO.md` und `Saisonplan_15-3-RO.md`. Letzter Stand vor Zusammenlegung (T7, 03.07.): Ballwechsel von der Grundlinie auch bei den Besseren nicht tragfähig, aus kurzer Distanz ok; Marlene/Sophie Balleinschätzung/Koordination schwierig; Laufbereitschaft fehlt bei allen.
 
 - T8 10.07. – **Grundschläge Midcourt + Ballwechsel + Laufarbeit** (Wiederholung T7, [TE_D_T8](../7-10/TE_D_T8_Grundschlaege-Ballwechsel-Laufarbeit.md): KT-R12 Handfeed VH → KT-R17 4 Richtungen → KT-R13 Ziehharmonika, verlängert + Laufarbeit-Akzent) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
-- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 04.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster D

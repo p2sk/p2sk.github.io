@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining bis zum 16.10. folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 18-2-O + 18-3-O (Freitag, 18:00 Uhr)
@@ -65,6 +67,8 @@
 
 **Realistisches Ziel:** Bronze für alle, Silber für Anouk, Anna und Marie. Cross/Longline (Übung 1 + 2) ist über T8 bereits angebahnt; die Längensteuerung über die 4,5-m-Linie ist neu. Leila braucht bei allen Übungen den sicheren Treffer vor der Länge.
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
 ## Korrekturgrundsatz Saison
 Treffpunkt **nach vorn-oben** · Splitstep vor jedem Ball · Ausschwung über die Schulter · funktionale Korrektur am Ziel (Schlagsicherheit vor Tempo)
 
@@ -83,7 +87,7 @@ Treffpunkt **nach vorn-oben** · Splitstep vor jedem Ball · Ausschwung über di
 
 **Stand vor der Zusammenlegung (T8, 10.07.):** Cross/Longline grob gesteuert (GS-O01 kurz → GS-O07 → GS-O08); Beobachtung nicht dokumentiert. VH-Topspin aus T7 sollte reifen, Ball kann mit Drall gespielt werden, Ballwechsel kooperativ und kompetitiv tragfähig. Leila weiter Sicherheit/Grundschläge als Hauptfokus.
 
-- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung, Punktekarten anlegen, Platzmarkierungen setzen) → Beobachtung + Punktestände nach der Einheit nachtragen
+- T9 04.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <was lief / Punktestand> → <Konsequenz: welche Übung als Nächstes / wiederholen>
 
 ## Ausblick Saison 2 / Cluster D

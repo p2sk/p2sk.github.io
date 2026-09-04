@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟢 Grün). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 12-2-G (Samstag, 12:00 Uhr)
@@ -64,6 +66,10 @@
 
 **Realistisches Ziel:** Vier von fünf Kindern werden freitags geprüft (Greta Philipps, Lina Hochmuth, Lou Spindler auf Grün; Milla Weber je nach Stufenwahl von 19-2-Gr). Die Stunde am 10.10. ist überwiegend Vorbereitung.
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
+**Samstags-Spur B — diese Gruppe wertet nicht.** Alle Kinder trainieren freitags und werden dort abgenommen. Der Samstag liegt nach dem Freitagstermin; eine Wiederholung käme zu spät. Die Gruppe bahnt deshalb jeweils die Aufgabe an, die am **folgenden** Freitag gewertet wird — 05.09. Vorhand · 12.09. Rückhand · 19.09. Vorhand-Volleys · 26.09. Rückhand-Volleys · 10.10. gezielte Arbeit an den schwächsten Aufgaben für die Nachholversuche am 16.10., sonst freies Spiel.
+
 ## Korrekturgrundsatz Saison
 Beinarbeit/Recovery vor jedem Schlag (längere Wege Großfeld) · Ausschwung großzügiger · Aufschlag-Wurf konstant halten · Topspin: Schlägerkopf unter dem Ball / Treffhöhe als Druckmittel · funktionale Korrektur am Ziel in Anwendung/Taktik
 
@@ -85,7 +91,7 @@ Beinarbeit/Recovery vor jedem Schlag (längere Wege Großfeld) · Ausschwung gro
 - T5 13.06. – Großfeld-Beinarbeit/Recovery + Open Stance (geplant; Recovery-Sprints, Sidestep+Laufweg, Rally-Prep zur Mitte, Ecken-Spiegel-Spielform) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Cross/Longline-Steuerung bzw. Return einführen
 - T6 04.07. – **Topspin RH Großfeld festigen** (TE_12-2-G_T6_Topspin-RH-Grossfeld.md) · *Thema-Herleitung: Topspin RH Großfeld statt Cross/Longline/Return (Greta/Lou noch Anbahnung)* → **Feedback steht noch aus**
 - T7 11.07. – **Cross/Longline VH+RH steuern** ([TE_12-2-G_T7](../7-11/TE_12-2-G_T7_Cross-Longline-Steuerung.md): GS-G26 → GS-G27 → Vorgabe-Punkt adapt. n. GS-O08) · **Pascal heute statt Charlize** (verhindert) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
-- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Grün** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 05.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster H

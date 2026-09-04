@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 11-2-O (Samstag, 11:00 Uhr)
@@ -61,7 +63,9 @@
 
 **Besonderheit der Stufe:** Neu gegenüber Rot ist die **Längensteuerung**: Treffer über die 4,5-m-Linie zählen doppelt. Aufschlag von oben, 2 × 6 Bälle.
 
-**Realistisches Ziel:** Zielkategorie nach dem Baseline-Durchlauf am 05.09. festlegen. Anna De Silva und Mona Hochmuth werden freitags in 15-2/15-3-RO geprüft — ebenfalls auf Orange, also kein Stufenkonflikt.
+**Realistisches Ziel:** Zielkategorie nach den ersten beiden Wertungsterminen (12.09. / 19.09.) abschätzen. Anna De Silva und Mona Hochmuth werden freitags in 15-2/15-3-RO geprüft — ebenfalls auf Orange, also kein Stufenkonflikt.
+
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
 
 ## Korrekturgrundsatz Saison
 Früh zum Ball (Balleinschätzung) · Treffpunkt **nach vorn-oben** · Splitstep vor jedem Ball · Ausschwung über die Schulter · zuerst Selbstkorrektur (Zeit lassen) · funktionale Korrektur am Ziel in Anwendung
@@ -84,7 +88,7 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **nach vorn-oben** · Splitstep
 - T5 13.06. – Spielregeln Einzel & Anspiel (geplant; Angabe von unten in Reifen, kooperativer Ballwechsel, Mini-Match bis 9 mit eigener Zählung) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Treffpunkthöhe / Splitstep
 - T6 04.07. – Treffpunkthöhe + Splitstep (TE_11-2-O_T6_Treffpunkthoehe-Splitstep.md) → **Feedback steht noch aus**
 - T7 11.07. – **VH-Topspin Hinführung (Anna/Paula/Smilla) + Grundschläge ohne Topspin-Druck (Melija/Mona)** ([TE_D_T7](../7-11/TE_D_T7_VH-Topspin-Hinfuehrung-Differenziert.md): GS-O01 vs. KT-R12, differenzierte Ziehharmonika) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
-- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 05.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster D

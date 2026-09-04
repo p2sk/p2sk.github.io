@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟢 Grün). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 16-3-Gr (Freitag, 16:00 Uhr)
@@ -63,6 +65,8 @@
 
 **Realistisches Ziel:** Bronze für alle. Die Gruppe spielt bereits auf Großfeld mit grünen Bällen, die Technik liegt aber auf Orange-Niveau — Marie und Julia sammeln Punkte über den Treffer ins richtige Feld, nicht über die T-Linie. Lina, Greta und Lou sind die Silber-Kandidatinnen.
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
 ## Korrekturgrundsatz Saison
 Funktionale Korrektur am Spielziel (Zone/Aufgabe) + Selbstkorrektur · nur im Technik-Häppchen: Schlägerkopf unter dem Ball (Topspin), Treffpunkt vor dem Körper · immer **positiv**, nur **ein** Fehler
 
@@ -89,7 +93,7 @@ Funktionale Korrektur am Spielziel (Zone/Aufgabe) + Selbstkorrektur · nur im Te
 **Übergabe Charlize (Fremdbeobachtung Saisonende, nicht gemessen):** Lou Spindler herausnehmen — „sie möchte wirklich Tennis spielen und arbeitet motiviert mit", lernt schnell. Die anderen vier verstehen sich gut, reden viel und möchten eher spielerisch Tennis spielen als Drills machen. **Julia ist dabei der Störfaktor, Marie zieht als Zwillingsschwester mit.** Vorgeschlagene Wege: Lou in die 19-Uhr-Gruppe, oder eine Spielerin aus 19-2-Gr herausnehmen und Lou zu zweit trainieren. *Erste Hand: alle fünf Kinder.*
 → **Entscheidung: kein Gruppenwechsel in der Sommersaison.** Neu sortiert wird im Winterblock (siehe Ausblick). Für den Herbstblock spricht zusätzlich, dass das Sportabzeichen ohnehin strukturierte Arbeit mit Messlatte bringt — genau das, was Lou fehlt, und ein Format, das auch drill-averse Kinder über den Punktestand mitnimmt.
 
-- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Grün** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 04.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Hinweis Übergang Cluster F

@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟢 Grün). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 17-1-O + 17-2-O (Freitag, 17:00 Uhr)
@@ -66,6 +68,8 @@
 
 **Realistisches Ziel:** Silber als Ziel, Gold für die Stärksten. Ambitionierte Gruppe mit Topspin in Grobform bis Feinform — Längensteuerung über die T-Linie ist der Hebel.
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
 ## Korrekturgrundsatz Saison
 Beinarbeit/Recovery + frühe Schlagvorbereitung vor jedem Schlag · Ausschwung großzügiger auf Großfeld · funktionale Korrektur am Ziel · Schlagsicherheit vor Tempo
 **Elias VH:** Schlägerkopf unter dem Ball (Niedrig-Hoch) statt von oben nach unten
@@ -84,7 +88,7 @@ Beinarbeit/Recovery + frühe Schlagvorbereitung vor jedem Schlag · Ausschwung g
 > Gemeinsames Log ab T8 (10.07.2026). Historie T1–T7 (getrennt nach Platz) in den archivierten Dateien `Saisonplan_17-1-O.md` und `Saisonplan_17-2-O.md`. Letzter Stand vor Zusammenlegung (T7, 03.07.): VH-Topspin-Herleitung, Griffstellung im Fokus; Konzept verstanden, Schlag muss noch reifen; Treffpunkt + Genauigkeit größtes Problem bei allen; Finn (17-1) unrunder Bewegungsablauf.
 
 - T8 10.07. – **Cross/Longline-Steuerung Großfeld, nur VH-Topspin** ([TE_F_T8](../7-10/TE_F_T8_Cross-Longline-VH-Topspin.md): GS-G27 → GS-G28 (adapt.) → GL-A04) · RH pausiert bewusst, damit VH-Topspin ungestört reift → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
-- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Grün** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 04.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster F

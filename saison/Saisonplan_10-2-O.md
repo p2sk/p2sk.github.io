@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 10-2-O (Samstag, 10:00 Uhr)
@@ -58,7 +60,9 @@
 
 **Besonderheit der Stufe:** Neu gegenüber Rot ist die **Längensteuerung**: Treffer über die 4,5-m-Linie zählen doppelt. Aufschlag von oben, 2 × 6 Bälle.
 
-**Realistisches Ziel:** Zielkategorie nach dem Baseline-Durchlauf am 05.09. festlegen.
+**Realistisches Ziel:** Zielkategorie nach den ersten beiden Wertungsterminen (12.09. / 19.09.) abschätzen.
+
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
 
 ## Korrekturgrundsatz Saison
 Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · Splitstep anbahnen
@@ -82,7 +86,7 @@ Früh zum Ball (Balleinschätzung) · Treffpunkt **vorn** · zuerst Selbstkorrek
 	- nächste Stunde: Fokus auf Technikerwerb und Koordinationsübungen z. B. Treffpunkthöhe (O-2) oder Fokus auf Schlagbewegung (Hauptaktion)
 - T6 04.07. – **Grundschläge/Schlagbewegung festigen** (gemeinsame TE mit 10-3-O, TE_D_T6_Grundschlaege-Schlagbewegung-festigen.md) · *Thema-Herleitung: Schlagbewegung statt Treffpunkthöhe, Log-Beobachtung 13.06. „eher 🔴 als 🟠"* → Beobachtung: Mädchen befinden sich weiterhin eher auf Rot-Niveau (Ausnahme Ava, weiter) → Konsequenz T7: Grundschläge/Grobform weiter konsolidieren, Ava einzeln fordern
 - T7 11.07. – **Grundschläge festigen** (differenzierte TE mit 10-3-O, [TE_D_T7](../7-11/TE_D_T7_Grundschlaege-Richtung-Differenziert.md): KT-R12 → KT-R30 vereinfacht) · **Ben heute statt Charlize** (verhindert) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
-- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 05.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster D

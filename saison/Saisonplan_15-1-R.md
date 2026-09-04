@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🔴 Rot). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 15-1-R (Freitag, 15:00 Uhr)
@@ -64,6 +66,10 @@
 
 **Realistisches Ziel:** Bronze für alle ist das Ziel. Die Gruppe hat bisher überwiegend mit Fangen und Kontrollball gearbeitet — das Prüfungsformat mit Trainer-Anspiel und Bewegung zum Ball ist für sie neu. Die Blau/Rot-Kinder laufen auf Rot mit (Blau wird nicht abgenommen).
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
+**🔴 Rot hat einen eigenen Terminrhythmus.** Rot kennt nur *ein* Volley-Item (8 Bälle, erst 4 cross, dann 4 longline) statt zweier. Freitag: 11.09. Vorhand · 18.09. Rückhand · 25.09. Volleys komplett · **02.10. Aufschlag** · **09.10. nur Fächerlauf**.
+
 ## Korrekturgrundsatz Saison
 Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung · zuerst Selbstkorrektur (Zeit lassen)
 
@@ -84,9 +90,9 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 - T5 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **VH/RH-Grundschläge + Richtung festigen** (Reihe C, [TE_B_T5](../7-3/TE_B_T5_Grundschlaege-Richtung.md): TS-04 Ballgefühl/Griff-Check → KT-R16 Prellen → KT-R17 Handfeed 4 Richtungen → KT-R18 Stop&Go/Minicup) · Schwerpunkt **RH-Festigung** (T4 = RH-Einführung); hitzeangepasst (kurzes AW, Trinkpausen, 2× Wasserschlauch) → Rückmeldung nur pauschal (keine Detail-Beobachtung von Charlize): Kinder machen gut mit, Entwicklung positiv → Konsequenz T6: Fallback Cluster-B-Reihenfolge (Volley/Anspiel), keine gezielte Wiederholung ableitbar
 - T6 10.07. – **Volley-Einführung** ([TE_B_T6](../7-10/TE_B_T6_Volley-Einfuehrung.md): KT-R22 → KT-R23 → KT-R24, neues Thema) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*; geplant T7 (letzte vor Sommerferien): Anspiel von unten mit Regeln/Zählen + Miniturnier
 **Übergabe Charlize (Fremdbeobachtung Saisonende, nicht gemessen):** „Gruppe so lassen. Sehr spielorientiert, alle ungefähr auf einem Level. Schwerpunkt bisher vor allem Ballgefühl; Vorhand klappt schon, aber noch keine Technik. Viel mit Fangen und Kontrollball gearbeitet." *Erste Hand: alle sechs Kinder.*
-→ **Konsequenz für T9:** Das Prüfungsformat (Trainer-Anspiel von der Mittelposition, Bewegung zum Ball und zurück) ist der Gruppe neu — Baseline mit reichlich Erklärzeit ansetzen und Bronze als Ziel kommunizieren, auch gegenüber den Eltern.
+→ **Konsequenz für T9:** Das Prüfungsformat (Trainer-Anspiel von der Mittelposition, Bewegung zum Ball und zurück) ist der Gruppe neu — am Kickoff (T9) reichlich Erklär- und Demonstrationszeit einplanen — unter der Ein-Versuch-Regel kostet ein missverstandener Ablauf echte Punkte. Bronze als Ziel kommunizieren, auch gegenüber den Eltern.
 
-- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Rot** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 04.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)

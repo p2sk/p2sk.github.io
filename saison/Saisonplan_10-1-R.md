@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🔴 Rot). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 10-1-R (Samstag, 10:00 Uhr)
@@ -61,7 +63,11 @@
 
 **Besonderheit der Stufe:** Aufschlag **von oben oder von unten** zulässig (Übung 4) — das nimmt den Druck aus der schwierigsten Übung.
 
-**Realistisches Ziel:** Zielkategorie nach dem Baseline-Durchlauf am 05.09. festlegen. Charlotte und Lily Ava werden freitags in 15-1-R geprüft.
+**Realistisches Ziel:** Zielkategorie nach den ersten beiden Wertungsterminen (12.09. / 19.09.) abschätzen. Charlotte und Lily Ava werden freitags in 15-1-R geprüft.
+
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
+**🔴 Rot hat einen eigenen Terminrhythmus.** Rot kennt nur *ein* Volley-Item (8 Bälle, erst 4 cross, dann 4 longline) statt zweier. Samstag: 12.09. Vorhand · 19.09. Rückhand · 26.09. Volleys komplett · 10.10. Aufschlag + Fächerlauf.
 
 ## Korrekturgrundsatz Saison
 Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung bis zum Treffpunkt · zuerst Selbstkorrektur (Zeit lassen); viel Bildsprache
@@ -82,7 +88,7 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 - T4 13.06. – VH/RH-Wechsel + Richtung (geplant; Seite erkennen → Griff → grob steuern; Ballschule-Anteil Jessalyn) → Beobachtung nachzutragen
 - T5 04.07. – VH/RH-Grundschläge + Richtung (2. Durchgang) (TE_B_T6_Grundschlaege-Richtung-Festigung.md) → **Feedback steht noch aus**
 - T6 11.07. – **Volley-Einführung** (Ballschule-angepasst, [TE_B_T6](../7-11/TE_B_T6_Volley-Einfuehrung-Ballschule.md): KT-R22 → KT-R23 → KT-R24) · Jessalyn heute allein (Ben bei 10-2-O) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*; geplant T7 (letzte vor Sommerferien): Anspiel von unten mit Miniturnier
-- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Rot** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 05.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)

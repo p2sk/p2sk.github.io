@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟡 Gelb). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 13-1-G (Samstag, 13:00 Uhr)
@@ -63,6 +65,10 @@
 
 **Realistisches Ziel:** **Keine eigenen Prüflinge** — alle fünf Kinder werden freitags abgenommen (Viktor Franzen, Louis Köneke, Finn Hanrieder auf Gelb aus 16-1-G; Finn Bagdu auf Grün aus 17-1-O). Die Gruppe trainiert auf Gelb-Zielzonen und wiederholt samstags das Freitagsthema.
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
+**Samstags-Spur B — diese Gruppe wertet nicht.** Alle Kinder trainieren freitags und werden dort abgenommen. Der Samstag liegt nach dem Freitagstermin; eine Wiederholung käme zu spät. Die Gruppe bahnt deshalb jeweils die Aufgabe an, die am **folgenden** Freitag gewertet wird — 05.09. Vorhand · 12.09. Rückhand · 19.09. Vorhand-Volleys · 26.09. Rückhand-Volleys · 10.10. gezielte Arbeit an den schwächsten Aufgaben für die Nachholversuche am 16.10., sonst freies Spiel.
+
 ## Korrekturgrundsatz Saison
 Schwungweg situativ (Topspin lang, Slice kurz) · Vorbereitung früh · Treffpunkt vor dem Körper · Schlagsicherheit über Beinarbeit/Recovery · funktionale Korrektur am Ziel + Selbstkorrektur
 
@@ -85,7 +91,7 @@ Schwungweg situativ (Topspin lang, Slice kurz) · Vorbereitung früh · Treffpun
 - T5 13.06. – Topspin VH/RH Feinform + Schlagsicherheit (geplant; VH-Auffrischung Bauband, RH-Zielfelder, VH/RH-Schlagsicherheits-Spielform; Slice-Block T1–T4 abgeschlossen) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Aufschlag-Platzierung / Return aktiv
 - T6 04.07. – **Topspin Feinform + Schlagsicherheit (2. Sitzung)** (TE_13-1-G_T6_Topspin-Feinform-Schlagsicherheit-II.md) · *Thema-Herleitung: 2. Sitzung statt Aufschlag-Platzierung (T5 war erst Einstieg)* → **Feedback steht noch aus**
 - T7 11.07. – **Beinarbeit/Recovery → Schlagsicherheit** ([TE_13-1-G_T7](../7-11/TE_13-1-G_T7_Beinarbeit-Schlagsicherheit.md): GL-K01 → GL-K04 → GL-A01) · *Thema-Herleitung: einziges 🔴-Dauerthema ohne eigene Sitzung bisher (Slice T1–T4, Topspin T5–T6)* · **Pascal heute allein** (Charlize verhindert) · Elisa Manfredini (19-2-Gr) einmalig zu Gast → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
-- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Gelb** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 05.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster H

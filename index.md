@@ -1,3 +1,5 @@
+---
+---
 # Saisonpläne Sommer 2026
 
 **Saisonstart:** 08./16./22./23.05.2026 · **Letzter Trainingstag:** Fr 16.10. / Sa 10.10.2026

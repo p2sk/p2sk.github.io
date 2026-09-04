@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟡 Gelb). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 16-1-G (Freitag, 16:00 Uhr)
@@ -71,6 +73,8 @@
 
 **Realistisches Ziel:** Bronze sicher, Silber realistisch. Die Gruppe spielt auf Gelb-Material, die Technik liegt teils bei Orange/Grün — Punkte kommen eher über die richtige Feldhälfte als über Länge und zweiten Aufsprung.
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
 ## Korrekturgrundsatz Saison
 Schlagsicherheit über **Beinarbeit/Recovery** (früh + ausbalanciert zum Ball) · Treffpunkt **vor dem Körper** · funktionale Korrektur am Ziel + Selbstkorrektur · Routine zwischen den Punkten
 
@@ -93,7 +97,7 @@ Schlagsicherheit über **Beinarbeit/Recovery** (früh + ausbalanciert zum Ball) 
 - T6 12.06. – Grundschläge Feinform: **VH-Schlagsicherheit** (Reihe G-2: SN-S03 → GS-G04 Bauband → GS-G05 Richtungsvarianz → GS-G06 VH-Belohnungs-Spielform) · Hinweis: Louis K. Linkshänder (Zielfelder/VH-Seite spiegeln) → *nicht nachgetragen (Trainerwechsel), ursprüngliche Leitfrage:* Treffsicherheit VH unter Richtung? Konsequenz T7 (VH ins freie Spiel vs. RH/Slice nachziehen)
 - T7 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **RH-Schlagsicherheit (Feinform)** ([TE_H_T7](../7-3/TE_H_T7_RH-Schlagsicherheit.md): AW-10 → GS-G10 Griffkontrolle → GS-G11 Partner-Zuspiel → GS-G12 RH Zielfelder+Spielsituation) · **Kondi-Block heute regenerativ** (Hitze, 2× Wasserschlauch) · Louis K. nicht anwesend → Beobachtung: Thema sehr gut umgesetzt. Bei Viktor/Louis A./Finn RH-Topspin (beidhändig) Stabilisierung erkennbar (G→F) – hoch cross mit viel Spin, RH-Longline ebenfalls stabil. Finn wechselt bei kurzen/flachen Bällen zu einhändigem Schlag mit falschem Griff/Stellung → funktioniert nicht (Merkpunkt: künftig RH-Slice bei Finn gezielt aufgreifen). Spielsituation (Hauptteil II) lief sehr gut, TE insgesamt starkes Feedback. → Konsequenz T8: RH weiter ins freie Spiel nehmen; Louis K. Stand bei nächster Anwesenheit neu prüfen; RH-Slice (Finn) als nächstes Slice-Thema vormerken
 - T8 10.07. – **VH/RH-Topspin Kombistunde (Wechselübungen)** ([TE_H_T8](../7-10/TE_H_T8_VH-RH-Wechsel-Kombistunde.md): GS-G26 (RH-fokus.) → GS-G28 (adapt., RH→VH) → GL-A13 (adapt., Zielmuster RH LL → VH Cross → frei)) · Louis K. Stand wird nachgeholt (T7 nicht da) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
-- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Gelb** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 04.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster H

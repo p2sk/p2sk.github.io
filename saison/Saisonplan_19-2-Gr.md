@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen**. Die **Prüfstufe (Grün oder Gelb) wählt die Gruppe selbst** und ist noch offen. Systematik: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 19-2-Gr (Freitag, 19:00 Uhr)
@@ -69,6 +71,8 @@
 
 Prüfkarten: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Gruen.pdf` bzw. `Pruefkarte_Gelb.pdf`.
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
 ## Korrekturgrundsatz Saison
 Funktionale Korrektur am Spielziel (Richtung/Zone) + Selbstkorrektur · Beinarbeit/Recovery vor jedem Schlag · Topspin: Treffhöhe als Druckmittel · **Spaß + gemeinsames Spielen vor Wettkampfdruck**
 
@@ -93,7 +97,7 @@ Funktionale Korrektur am Spielziel (Richtung/Zone) + Selbstkorrektur · Beinarbe
 **Übergabe Charlize (Fremdbeobachtung Saisonende, nicht gemessen):** Die Gruppe wurde als möglicher Zielort für Lou Spindler aus 16-3-Gr genannt — „auch wenn der Alters- und Levelunterschied etwas größer ist. Sie lernt schnell." *Erste Hand: alle vier Spielerinnen.*
 → **Entscheidung: kein Wechsel in der Sommersaison.** Thema für den Winterblock (siehe Ausblick).
 
-- T9 04.09. – **Baseline-Durchlauf Sportabzeichen (Stufe noch offen — Gruppe vorab fragen)** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 04.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster H

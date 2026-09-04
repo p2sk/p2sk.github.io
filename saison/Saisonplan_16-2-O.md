@@ -1,3 +1,5 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 16-2-O (Freitag, 16:00 Uhr)
@@ -63,6 +65,8 @@
 
 **Realistisches Ziel:** Bronze für alle. Fabian und Linja sind die Silber-Kandidaten; Louis und Phileas brauchen bei allen Übungen den sicheren Treffer vor der Länge.
 
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
 ## Korrekturgrundsatz Saison
 Früh zum Ball / Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · Splitstep anbahnen · **kein Druck** (modal noch Rot), positiv korrigieren, nur **ein** Fehler
 
@@ -86,7 +90,7 @@ Früh zum Ball / Treffpunkt **vorn** · zuerst Selbstkorrektur (Zeit lassen) · 
 - T6 12.06. – **VH-Topspin Hinführung (Grobform)** (Reihe O-1: AW-10 → GS-O01 nahe Netz/Bauband → GS-O02 Trainerball → GS-O03 kooperativ) · kein Druck, Niveau-Split bedient → VH-Topspin eingeführt (siehe T7-Beobachtung, im Ballwechsel weitergeführt)
 - T7 03.07. *(urspr. 26.06., Hitze-Ausfall)* – **Ballwechsel auf der Midcourt-Grundlinie** ([TE_D_T7](../7-3/TE_D_T7_Ballwechsel-Grundlinie-Midcourt.md): TS-04 → KT-R17 4 Richtungen → TS-02 Koop-Rally GL → KT-R13 Ziehharmonika, Schwerpunkt GL) · Gruppe etwas weiter → Fokus Grundlinie statt Topspin; hitzeangepasst (2× Wasserschlauch) → Beobachtung: Ballwechsel wurde unter Einsatz des neu eingeführten VH-Topspins trainiert (Verzahnung T6/T7) → Konsequenz T8: VH-Topspin **reifen lassen und beobachten** (kein neues Element), Fokus weiterhin auf Grundlagen/Ballwechsel legen
 - T8 10.07. – **Grundschläge/Ballwechsel festigen, VH-Topspin verbindlich** ([TE_D_T8](../7-10/TE_D_T8_Grundschlaege-Ballwechsel-VH-Topspin.md): GS-O01 → KT-R17 (Topspin-Pflicht) → TS-02/KT-R13 (Topspin-Pflicht)) · kein neues Element (Konsequenz T7) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
-- T9 04.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 04.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster D

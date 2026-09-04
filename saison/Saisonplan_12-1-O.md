@@ -1,13 +1,14 @@
+---
+---
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🟠 Orange). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 12-1-O (Samstag, 12:00 Uhr)
 **Cluster:** D – Orange | **Stufe:** 🟠 Orange (etabliert auf Midcourt, erste taktische Entscheidungen) | **Prüfstufe:** 🟠 Orange
-**Trainer:** Ben / Jessalyn → **Ben allein ab T9 (05.09.)** | **Gruppengröße:** 5 (Anna Böcker, Anouk Weber, Emiliya Siamenava, Luna Huseni, Marie Böcker)
+**Trainer:** Ben / Jessalyn → **Ben allein ab T9 (05.09.)** | **Gruppengröße:** 4 (Anna Böcker, Anouk Weber, Emiliya Siamenava, Marie Böcker)
 **Saisonstart:** 16.05.2026 | **Termine:** ~15 | **Puffer:** Sa 10.10., 17.10., 24.10.
 
 ## Einordnung
 - Etabliert auf Midcourt mit Orangeball; erste taktische Entscheidungen einbaubar – modal **VH-Topspin G**, weiter als 16-2-O/18-3-O
-- Vier der fünf Kinder trainieren zusätzlich freitags: Anna + Anouk in **18-2-O**, Emiliya + Marie in **18-3-O** → Standorte von dort übernommen; **Luna Huseni** ohne Parallel-Plan → T1 separat erheben
 - Zwei Trainer: Stationsbetrieb oder parallele Zuspiele für Niveau-Splits gut umsetzbar
 - Spielsituationen/Taktikanteile bewusst einsetzen (Cooperation vor Competition)
 
@@ -22,7 +23,6 @@
 | Anna Böcker | G | G | – | G | – | G | VH-Topspin G; RH-Topspin anbahnen |
 | Marie Böcker | G | G | – | G | – | G | VH-Topspin am weitesten; RH-Topspin anbahnen |
 | Emiliya Siamenava | G | – | – | G | – | G | ballwechsel-stark (Benchmark); Topspin in Anbahnung |
-| Luna Huseni | G | G | – | - | – | G |  |
 
 
 **→ Saison-Schwerpunkt:** VH-Topspin festigen + RH-Topspin Grobform breit anbahnen (nur Anouk sicher), Aufschlag von oben festigen, Griffwechsel + Cross/Longline-Steuerung, hin zu Aufschlag/Return-Spieleröffnung, Taktik und Doppel/Turnierform.
@@ -30,7 +30,6 @@
 ## Saison-Schwerpunkt
 > Abgeleitet aus der Standortbestimmung; Anker in Cluster D (Orange). Keine Phasen-Prosa.
 
-- **VH-Topspin Grobform festigen** (Cluster D · O-1, GS-O01/02/03) – 3/4 G; Emiliya/Luna anbahnen
 - **RH-Topspin Grobform (beidhändig)** (Cluster D · O-6) – nur Anouk G; Rest neu
 - **Griffwechsel VH/RH** (Cluster D · *F-07 offen, nur AW-07*) – östlich → semi-westlich im Spiel
 - **Aufschlag von oben festigen** (Cluster D · AS-Grobform, AS-G03/04) – alle G → Aufschlagfeld treffen
@@ -44,7 +43,6 @@
 
 | Prio | Thema | Schwerpunktziel | Reihe/Ziel (Cluster) | Voraussetzung | Status |
 |---|---|---|---|---|---|
-| 🔴 | VH-Topspin Grobform festigen | Niedrig-Hoch, Treffpunkt hüfthoch, Konstanz | D · O-1 (GS-O01/02/03) | Grundschläge Midcourt | erledigt T1–T2 (3/4 G; Emiliya/Luna anbahnen) |
 | 🔴 | RH-Topspin Grobform (beidhändig) | gleiche Bewegungslogik wie VH | D · O-6 | RH-Grundschlag | läuft T3 (nur Anouk G) |
 | 🟠 | Griffwechsel VH/RH | östlich → semi-westlich im Spiel wechseln | D · *F-07 offen (AW-07)* | VH + RH-Grobform | läuft T4 |
 | 🟠 | Aufschlag von oben festigen | Wurf–Treffpunkt–Schwung, Aufschlagfeld treffen | D · AS-Grobform (AS-G03/04) | Angabe v. unten | → Saison 2 (alle G → Anwendung steigern) |
@@ -62,7 +60,11 @@
 
 **Besonderheit der Stufe:** Neu gegenüber Rot ist die **Längensteuerung**: Treffer über die 4,5-m-Linie zählen doppelt. Aufschlag von oben, 2 × 6 Bälle.
 
-**Realistisches Ziel:** Vier von fünf Kindern werden freitags geprüft (Anouk Weber, Anna Böcker, Emiliya Siamenava, Marie Böcker — alle auf Orange). Die Stunde am 10.10. ist deshalb überwiegend Vorbereitung statt Abnahme.
+**Realistisches Ziel:** **Keine eigenen Prüflinge** — alle vier Kinder (Anouk Weber, Anna Böcker, Emiliya Siamenava, Marie Böcker) werden freitags auf Orange geprüft. Die Gruppe läuft samstags deshalb auf **Spur B**: sie bahnt die Aufgabe an, die am folgenden Freitag gewertet wird, und wertet selbst nicht.
+
+**Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
+
+**Samstags-Spur B — diese Gruppe wertet nicht.** Alle Kinder trainieren freitags und werden dort abgenommen. Der Samstag liegt nach dem Freitagstermin; eine Wiederholung käme zu spät. Die Gruppe bahnt deshalb jeweils die Aufgabe an, die am **folgenden** Freitag gewertet wird — 05.09. Vorhand · 12.09. Rückhand · 19.09. Vorhand-Volleys · 26.09. Rückhand-Volleys · 10.10. gezielte Arbeit an den schwächsten Aufgaben für die Nachholversuche am 16.10., sonst freies Spiel.
 
 ## Korrekturgrundsatz Saison
 Schlägerkopf unter dem Ball (Niedrig-Hoch) · Ausschwung über die Gegenschulter · Splitstep vor jedem Schlag · Treffpunkt vor dem Körper · funktionale Korrektur am Ziel in Anwendung/Taktik
@@ -71,7 +73,6 @@ Schlägerkopf unter dem Ball (Niedrig-Hoch) · Ausschwung über die Gegenschulte
 - **Anouk Weber:** am weitesten (VH+RH-Topspin G) → fordern: RH/Steuerung/Taktik, taktische Entscheidungen
 - **Anna + Marie Böcker:** VH-Topspin G, RH-Topspin anbahnen
 - **Emiliya Siamenava (Benchmark):** ballwechsel-stark → als Zuspielpartnerin/Vorbild; Topspin anbahnen
-- **Luna Huseni:** Standort in T1 bestätigen; an Gruppen-Niveau heranführen
 - **Alle:** Splitstep/Beinarbeit neu aufbauen („–")
 - Bei 5 Kindern + 2 Trainern: Stationsbetrieb (Topspin-Zuspiel-Station + freies Spielfeld); Fortgeschrittenere früher in Spielsituationen führen
 
@@ -86,7 +87,7 @@ Schlägerkopf unter dem Ball (Niedrig-Hoch) · Ausschwung über die Gegenschulte
 - T5 13.06. – Aufschlag von oben festigen (geplant; 1-2-3-Rhythmus, Rotation 2+2 ins Feld, 1v1 mit Aufschlag) → Beobachtung nachzutragen; nächstes Thema vorgemerkt: Cross/Longline-Steuerung bzw. AS+Return-Spieleröffnung
 - T6 04.07. – **RH-Topspin Grobform festigen** (TE_12-1-O_T6_RH-Topspin-Grobform.md) · *Thema-Herleitung: RH-Topspin Grobform statt Cross/Longline (nur Anouk bislang G)* → **Feedback steht noch aus**
 - T7 11.07. – **Cross/Longline VH+RH steuern** ([TE_12-1-O_T7](../7-11/TE_12-1-O_T7_Cross-Longline-Steuerung.md): GS-O07 → GS-O09 → GS-O08) → *Beobachtung nicht nachgetragen (Sommerferien + Trainerwechsel) — Eintrag geschlossen*
-- T9 05.09. – **Baseline-Durchlauf Sportabzeichen Orange** (alle fünf Prüfungsübungen als Standortbestimmung; Punktekarten je Kind anlegen, Platzmarkierungen setzen, Ablauf erklären) → Punktestände + Beobachtung nach der Einheit nachtragen
+- T9 05.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 / Cluster F
