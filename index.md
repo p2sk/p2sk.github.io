@@ -147,6 +147,11 @@ Die Inhalte der Saisonpläne sind ab T9 **eingefroren**; das gesamte Resttrainin
 
 ## Verfügbare Trainingseinheiten
 
+| Datum | Datei |
+|---|---|
+| Fr, 04.09.2026 | [zur Übersicht](./9-4/index.md) |
+| Sa, 05.09.2026 | [zur Übersicht](./9-5/index.md) |
+
 
 ---
 
