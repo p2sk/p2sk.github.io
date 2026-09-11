@@ -151,7 +151,7 @@ Die Inhalte der Saisonpläne sind ab T9 **eingefroren**; das gesamte Resttrainin
 |---|---|
 | Fr, 04.09.2026 | [zur Übersicht](./9-4/index.md) |
 | Sa, 05.09.2026 | [zur Übersicht](./9-5/index.md) |
-
+| Fr, 11.09.2026 | [zur Übersicht](./9-11/index.md) |
 
 ---
 
