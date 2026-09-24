@@ -29,12 +29,13 @@ Die Inhalte der Saisonpläne sind ab T9 **eingefroren**; das gesamte Resttrainin
 | 15:00 | 15-2-RO + 15-3-RO | Rot/Orange | 🟠 D | Pascal · 2 Plätze | 9 | 🟠 Orange | [→](./saison/Saisonplan_15-2-15-3-RO.md) |
 | 16:00 | 16-1-G | Grün/Gelb–Gelb (++) | 🟡 H | Pascal | 4 | 🟡 Gelb | [→](./saison/Saisonplan_16-1-G.md) |
 | 16:00 | 16-2-O | Rot/Orange–Orange (+) | 🟠 D | Ben | 5 | 🟠 Orange | [→](./saison/Saisonplan_16-2-O.md) |
-| 16:00 | 16-3-Gr | Orange | 🟠 D | Pascal · 2. Platz | 5 | 🟢 Grün | [→](./saison/Saisonplan_16-3-Gr.md) |
+| 16:00 | 16-3-Gr | Orange | 🟠 D | Pascal · 2. Platz | 3 | 🟢 Grün | [→](./saison/Saisonplan_16-3-Gr.md) |
 | 17:00 | 17-1-O + 17-2-O | Orange/Grün | 🟢 F | Pascal · 2 Plätze | 6 | 🟢 Grün | [→](./saison/Saisonplan_17-1-17-2-O.md) |
 | 17:00 | 17-3-R | Rot | 🔴 B | Ben | 6 | 🔴 Rot | [→](./saison/Saisonplan_17-3-R.md) |
 | 18:00 | 18-1-R | Blau/Rot–Rot | 🔴 B | Ben | 7 | 🔴 Rot | [→](./saison/Saisonplan_18-1-R.md) |
 | 18:00 | 18-2-O + 18-3-O | Orange | 🟠 D | Pascal · 2 Plätze | 7 | 🟠 Orange | [→](./saison/Saisonplan_18-2-18-3-O.md) |
-| 19:00 | 19-2-Gr | Grün/Gelb (++) | 🟡 H | Pascal | 4 | 🟢 / 🟡 – Gruppe entscheidet | [→](./saison/Saisonplan_19-2-Gr.md) |
+| 19:00 | 19-3-Gr | Grün | 🟢 F | Ben | 2 | 🟢 | -- |
+| 19:00 | 19-2-Gr | Grün | 🟡 H | Pascal | 4 | 🟢 | [→](./saison/Saisonplan_19-2-Gr.md) |
 
 ### Trainer-Matrix Freitag — ab 04.09.2026
 
@@ -44,7 +45,7 @@ Die Inhalte der Saisonpläne sind ab T9 **eingefroren**; das gesamte Resttrainin
 | 16:00 | [16-1-G](./saison/Saisonplan_16-1-G.md) 🟡 · [16-3-Gr](./saison/Saisonplan_16-3-Gr.md) 🟢 · 2 Plätze | [16-2-O](./saison/Saisonplan_16-2-O.md) 🟠 |
 | 17:00 | [17-1+17-2-O](./saison/Saisonplan_17-1-17-2-O.md) 🟢 · 2 Plätze | [17-3-R](./saison/Saisonplan_17-3-R.md) 🔴 |
 | 18:00 | [18-2+18-3-O](./saison/Saisonplan_18-2-18-3-O.md) 🟠 · 2 Plätze | [18-1-R](./saison/Saisonplan_18-1-R.md) 🔴 |
-| 19:00 | [19-2-Gr](./saison/Saisonplan_19-2-Gr.md) 🟡 | — |
+| 19:00 | [19-2-Gr](./saison/Saisonplan_19-2-Gr.md) 🟡 | 19-3-Gr 🟢 |
 
 ---
 
