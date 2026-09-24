@@ -1,9 +1,7 @@
----
----
-> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🔴 Rot). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
+> ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen**-Fahrplan (Stufe 🔴 Rot) — **die Gruppe trainiert mit, wird 2026 aber nicht gewertet** (Entscheidung 14.09., `../Wertungen_2026_Notizen.md`). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 11-1-R (Samstag, 11:00 Uhr)
-**Cluster:** B – Rot Einsteiger | **Stufe:** 🔴 Rot | **Prüfstufe:** 🔴 Rot
+**Cluster:** B – Rot Einsteiger | **Stufe:** 🔴 Rot | **Prüfstufe:** – (trainiert nach 🔴-Fahrplan, 2026 keine Wertung)
 **Trainer:** Charlize / Jessalyn (T1–T8) → **Ben allein ab T9 (05.09.)** | **Gruppengröße:** 9
 **Saisonstart:** 23.05.2026 | **Termine:** ~15 | **Puffer:** Sa 17.10., 24.10.
 
@@ -62,6 +60,8 @@
 | 🟢 | Mini-Match / Spielform Doppel-Cross | Punkt cross gewinnen, einfache Doppelregel | B · DP-R1 (DP-T01/A01) | Ballwechsel halten | läuft (Pflichtschluss) |
 
 ## Prüfstufe Herbstblock — 🔴 Rot
+
+> **Keine Wertung 2026** (Entscheidung 14.09.) — Inhalte unten dienen nur als Trainingsrahmen.
 > Vollständige Aufgaben und Wertung: `../../Referenz/DTB-Sportabzeichen/Pruefkarte_Rot.pdf`. Maximal **32 Punkte** · Bronze ab 8 · Silber ab 16 · Gold ab 24.
 
 **Platzaufbau:** 2-Meterlinie vor dem Netz (Volley-Position) · Sprint-Hütchen 1–5 im Abstand von je **3 m** um die Mittelmarkierung.

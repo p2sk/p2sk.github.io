@@ -1,5 +1,3 @@
----
----
 > ❄️ **Inhalte eingefroren ab T9 (04.09.2026).** Die Themenliste unten wird nicht mehr fortgeschrieben — das Resttraining folgt dem **DTB-Sportabzeichen** (Prüfstufe 🔴 Rot). Systematik und Prüfungsübungen: `../../Referenz/DTB-Sportabzeichen.md`, Aufstellung und Termine: `../index.md`. Der Entwicklungslog läuft weiter und wird ab T9 vom Fahrplan gesteuert.
 
 # Saisonplan – 15-1-R (Freitag, 15:00 Uhr)
@@ -68,7 +66,7 @@
 
 **Wertung läuft mit — ein Versuch je Aufgabe.** Jede Woche bereitet eine Prüfungsaufgabe vor; am Stundenende wird sie abgerufen und gewertet. Damit sind Leistungsüberprüfung und Lernzielkontrolle dasselbe. Es gibt **keinen Vorab-Durchlauf und keinen Prüfungstag**, und **keine Verbesserungsversuche** — Mehrfachversuche würden die Leistung verwaschen. **Nachholen ja, Verbessern nein:** wer den Wertungstermin verpasst hat, bekommt seinen einen Versuch am 16.10. (Fr) bzw. 10.10. (Sa). Bedingungen jede Woche identisch: Markierungen stehen, Trainer-Anspiel von der Mittelposition der Grundlinie, zwei Probebälle, unpassendes Zuspiel wird wiederholt. **Die Prüfkarten bleiben beim Trainer** (Klemmbrett pro Gruppe) und werden am letzten Tag mit der Urkunde ausgehändigt.
 
-**🔴 Rot hat einen eigenen Terminrhythmus.** Rot kennt nur *ein* Volley-Item (8 Bälle, erst 4 cross, dann 4 longline) statt zweier. Freitag: 11.09. Vorhand · 18.09. Rückhand · 25.09. Volleys komplett · **02.10. Aufschlag** · **09.10. nur Fächerlauf**.
+**🔴 Rot hat einen eigenen Terminrhythmus.** Rot kennt nur *ein* Volley-Item (8 Bälle, erst 4 cross, dann 4 longline) statt zweier — dadurch ein Termin Vorsprung gegenüber den anderen Stufen, der ab Aufgabe 3 für eine eigene Vorbereitungswoche genutzt wird. Freitag: 11.09. Vorhand · 18.09. Rückhand · **25.09. Volleys anbahnen (keine Wertung)** · **02.10. Volleys komplett werten** · **09.10. Aufschlag + Fächerlauf** (wie die übrigen Stufen ab diesem Termin).
 
 ## Korrekturgrundsatz Saison
 Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung · zuerst Selbstkorrektur (Zeit lassen)
@@ -92,7 +90,7 @@ Treffpunkt **seitlich vorne** · Schlägerkopf unter dem Ball · Ballbeobachtung
 **Übergabe Charlize (Fremdbeobachtung Saisonende, nicht gemessen):** „Gruppe so lassen. Sehr spielorientiert, alle ungefähr auf einem Level. Schwerpunkt bisher vor allem Ballgefühl; Vorhand klappt schon, aber noch keine Technik. Viel mit Fangen und Kontrollball gearbeitet." *Erste Hand: alle sechs Kinder.*
 → **Konsequenz für T9:** Das Prüfungsformat (Trainer-Anspiel von der Mittelposition, Bewegung zum Ball und zurück) ist der Gruppe neu — am Kickoff (T9) reichlich Erklär- und Demonstrationszeit einplanen — unter der Ein-Versuch-Regel kostet ein missverstandener Ablauf echte Punkte. Bronze als Ziel kommunizieren, auch gegenüber den Eltern.
 
-- T9 04.09. – **Kickoff, ohne Wertung** (Fahrplan vorstellen, Prüfkarten anlegen und ausgeben, alle fünf Prüfungsaufgaben demonstrieren, Fächerlauf als Übungsdurchgang; Platzmarkierungen setzen) → Beobachtung nach der Einheit nachtragen: Wer hat welche Aufgabe nicht verstanden?
+- T9 04.09. – **Kickoff gelaufen** (Fahrplan vorgestellt, Prüfkarten angelegt, fünf Aufgaben demonstriert, Fächerlauf als Übungsdurchgang) → insgesamt gut angenommen. Detailbeobachtung nachtragen: Wer hat welche Aufgabe nicht verstanden?
 - T<n> <Datum> – <Prüfungsübung / Punktestand> → <Konsequenz: nächste Übung / wiederholen>
 
 ## Ausblick Saison 2 (Folgesaison in Rot)
